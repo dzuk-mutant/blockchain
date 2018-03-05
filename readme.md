@@ -110,7 +110,7 @@ These are safe spaces for fascist, violent and shitty ideologies, including:
 <br/>
 
 
-*(Links here are resources or definitions from experienced anti-hate group NGO, sites that are experienced at documenting hate groups or journalistic sources. I'll keep trying to add links as I go along.)*
+*(Links here are resources or definitions from experienced anti-hate group NGOs, sites that are experienced at documenting hate groups or journalistic sources. I'll keep trying to add links as I go along.)*
 
 - White Supremacy / White Nationalist [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/white-nationalist)
 - Alt-Right ( [[link 1]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) [[link 2]](https://alternativeright.hopenothate.com/) )
