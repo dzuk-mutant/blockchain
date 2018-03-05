@@ -2,15 +2,21 @@
 {
 	"instances":  [
 		{
-			"name": "noagendasocial.com",
+			"name": "No Agenda Social",
 			"url": 	"https://noagendasocial.com",
-			"reasons": ["harrassment", "FVZ"]
+			"reasons": ["harrassment"]
+		},
+
+		{
+			"name": "No Agenda Social",
+			"url": 	"https://noagenda.social",
+			"reasons": ["harrassment"]
 		},
 
 		{
 			"name": "sunshinegardens.org",
 			"url": 	"https://sunshinegardens.org",
-			"reasons": ["harrassment", "FVZ"]
+			"reasons": ["harrassment"]
 		},
 
 		{
@@ -24,6 +30,12 @@
 			"url": 	"https://freespeech.firedragonstudios.com",
 			"reasons": ["spam"]
 		},
+
+
+
+
+
+
 
 		{
 			"name": "shitposter.club",
@@ -98,6 +110,12 @@
 		},
 
 		{
+			"name": "social.hidamari.blue",
+			"url": 	"https://social.hidamari.blue",
+			"reasons": ["FVZ"]
+		},
+
+		{
 			"name": "libertarianism.club",
 			"url": 	"https://libertarianism.club",
 			"reasons": ["FVZ"]
@@ -129,7 +147,7 @@
 		{
 			"name": "gs.archae.me",
 			"url": 	"https://gs.archae.me",
-			"reasons": ["FVZ"]
+			"reasons": ["FVZ", "lolicon"]
 		},
 
 		{

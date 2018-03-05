@@ -2,22 +2,23 @@
 
 If you're looking to score the latest in hot scam-tokens, sorry, I can't help you. This is a chain of blocks, specifically blocks for ActivityPub/OStatus instances.
 
-This is the first version! Please check it out and help me iron out the bugs.
+This is very new! Please check it out and help me iron out the bugs.
 
 ---
 
 This is a brief, machine-readable version of my long and documented [human-readable version](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23).
 
-If you're new to this, I recommend you check the human-readable one for all these instances first just so you know what you're doing and who you're blocking. I also try to explain what the reasons are below if you're not sure.
+If you're new to this list and the kinds of instances that get blocked from Mastodon, I recommend you check the [human-readable one](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23) for all these instances first just so you know what you're doing and who you're blocking. I also try to explain what the reasons are below  too because this JSON blocklist is structured a bit differently.
 
+I'm not much of a programmer so I don't have any scripts to offer you that can automatically apply blocks on your Mastodon instance from this JSON file, but I assume it would probably be kind of simple to perform.
 
 ---
 
 ## Structure
 
-So the blocklist has two arrays, one with metadata and one with the actual instances.
+So the blocklist is basically just one array with the instances in it.
 
-Each instance has a list of reasons as to why they are on the blocklist. I'm not that much of a programmer, but I assume you can use those to filter which instances you want to block.
+Each instance has a URL and a list of reasons as to why they are on the blocklist. I'm not that much of a programmer, but I assume you can use those to filter which instances you want to block.
 
 
 ---
@@ -46,7 +47,7 @@ Here are some examples! Take your pick:
 
 I could be here all day listing these probably.
 
-The reason I don't separate these is because it's extra work for no real purpose. One of these is bad enough, and if you're the kind of person to go 'well, I don't like people being mean to gays but I do think we should put all muslims on some kind of watch list' then this list isn't for you.
+The reason I don't separate different kinds of bigotry is because it's extra work for no real purpose. One of these is bad enough, and if you're the kind of person to go 'well, I don't like people being mean to gays but I do think we should put all muslims on some kind of watch list' then this list isn't for you.
 
 Consider this category as *FVZ-lite*. ie. People who spout shitty harmful things but aren't advocating for ethnostates or the subjugation of women. Bigotry is automatically assumed in FVZ.
 
@@ -114,3 +115,7 @@ The administration enables spam accounts.
 ### untagged NSFW
 
 It is what it is really.
+
+### unresponsive
+
+Administration doesn't appear to be responsive to moderation messages.
