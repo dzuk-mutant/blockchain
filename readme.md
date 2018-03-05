@@ -1,6 +1,8 @@
 # Blockchain (not that kind)
 
-If you're looking to score the latest in hot scam-tokens, sorry, I can't help you. This is a chain of blocks, specifically blocks for ActivityPub/OStatus instances.
+If you're looking to score the latest in hot scam-tokens, sorry, I can't help you. 
+
+This is a *chain of blocks*, specifically blocks for instances that federate with Mastodon instances, whether they are other Mastodon instances, or another kind of instance like GNUSocial, Pleroma, etc.
 
 This is very new! Please check it out and help me iron out the bugs.
 
@@ -11,6 +13,16 @@ This is a brief, machine-readable version of my long and documented [human-reada
 If you're new to this list and the kinds of instances that get blocked from Mastodon, I recommend you check the [human-readable one](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23) for all these instances first just so you know what you're doing and who you're blocking. I also try to explain what the reasons are below  too because this JSON blocklist is structured a bit differently.
 
 I'm not much of a programmer so I don't have any scripts to offer you that can automatically apply blocks on your Mastodon instance from this JSON file, but I assume it would probably be kind of simple to perform.
+
+---
+
+## Why blocklist?
+
+In short...
+
+- You want to keep illegal content (eg. child porn) off your servers.
+- You want to promote healthy discussion and interactions between people that isn't poisoned by shitty, violent ideologies and dangerous conspiracy theories.
+- You want your users to enjoy your instance and not have to worry about being harrassed or have shit flinged at them from people who don't know better.
 
 ---
 
@@ -25,7 +37,7 @@ You can follow [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain) 
 I will only be accepting issues if:
 
 - There's a technical fault
-- Someone is listed by mistake (ie. the reasons I thought they should be on the blocklist for are not accurate)
+- An instance is listed by mistake (ie. the reasons I thought they should be on the blocklist for are not accurate)
 
 If you have a philosophical problem with this list, I don't have the energy to debate this and if you try, I will close the issue. 
 
@@ -37,7 +49,7 @@ I made [an FAQ](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24) a
 
 So the blocklist is basically just one array with the instances in it.
 
-Each instance has a URL and a list of reasons as to why they are on the blocklist. I'm not that much of a programmer, but I assume you can use those to filter which instances you want to block.
+Each instance has a URL and a list of reasons as to why they are on the blocklist. I'm not that much of a programmer, but I assume you can use those to filter which instances you want to block and how severe you want it to be.
 
 
 ---
@@ -46,7 +58,7 @@ Each instance has a URL and a list of reasons as to why they are on the blocklis
 ## Reason tags
 These are the things that I personally have specific evidence of. These instances may be guilty of more things, but I'm only listing what I have to go by.
 
-'A-' prefixes mean that the administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
+'A-' prefixes mean that the administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting other users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
 
 
 ### advertising
@@ -59,9 +71,9 @@ Here are some examples! Take your pick:
 
 - racism
 - homophobia
-- transphobia / TERFs / fake goths
+- transphobia / [TERFs](theterfs.com/) / fake goths
 - queerphobia
-- anti-muslim bigorty
+- anti-muslim bigoty / islamophobia
 - ... probably way more!
 
 I could be here all day listing these probably.
@@ -125,7 +137,9 @@ For the lack of a better term. This refers to just one instance right now, Count
 
 ### lolicon
 
-Sexualised depictions of minors. (While 'Lolicon' actually refers to a particular subset, westerners tend to use it to mean anything illustrated and under-age)
+Sexualised depictions of minors.
+
+While 'Lolicon' actually refers to a particular subset of illustrated child porn, westerners tend to use it to mean any illustrated child pornography, and I'm gonna use it that way because it's a really convenient label.
 
 ### spam
 
