@@ -76,7 +76,7 @@ Here are some examples! Take your pick:
 - homophobia
 - anti-LGBTQ+++ [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
 - TERFs / fake goths [[link]](theterfs.com/) 
-- anti-muslim bigoty [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-muslim)
+- anti-muslim bigotry [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-muslim)
 - ... probably way more!
 
 I could be here all day listing these probably.
