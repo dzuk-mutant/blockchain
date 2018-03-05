@@ -14,6 +14,25 @@ I'm not much of a programmer so I don't have any scripts to offer you that can a
 
 ---
 
+## Updates
+
+You can follow [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain) for updates.
+
+---
+
+## Issues?
+
+I will only be accepting issues if:
+
+- There's a technical fault
+- Someone is listed by mistake (ie. the reasons I thought they should be on the blocklist for are not accurate)
+
+If you have a philosophical problem with this list, I don't have the energy to debate this and if you try, I will close the issue. 
+
+I made [an FAQ](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24) a while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
+
+---
+
 ## Structure
 
 So the blocklist is basically just one array with the instances in it.
@@ -25,7 +44,7 @@ Each instance has a URL and a list of reasons as to why they are on the blocklis
 
 
 ## Reason tags
-These are the things that I personally have specific evidence of. These instances may be guilty of more things.
+These are the things that I personally have specific evidence of. These instances may be guilty of more things, but I'm only listing what I have to go by.
 
 'A-' prefixes mean that the administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
 
