@@ -23,6 +23,7 @@ In short...
 - You want to keep illegal content (eg. child porn) off your servers.
 - You want to promote healthy discussion and interactions between people that isn't poisoned by shitty, violent ideologies and dangerous conspiracy theories.
 - You want your users to enjoy your instance and not have to worry about being harrassed or have shit flinged at them from people who don't know better.
+- You want to defend the freedom of people to choose their pronouns, how they want to represent themselves, who they want to fuck and to defend the right of these people to speak without fear of inane, hateful bullshit.
 
 ---
 
@@ -39,7 +40,7 @@ I will only be accepting issues if:
 - There's a technical fault
 - An instance is listed by mistake (ie. the reasons I thought they should be on the blocklist for are not accurate)
 
-If you have a philosophical problem with this list, I don't have the energy to debate this and if you try, I will close the issue. 
+If you have a philosophical problem with this list, I don't personally have the energy to debate this and if you try, I will close the issue. 
 
 I made [an FAQ](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24) a while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
 
@@ -71,16 +72,16 @@ Here are some examples! Take your pick:
 
 - racism
 - homophobia
-- transphobia / [TERFs](theterfs.com/) / fake goths
+- transphobia / TERFs / fake goths [[link 1]](theterfs.com/) [[link 2]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
 - queerphobia
-- anti-muslim bigoty / islamophobia
+- anti-muslim bigoty / islamophobia [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-muslim)
 - ... probably way more!
 
 I could be here all day listing these probably.
 
 The reason I don't separate different kinds of bigotry is because it's extra work for no real purpose. One of these is bad enough, and if you're the kind of person to go 'well, I don't like people being mean to gays but I do think we should put all muslims on some kind of watch list' then this list isn't for you.
 
-Consider this category as *FVZ-lite*. ie. People who spout shitty harmful things but aren't advocating for ethnostates or the subjugation of women. Bigotry is automatically assumed in FVZ.
+Maybe `FVZ` and `bigotry` will eventually be merged since they're both bigoted and while `FVZ` people actively advocate for harmful consequences and `bigotry` doesn't necessarily, bigoted behaviour *still has harmful real-world consequences*.
 
 
 ### harrassment (w/ A-harrassment)
@@ -91,9 +92,9 @@ The administration has engaged in, encouraged or endorsed harrassment, whether w
 
 Corporate-owned space.
 
-(*Following text copy-pasted from the [human-readable list](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)*)
+(*Following text mostly copy-pasted from the [human-readable list](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)*)
 
-This may not become a serious issue at the moment, but I think it could be a really important thing to keep an eye on for the future. I think that corporate ownership generally conflicts with the idea of social spaces as an emotionally supportive environment (how many of us left Twitter because it tolerates Nazis and doesn't have any real ethical or moral positions?). 
+This may not become a serious issue at the moment, but I think it could be a really important thing to keep an eye on for the future. I think that corporate ownership generally conflicts with the idea of social spaces as an emotionally supportive environment (how many of us left Twitter because it tolerates Nazis, doesn't have any real ethical or moral positions, and mines data?). 
 
 They also conflict with the idea of intermingling, spaces with a cooperative relationship to each other (ie. our instances) - corporations expect to dominate 'markets', we provide services based on what we can afford to those who want and need them. I would say that our kind of social networking is potentially an existential threat to corporate social networking, and we shouldn't let them have an inch because they will take a mile. If they ever take an interest in decentralised social networking, they will only care about us insofar that we're good PR for them.
 
@@ -102,22 +103,40 @@ I'm not necessarily saying block these right now (I'm not apart from Pawoo, for 
 
 ### FVZ (w/ A-FVZ)
 
-Stands for 'Fascist speech/Violent speech/Zero-moderation'. 
+Stands for **F**ascist speech / **V**iolent speech / **Z**ero-moderation. 
 
 These are safe spaces for fascist, violent and shitty ideologies, including:
 
+<br/>
+
+
+*(Links here are resources or definitions from experienced anti-hate group NGO, sites that are experienced at documenting hate groups or journalistic sources. I'll keep trying to add links as I go along.)*
+
+- White Supremacy / White Nationalist [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/white-nationalist)
+- Alt-Right ( [[link 1]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) [[link 2]](https://alternativeright.hopenothate.com/) )
+- Identitarian ( [[link 1]](https://www.splcenter.org/hatewatch/2015/10/12/american-racists-work-spread-%E2%80%98identitarian%E2%80%99-ideology) [[link 2]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) )
+- Neo-Nazi [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-nazi)
+- Male Supremacy [[link that basically covers all the sub-groups below]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) 
+	- Manosphere [[link]](http://www.hopenothate.org.uk/2017/10/24/hope-not-hate-explains-manosphere/)
+	- The Red Pill
+	- MRA / MRM
+	- Pick-up Artistry (PUA)
+	- MGTOW
+	- Incel [[link]](https://rationalwiki.org/wiki/Manosphere_glossary#Incel)
+- GamerGate [[link 1]](https://rationalwiki.org/wiki/Gamergate) [[link 2]](https://www.theguardian.com/technology/2014/oct/13/gamergate-right-wing-no-neutral-stance)
+- Anti-LGBT [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
+- ...and probably even more awful shit! I will detail them later.
 
 
 
-- Alt-Right ( [[link 1]](http://www.hopenothate.org.uk/wp-content/uploads/2017/07/Defend-Europe-Briefing_210717.pdf) [[link 2]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) [[link 3]](https://alternativeright.hopenothate.com/) )
-- Identitarian ( [[link 2]](https://www.splcenter.org/hatewatch/2015/10/12/american-racists-work-spread-%E2%80%98identitarian%E2%80%99-ideology) [[link 2]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) )
-- GamerGate
-- [Male Supremacy](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) ([Manosphere](http://www.hopenothate.org.uk/2017/10/24/hope-not-hate-explains-manosphere/), Red Pill, MRA, etc.)
-- ...and even more awful shit! I will detail them later.
 
-*(links here are links to resources from experienced anti-hate group NGOs, I'll keep trying to add links as I go along)*
+
+
+<br/>
 
 The reason they are all in one category is that the borders between each other are very fuzzy (they have great ideological similarities), organisations in these areas tend to be tightly related and connected to each other and one particular branch is often a gateway to another.
+
+Not even this categorisation is entirely neat - White Supremacy usually necessitates Male Supremacy (and probably even more).
 
 Not all of these instances necessarily have all of these things, and there is a spectrum to the volume of this content. But this shit is still ultimately toxic and not what you should be allowing if you want to make your instance safe and pleasant for people who aren't violent and have reasonable things to say.
 
@@ -133,7 +152,7 @@ Oxford Dictionary:
 
 For the lack of a better term. This refers to just one instance right now, Counter.Social.
 
-[Check out my human-readable blocklist](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23) for the summary on them.
+[Check out my human-readable blocklist](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23) for the summary on them. They are *pretty bad*.
 
 ### lolicon
 
