@@ -59,6 +59,8 @@ Each instance has a URL and a list of reasons as to why they are on the blocklis
 ## Reason tags
 These are the things that I personally have specific evidence of. These instances may be guilty of more things, but I'm only listing what I have to go by.
 
+You can use reason tags to filter which instance you want to block and how badly you want to do it.
+
 'A-' prefixes mean that the administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting other users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
 
 
@@ -144,9 +146,11 @@ Not all of these instances necessarily have all of these things, and there is a 
 <br/>
 
 
-Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of women, racial minorities, trans people, queer people, etc.
+Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of women racial minorities, trans people, queer people, etc. (it can vary between the groups, but there's always at least one group who they would like to deprive the rights of).
 
-`A-FVZ` instances are often naive in what they say about this issue, believing that all forms of speech can coexist, even when some forms of speech (like hate speech), naturally inhibit or exclude other forms of speech.
+<br/>
+
+`A-FVZ` instances are often naive in what they say about this issue, believing that all forms of speech can coexist, even when some forms of speech (like hate speech), naturally inhibit or exclude other forms of speech. So even if they claim not to, they have sided with these awful people in what they are doing.
 
 
 ### jingoism

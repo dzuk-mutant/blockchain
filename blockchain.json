@@ -3,31 +3,31 @@
 	"instances":  [
 		{
 			"name": "No Agenda Social",
-			"url": 	"https://noagendasocial.com",
+			"domain": 	"noagendasocial.com",
 			"reasons": ["harrassment"]
 		},
 
 		{
 			"name": "No Agenda Social",
-			"url": 	"https://noagenda.social",
+			"domain": 	"noagenda.social",
 			"reasons": ["harrassment"]
 		},
 
 		{
 			"name": "sunshinegardens.org",
-			"url": 	"https://sunshinegardens.org",
+			"domain": 	"sunshinegardens.org",
 			"reasons": ["harrassment"]
 		},
 
 		{
 			"name": "freespeech.firedragonstudios.com",
-			"url": 	"https://freespeech.firedragonstudios.com",
+			"domain": 	"freespeech.firedragonstudios.com",
 			"reasons": ["harrassment", "bigotry"]
 		},
 
 		{
 			"name": "2.distsn.org",
-			"url": 	"https://freespeech.firedragonstudios.com",
+			"domain": 	"freespeech.firedragonstudios.com",
 			"reasons": ["spam"]
 		},
 
@@ -39,97 +39,97 @@
 
 		{
 			"name": "shitposter.club",
-			"url": 	"https://shitposter.club",
+			"domain": 	"shitposter.club",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "rainbowdash.net",
-			"url": 	"https://rainbowdash.net",
+			"domain": 	"rainbowdash.net",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "freezepeach.xyz",
-			"url": 	"https://freezepeach.xyz",
+			"domain": 	"freezepeach.xyz",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "woofer.alfter.us",
-			"url": 	"https://woofer.alfter.us",
+			"domain": 	"woofer.alfter.us",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "social.au2pb.net",
-			"url": 	"https://social.au2pb.net",
+			"domain": 	"social.au2pb.net",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "sealion.club",
-			"url": 	"https://sealion.club",
+			"domain": 	"sealion.club",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "gs.smuglo.li",
-			"url": 	"https://gs.smuglo.li",
+			"domain": 	"gs.smuglo.li",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "unsafe.space",
-			"url": 	"https://unsafe.space",
+			"domain": 	"unsafe.space",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "social.heldscal.la",
-			"url": 	"https://social.heldscal.la",
+			"domain": 	"social.heldscal.la",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "wrongthink.net",
-			"url": 	"https://wrongthink.net",
+			"domain": 	"wrongthink.net",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "ediot.social",
-			"url": 	"https://ediot.social",
+			"domain": 	"ediot.social",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "social.au2pb.net",
-			"url": 	"https://social.au2pb.net",
+			"domain": 	"social.au2pb.net",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "social.hidamari.blue",
-			"url": 	"https://social.hidamari.blue",
+			"domain": 	"social.hidamari.blue",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "libertarianism.club",
-			"url": 	"https://libertarianism.club",
+			"domain": 	"libertarianism.club",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "npf.mlpol.net",
-			"url": 	"https://npf.mlpol.net",
+			"domain": 	"npf.mlpol.net",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "gorf.club",
-			"url": 	"https://gorf.club",
+			"domain": 	"gorf.club",
 			"reasons": ["FVZ"]
 		},
 
@@ -140,49 +140,49 @@
 
 		{
 			"name": "gs.kawa-kun.com",
-			"url": 	"https://gs.kawa-kun.com",
+			"domain": 	"gs.kawa-kun.com",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "gs.archae.me",
-			"url": 	"https://gs.archae.me",
+			"domain": 	"gs.archae.me",
 			"reasons": ["FVZ", "lolicon"]
 		},
 
 		{
 			"name": "pleroma.soykaf.com",
-			"url": 	"https://pleroma.soykaf.com",
+			"domain": 	"pleroma.soykaf.com",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "community.highlandarrow.com",
-			"url": 	"https://community.highlandarrow.com",
+			"domain": 	"community.highlandarrow.com",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "jabb.in",
-			"url": 	"https://jabb.in",
+			"domain": 	"jabb.in",
 			"reasons": ["FVZ", "lolicon"]
 		},
 
 		{
 			"name": "hakui.club",
-			"url": 	"https://hakui.club",
+			"domain": 	"hakui.club",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "social.i2p.rocks",
-			"url": 	"https://social.i2p.rocks",
+			"domain": 	"social.i2p.rocks",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "zerohack.xyz",
-			"url": 	"https://zerohack.xyz",
+			"domain": 	"zerohack.xyz",
 			"reasons": ["FVZ"]
 		},
 
@@ -195,37 +195,37 @@
 
 		{
 			"name": "toot.love",
-			"url": 	"https://toot.love",
+			"domain": 	"toot.love",
 			"reasons": ["A-FVZ"]
 		},
 
 		{
 			"name": "ika.moe",
-			"url": 	"https://ika.moe",
+			"domain": 	"ika.moe",
 			"reasons": ["A-FVZ"]
 		},
 
 		{
 			"name": "anitwitter.moe",
-			"url": 	"https://anitwitter.moe",
+			"domain": 	"anitwitter.moe",
 			"reasons": ["A-FVZ"]
 		},
 
 		{
 			"name": "kyot.me",
-			"url": 	"https://kyot.me",
+			"domain": 	"kyot.me",
 			"reasons": ["A-FVZ"]
 		},
 
 		{
 			"name": "social.targaryen.house",
-			"url": 	"https://social.targaryen.house",
+			"domain": 	"social.targaryen.house",
 			"reasons": ["A-FVZ"]
 		},
 
 		{
 			"name": "manx.social",
-			"url": 	"https://manx.social",
+			"domain": 	"manx.social",
 			"reasons": ["A-FVZ"]
 		},
 
@@ -235,13 +235,13 @@
 
 		{
 			"name": "counter.social",
-			"url": 	"https://counter.social",
+			"domain": 	"counter.social",
 			"reasons": ["jingoism", "bigotry"]
 		},
 
 		{
 			"name": "Hiveway",
-			"url": "https://hiveway.net",
+			"domain": "hiveway.net",
 			"reasons": ["privacy", "corporate", "tech-sleaze"]
 
 		}
@@ -249,13 +249,13 @@
 
 		{
 			"name": "mastodon.blue",
-			"url": 	"https://mastodon.blue",
+			"domain": 	"mastodon.blue",
 			"reasons": ["unresponsive"]
 		},
 
 		{
 			"name": "hostux.social",
-			"url": 	"https://hostux.social",
+			"domain": 	"hostux.social",
 			"reasons": ["A-harrassment"]
 		},
 
@@ -263,7 +263,7 @@
 
 		{
 			"name": "porntoot.com",
-			"url": 	"https://porntoot.com",
+			"domain": 	"porntoot.com",
 			"reasons": ["untagged-NSFW"]
 		},
 
@@ -273,31 +273,31 @@
 
 		{
 			"name": "baraag.net",
-			"url": 	"https://baraag.net",
+			"domain": 	"baraag.net",
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "social.allthefallen.ninja",
-			"url": 	"https://social.allthefallen.ninja",
+			"domain": 	"social.allthefallen.ninja",
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "social.homunyan.com",
-			"url": 	"https://social.homunyan.com",
+			"domain": 	"social.homunyan.com",
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "preteengirls.biz",
-			"url": 	"https://preteengirls.biz",
+			"domain": 	"preteengirls.biz",
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "mastodon.loliandstuff.moe",
-			"url": 	"https://mastodon.loliandstuff.moe",
+			"domain": 	"mastodon.loliandstuff.moe",
 			"reasons": ["lolicon"]
 		},
 
@@ -308,19 +308,19 @@
 
 		{
 			"name": "Pawoo",
-			"url": 	"https://pawoo.net",
+			"domain": 	"pawoo.net",
 			"reasons": ["lolicon", "corporate"]
 		},
 
 		{
 			"name": "Pawoo Music",
-			"url": 	"https://music.pawoo.net",
+			"domain": 	"music.pawoo.net",
 			"reasons": ["corporate"]
 		},
 
 		{
 			"name": "Raptor Engineering, LLC",
-			"url": 	"https://social.raptorengineering.io",
+			"domain": 	"social.raptorengineering.io",
 			"reasons": ["advertising"]
 		},
 
@@ -330,31 +330,31 @@
 
 		{
 			"name": "social.guizzyordi.info",
-			"url": 	"https://social.guizzyordi.info",
+			"domain": 	"social.guizzyordi.info",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "social.lucci.xyz",
-			"url": 	"https://social.lucci.xyz",
+			"domain": 	"social.lucci.xyz",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "social.imirhil.fr",
-			"url": 	"https://social.imirhil.fr",
+			"domain": 	"social.imirhil.fr",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "wogan.im",
-			"url": 	"https://wogan.im",
+			"domain": 	"wogan.im",
 			"reasons": ["FVZ"]
 		},
 
 		{
 			"name": "gs.m0n5t3r.info",
-			"url": 	"https://gs.m0n5t3r.info",
+			"domain": 	"gs.m0n5t3r.info",
 			"reasons": ["FVZ"]
 		}
 
