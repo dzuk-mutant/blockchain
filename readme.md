@@ -1,4 +1,4 @@
-#Blockchain (not that kind)
+# Blockchain (not that kind)
 
 If you're looking to score the latest in hot scam-tokens, sorry, I can't help you. This is a chain of blocks, specifically blocks for ActivityPub/OStatus instances.
 
@@ -23,26 +23,26 @@ Each instance has a list of reasons as to why they are on the blocklist. I'm not
 ---
 
 
-##Reason tags
+## Reason tags
 These are the things that I personally have specific evidence of. These instances may be guilty of more things.
 
 'A-' prefixes mean that the administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
 
 
-####advertising
+#### advertising
 
 Corporate advertising is enabled on this instance. There's a difference between personal and community announcements of things and straight-up corporate advertising. This is for the latter, not the former.
 
 
-####harrassment (w/ A-harrassment)
+#### harrassment (w/ A-harrassment)
 
 The administration has engaged in, encouraged or endorsed harrassment, whether within OStatus/ActivityPub protocols, or elsewhere.
 
-####corporate
+#### corporate
 
 Corporate-owned space.
 
-####FVZ (w/ A-FVZ)
+#### FVZ (w/ A-FVZ)
 
 Stands for 'Fascist speech/Violent speech/Zero-moderation'. 
 
@@ -67,7 +67,7 @@ Not all of these instances necessarily have all of these things, and there is a 
 Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of trans people, queer people, black people, etc.
 
 
-####jingoism
+#### jingoism
 
 Oxford Dictionary:
 
@@ -77,14 +77,14 @@ For the lack of a better term. This refers to just one instance right now, Count
 
 [Check out my human-readable blocklist](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23) for the summary on them.
 
-####lolicon
+#### lolicon
 
 Sexualised depictions of minors. (While 'Lolicon' actually refers to a particular subset, westerners tend to use it to mean anything illustrated and under-age)
 
-####spam
+#### spam
 
 The administration enables spam accounts.
 
-####untagged NSFW
+#### untagged NSFW
 
 It is what it is really.
