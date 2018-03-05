@@ -72,16 +72,16 @@ Here are some examples! Take your pick:
 
 - racism
 - homophobia
-- transphobia / TERFs / fake goths [[link 1]](theterfs.com/) [[link 2]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
-- queerphobia
-- anti-muslim bigoty / islamophobia [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-muslim)
+- anti-LGBTQ+++ [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
+- TERFs / fake goths [[link]](theterfs.com/) 
+- anti-muslim bigoty [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-muslim)
 - ... probably way more!
 
 I could be here all day listing these probably.
 
 The reason I don't separate different kinds of bigotry is because it's extra work for no real purpose. One of these is bad enough, and if you're the kind of person to go 'well, I don't like people being mean to gays but I do think we should put all muslims on some kind of watch list' then this list isn't for you.
 
-Maybe `FVZ` and `bigotry` will eventually be merged since they're both bigoted and while `FVZ` people actively advocate for harmful consequences and `bigotry` doesn't necessarily, bigoted behaviour *still has harmful real-world consequences*.
+Maybe `FVZ` and `bigotry` will eventually be merged since they're both bigoted and while `FVZ` people actively advocate for harmful consequences and casual bigotry doesn't necessarily, bigoted behaviour *still has harmful real-world consequences*.
 
 
 ### harrassment (w/ A-harrassment)
@@ -105,15 +105,16 @@ I'm not necessarily saying block these right now (I'm not apart from Pawoo, for 
 
 Stands for **F**ascist speech / **V**iolent speech / **Z**ero-moderation. 
 
-These are safe spaces for fascist, violent and shitty ideologies, including:
+The instances with this tag usually claim to be defenders of free speech by limiting moderation, but really, these words are just a front. They are in fact safe spaces for hate groups and fascist and violent ideologies, including:
 
 <br/>
 
 
-*(Links here are resources or definitions from experienced anti-hate group NGOs, sites that are experienced at documenting hate groups or journalistic sources. I'll keep trying to add links as I go along.)*
+
 
 - White Supremacy / White Nationalist [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/white-nationalist)
-- Alt-Right ( [[link 1]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) [[link 2]](https://alternativeright.hopenothate.com/) )
+- Alt-Right ( [[link 1]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) [[link 2]](https://alternativeright.hopenothate.com/) [[link 3]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right) )
+- Alt-light [[link]](https://alternativeright.hopenothate.com/)
 - Identitarian ( [[link 1]](https://www.splcenter.org/hatewatch/2015/10/12/american-racists-work-spread-%E2%80%98identitarian%E2%80%99-ideology) [[link 2]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) )
 - Neo-Nazi [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-nazi)
 - Male Supremacy [[link that basically covers all the sub-groups below]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) 
@@ -127,7 +128,7 @@ These are safe spaces for fascist, violent and shitty ideologies, including:
 - Anti-LGBT [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
 - ...and probably even more awful shit! I will detail them later.
 
-
+*(Links here are resources or definitions from experienced anti-hate group NGOs, sites that are experienced at documenting hate groups or journalistic sources. I'll keep trying to add links as I go along.)*
 
 
 
@@ -136,12 +137,16 @@ These are safe spaces for fascist, violent and shitty ideologies, including:
 
 The reason they are all in one category is that the borders between each other are very fuzzy (they have great ideological similarities), organisations in these areas tend to be tightly related and connected to each other and one particular branch is often a gateway to another.
 
-Not even this categorisation is entirely neat - White Supremacy usually necessitates Male Supremacy (and probably even more).
+Not even this categorisation is entirely neat - White Supremacy usually necessitates Male Supremacy and anti-LGBT (and probably even more).
 
 Not all of these instances necessarily have all of these things, and there is a spectrum to the volume of this content. But this shit is still ultimately toxic and not what you should be allowing if you want to make your instance safe and pleasant for people who aren't violent and have reasonable things to say.
 
+<br/>
 
-Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of trans people, queer people, black people, etc.
+
+Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of women, racial minorities, trans people, queer people, etc.
+
+`A-FVZ` instances are often naive in what they say about this issue, believing that all forms of speech can coexist, even when some forms of speech (like hate speech), naturally inhibit or exclude other forms of speech.
 
 
 ### jingoism
@@ -158,13 +163,24 @@ For the lack of a better term. This refers to just one instance right now, Count
 
 Sexualised depictions of minors.
 
-While 'Lolicon' actually refers to a particular subset of illustrated child porn, westerners tend to use it to mean any illustrated child pornography, and I'm gonna use it that way because it's a really convenient label.
+While 'Lolicon' actually refers to a particular subset of illustrated child porn, westerners tend to use it to mean any illustrated child pornography, and I'm gonna use it that way because it's a really convenient label for a tag.
+
+### privacy
+
+This instance compromises it's users' own privacy in some way, like by adding Google Analytics to track their behaviour.
+
 
 ### spam
 
 The administration enables spam accounts.
 
-### untagged NSFW
+### tech-sleaze
+
+Used to refer to hiveway.net currently, who have broken Mastodon's license and acted in a generally shitty way by basically making a fork of Mastodon with the serial numbers filed off and a new coat of paint.
+
+Not the best tag, but tags aren't the best at nuance.
+
+### untagged-NSFW
 
 It is what it is really.
 

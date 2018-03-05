@@ -239,6 +239,13 @@
 			"reasons": ["jingoism", "bigotry"]
 		},
 
+		{
+			"name": "Hiveway",
+			"url": "https://hiveway.net",
+			"reasons": ["privacy", "corporate", "tech-sleaze"]
+
+		}
+
 
 		{
 			"name": "mastodon.blue",
@@ -257,7 +264,7 @@
 		{
 			"name": "porntoot.com",
 			"url": 	"https://porntoot.com",
-			"reasons": ["untagged NSFW"]
+			"reasons": ["untagged-NSFW"]
 		},
 
 
