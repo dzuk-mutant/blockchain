@@ -1,7 +1,5 @@
 # Blockchain (not that kind)
 
-If you're looking to score the latest in hot scam-tokens, sorry, I can't help you. 
-
 This is a *chain of blocks*, specifically blocks for instances that federate with Mastodon instances, whether they are other Mastodon instances, or another kind of instance like GNUSocial, Pleroma, etc.
 
 This is very new! Please check it out and help me iron out the bugs.
@@ -23,7 +21,11 @@ In short...
 - You want to keep illegal content (eg. child porn) off your servers.
 - You want to promote healthy discussion and interactions between people that isn't poisoned by shitty, violent ideologies and dangerous conspiracy theories.
 - You want your users to enjoy your instance and not have to worry about being harrassed or have shit flinged at them from people who don't know better.
-- You want to defend the freedom of people to choose their pronouns, how they want to represent themselves, who they want to fuck and to defend the right of these people to speak without fear of inane, hateful bullshit.
+- You want to defend the freedom of people to choose their pronouns, what religion they practice, how they want to represent themselves, who they want to fuck and to defend the right of these people to speak without fear of inane, hateful bullshit.
+
+This blocklist isn't prescriptive too. Each instance has a list of reasons of why you might want to block an instance for and you can take the action that is most appropriate for your instance.
+
+Don't know what a hate group is really like, or confused about which groups are hate groups? Don't worry! I've included links to many reputable resources that can help you understand in this readme.
 
 ---
 
@@ -66,13 +68,16 @@ You can use reason tags to filter which instance you want to block and how badly
 
 ### advertising
 
-Corporate advertising is enabled on this instance. There's a difference between personal and community announcements of things and straight-up corporate advertising. This is for the latter, not the former.
+This an instance that either exists solely for corporate advertising, or is actively or planning to sell their instance space for corporate advertising.
+
+There's a difference between personal and community announcements of things and corporate advertising. This is for the latter, not the former.
+
 
 ### bigotry
 
 Here are some examples! Take your pick:
 
-- racism
+- racism / racialism
 - homophobia
 - anti-LGBTQ+++ [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
 - TERFs / fake goths [[link]](theterfs.com/) 
@@ -90,9 +95,11 @@ Maybe `FVZ` and `bigotry` will eventually be merged since they're both bigoted a
 
 The administration has engaged in, encouraged or endorsed harrassment, whether within OStatus/ActivityPub protocols, or elsewhere.
 
+`A-harassment` instances are instances whose administration have acted with complacency and not done anything when a user of theirs has engaged in harrassment.
+
 ### corporate
 
-Corporate-owned space.
+Corporate-owned space. Clearly, your use of this tag will depend on what you think about corporations. I understand this isn't for everyone.
 
 (*Following text mostly copy-pasted from the [human-readable list](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)*)
 
@@ -100,7 +107,7 @@ This may not become a serious issue at the moment, but I think it could be a rea
 
 They also conflict with the idea of intermingling, spaces with a cooperative relationship to each other (ie. our instances) - corporations expect to dominate 'markets', we provide services based on what we can afford to those who want and need them. I would say that our kind of social networking is potentially an existential threat to corporate social networking, and we shouldn't let them have an inch because they will take a mile. If they ever take an interest in decentralised social networking, they will only care about us insofar that we're good PR for them.
 
-I'm not necessarily saying block these right now (I'm not apart from Pawoo, for other reasons), but I think keeping watch would be a good idea, especially if they become a thing in the West. They currently only seem to be a thing in Japan right now.
+I'm not necessarily saying block these right now, but I think keeping watch would be a good idea, especially if they become a thing in our particular language and geographical spheres. They currently only seem to be a thing in Japan right now.
 
 
 ### FVZ (w/ A-FVZ)
@@ -128,11 +135,7 @@ The instances with this tag usually claim to be defenders of free speech by limi
 	- Incel [[link]](https://rationalwiki.org/wiki/Manosphere_glossary#Incel)
 - GamerGate [[link 1]](https://rationalwiki.org/wiki/Gamergate) [[link 2]](https://www.theguardian.com/technology/2014/oct/13/gamergate-right-wing-no-neutral-stance)
 - Anti-LGBT [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
-- ...and probably even more awful shit! I will detail them later.
-
-*(Links here are resources or definitions from experienced anti-hate group NGOs, sites that are experienced at documenting hate groups or journalistic sources. I'll keep trying to add links as I go along.)*
-
-
+- ...and probably even more awful shit! I will detail them as I remember/find them later.
 
 
 <br/>
@@ -141,16 +144,16 @@ The reason they are all in one category is that the borders between each other a
 
 Not even this categorisation is entirely neat - White Supremacy usually necessitates Male Supremacy and anti-LGBT (and probably even more).
 
-Not all of these instances necessarily have all of these things, and there is a spectrum to the volume of this content. But this shit is still ultimately toxic and not what you should be allowing if you want to make your instance safe and pleasant for people who aren't violent and have reasonable things to say.
+Not all of these instances necessarily have all of these things, many of these movements have their own disagreements with each other and there is a spectrum to the volume of this content. But this shit is still ultimately toxic and not what you should be allowing if you want to make your instance safe and pleasant for people who aren't violent and have reasonable things to say.
 
 <br/>
 
 
-Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of women racial minorities, trans people, queer people, etc. (it can vary between the groups, but there's always at least one group who they would like to deprive the rights of).
+Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of women, racial minorities, trans people, queer people, etc. (it can vary between the groups, but there's always at least one of these kinds of groups they would like to deprive the rights of).
 
 <br/>
 
-`A-FVZ` instances are often naive in what they say about this issue, believing that all forms of speech can coexist, even when some forms of speech (like hate speech), naturally inhibit or exclude other forms of speech. So even if they claim not to, they have sided with these awful people in what they are doing.
+`A-FVZ` instances are often naive in what they say about this issue, believing that all forms of speech can coexist, even when some forms of speech (like hate speech), naturally inhibit or exclude other forms of speech. So even if they claim not to, they have sided with these people in what they are doing.
 
 
 ### jingoism
