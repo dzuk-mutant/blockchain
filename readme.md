@@ -33,6 +33,23 @@ These are the things that I personally have specific evidence of. These instance
 
 Corporate advertising is enabled on this instance. There's a difference between personal and community announcements of things and straight-up corporate advertising. This is for the latter, not the former.
 
+#### bigotry
+
+Here are some examples! Take your pick:
+
+- racism
+- homophobia
+- transphobia / TERFs / fake goths
+- queerphobia
+- anti-muslim bigorty
+- ... probably way more!
+
+I could be here all day listing these probably.
+
+The reason I don't separate these is because it's extra work for no real purpose. One of these is bad enough, and if you're the kind of person to go 'well, I don't like people being mean to gays but I do think we should put all muslims on some kind of watch list' then this list isn't for you.
+
+Consider this category as *FVZ-lite*. ie. People who spout shitty harmful things but aren't advocating for ethnostates or the subjugation of women. Bigotry is automatically assumed in FVZ.
+
 
 #### harrassment (w/ A-harrassment)
 
@@ -41,6 +58,15 @@ The administration has engaged in, encouraged or endorsed harrassment, whether w
 #### corporate
 
 Corporate-owned space.
+
+(*Following text copy-pasted from the [human-readable list](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)*)
+
+This may not become a serious issue at the moment, but I think it could be a really important thing to keep an eye on for the future. I think that corporate ownership generally conflicts with the idea of social spaces as an emotionally supportive environment (how many of us left Twitter because it tolerates Nazis and doesn't have any real ethical or moral positions?). 
+
+They also conflict with the idea of intermingling, spaces with a cooperative relationship to each other (ie. our instances) - corporations expect to dominate 'markets', we provide services based on what we can afford to those who want and need them. I would say that our kind of social networking is potentially an existential threat to corporate social networking, and we shouldn't let them have an inch because they will take a mile. If they ever take an interest in decentralised social networking, they will only care about us insofar that we're good PR for them.
+
+I'm not necessarily saying block these right now (I'm not apart from Pawoo, for other reasons), but I think keeping watch would be a good idea, especially if they become a thing in the West. They currently only seem to be a thing in Japan right now.
+
 
 #### FVZ (w/ A-FVZ)
 

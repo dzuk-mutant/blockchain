@@ -1,12 +1,5 @@
 
 {
-
-	"metadata": {
-		"last_updated_date": "2018-03-04",
-		"last_updated_time": "00:26 GMT",
-		"last_updated_internettime": "@060"
-	},
-
 	"instances":  [
 		{
 			"name": "noagendasocial.com",
@@ -23,7 +16,7 @@
 		{
 			"name": "freespeech.firedragonstudios.com",
 			"url": 	"https://freespeech.firedragonstudios.com",
-			"reasons": ["harrassment", "FVZ"]
+			"reasons": ["harrassment", "bigotry"]
 		},
 
 		{
@@ -225,7 +218,7 @@
 		{
 			"name": "counter.social",
 			"url": 	"https://counter.social",
-			"reasons": ["jingoism"]
+			"reasons": ["jingoism", "bigotry"]
 		},
 
 
@@ -248,6 +241,8 @@
 			"url": 	"https://porntoot.com",
 			"reasons": ["untagged NSFW"]
 		},
+
+
 
 
 
