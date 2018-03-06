@@ -33,6 +33,15 @@ Don't know what a hate group is really like, or confused about which groups are 
 
 You can follow [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain) for updates.
 
+
+---
+
+## Contributions
+
+Feel free to contribute either here or on Mastodon via [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain).
+
+Unless it's really obvious how bad an instance is by looking at their front page, it's important that you bring evidence. Links are especially preferred becuase it means I can verify, archive and screencap them myself.
+
 ---
 
 ## Issues?
@@ -68,9 +77,9 @@ You can use reason tags to filter which instance you want to block and how badly
 
 ### advertising
 
-This an instance that either exists solely for corporate advertising, or is actively or planning to sell their instance space for corporate advertising.
+This an instance that either exists solely for corporate advertising, or is a typical multi-user instance that is enabling or has a clearly established plan to enable their instance to be used for corporate advertising.
 
-There's a difference between personal and community announcements of things and corporate advertising. This is for the latter, not the former.
+There's a difference between personal and community announcements and corporate advertising. This is for the latter, not the former.
 
 
 ### bigotry
@@ -126,8 +135,7 @@ The instances with this tag usually claim to be defenders of free speech by limi
 - Alt-light [[link]](https://alternativeright.hopenothate.com/)
 - Identitarian ( [[link 1]](https://www.splcenter.org/hatewatch/2015/10/12/american-racists-work-spread-%E2%80%98identitarian%E2%80%99-ideology) [[link 2]](http://www.hopenothate.org.uk/2017/10/31/explained-identitarian-movement-alt-right/) )
 - Neo-Nazi [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/neo-nazi)
-- Male Supremacy [[link that basically covers all the sub-groups below]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) 
-	- Manosphere [[link]](http://www.hopenothate.org.uk/2017/10/24/hope-not-hate-explains-manosphere/)
+- Male Supremacy (often referred to as The Manosphere) [[link 1]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) [[link 2]](http://www.hopenothate.org.uk/2017/10/24/hope-not-hate-explains-manosphere/)
 	- The Red Pill
 	- MRA / MRM
 	- Pick-up Artistry (PUA)
