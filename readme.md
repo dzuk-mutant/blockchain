@@ -72,7 +72,23 @@ These are the things that I personally have specific evidence of. These instance
 
 You can use reason tags to filter which instance you want to block and how badly you want to do it.
 
-'A-' prefixes mean that the administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting other users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
+### prefixes
+
+Some of these tags have prefixes to indicate variations in the way that an instance's administration treats the particular issue. Non-prefixed tags mean that the administration actively embraces or engages in whatever the tag is.
+
+Often it means a misunderstood idea or a misunderstanding of hate groups and bigorty.
+
+#### 'A-' 
+
+The administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting other users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
+
+#### 'NP-'
+
+'Not Proactive'. The instance's administration is aware of the effects of certain kinds of behaviour on users in other instances and is willing to respond to requests from admins in other instances, but is not proactive in dealing with this themselves. 
+
+While that might seem okay (and it might be okay for you), not being proactive means that it still enables this stuff and it can routinely spill over anyway. 
+
+(And ultimately, the onus is then on other admins to react to this stuff, and report, etc. regarding stuff that isn't even in their instance.)
 
 
 ### advertising
@@ -162,6 +178,10 @@ Other people charitably call it 'channer culture' or call it by the way *they* f
 <br/>
 
 `A-FVZ` instances are often naive in what they say about this issue, believing that all forms of speech can coexist, even when some forms of speech (like hate speech), naturally inhibit or exclude other forms of speech. So even if they claim not to, they have sided with these people in what they are doing.
+
+</br>
+
+`NP-FVZ` instances may have at least some awareness of the impact some of this content might have on other users and will try to mitigate that when another instance's admin makes a report, but only when a report occurs.
 
 
 ### jingoism

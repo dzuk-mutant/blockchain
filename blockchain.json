@@ -229,6 +229,12 @@
 			"reasons": ["A-FVZ"]
 		},
 
+		{
+			"name": "niu.moe",
+			"domain": 	"niu.moe",
+			"reasons": ["NP-FVZ"]
+		},
+
 
 
 
