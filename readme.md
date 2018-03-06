@@ -74,9 +74,9 @@ You can use reason tags to filter which instance you want to block and how badly
 
 ### prefixes
 
-Some of these tags have prefixes to indicate variations in the way that an instance's administration treats the particular issue. Non-prefixed tags mean that the administration actively embraces or engages in whatever the tag is.
+Some of these tags have prefixes to indicate variations in the way that an instance's administration treats the particular issue. 
 
-Often it means a misunderstood idea or a misunderstanding of hate groups and bigorty.
+Non-prefixed tags mean that the administration actively embraces or engages in whatever the tag is. Prefixed tags represent that the content is still there, but the administration reacts to it in a more distanced way.
 
 #### 'A-' 
 
