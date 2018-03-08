@@ -22,6 +22,7 @@ In short...
 - You want to promote healthy discussion and interactions between people that isn't poisoned by shitty, violent ideologies and dangerous conspiracy theories.
 - You want your users to enjoy your instance and not have to worry about being harrassed or have shit flinged at them from people who don't know better.
 - You want to defend the freedom of people to choose their pronouns, what religion they practice, how they want to represent themselves, who they want to fuck and to defend the right of these people to speak without fear of inane, hateful bullshit.
+- You don't want to allow cults and hate groups to recruit vulnerable people.
 
 This blocklist isn't prescriptive too. Each instance has a list of reasons of why you might want to block an instance for and you can take the action that is most appropriate for your instance.
 
