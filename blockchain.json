@@ -31,6 +31,12 @@
 			"reasons": ["spam"]
 		},
 
+		{
+			"name": "yiff.rocks",
+			"domain": 	"yiff.rocks",
+			"reasons": ["harrassment", "FVZ"]
+		},
+
 
 
 
