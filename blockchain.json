@@ -267,7 +267,7 @@
 			"domain": "hiveway.net",
 			"reasons": ["privacy", "corporate", "tech-sleaze", "advertising"]
 
-		}
+		},
 
 
 		{
@@ -289,9 +289,6 @@
 			"domain": 	"porntoot.com",
 			"reasons": ["untagged-NSFW"]
 		},
-
-
-
 
 
 		{
@@ -331,10 +328,6 @@
 		},
 
 
-
-
-
-
 		{
 			"name": "Pawoo",
 			"domain": 	"pawoo.net",
@@ -352,10 +345,6 @@
 			"domain": 	"social.raptorengineering.io",
 			"reasons": ["advertising"]
 		},
-
-
-
-
 
 		{
 			"name": "social.guizzyordi.info",
