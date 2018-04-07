@@ -86,6 +86,12 @@
 		},
 
 		{
+			"name": "pl.smuglo.li",
+			"domain": 	"pl.smuglo.li",
+			"reasons": ["FVZ"]
+		},
+
+		{
 			"name": "unsafe.space",
 			"domain": 	"unsafe.space",
 			"reasons": ["FVZ"]
