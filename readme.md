@@ -79,13 +79,16 @@ Some of these tags have prefixes to indicate variations in the way that an insta
 
 Non-prefixed tags mean that the administration actively embraces or engages in whatever the tag is. Prefixed tags represent that the content is still there, but the administration reacts to it in a more distanced way.
 
-#### 'A-' 
+Not all tags have prefixes, I'll mention which ones do.
 
-The administration doesn't necessarily engage in, encourage, or endorse that behaviour themselves but they do enable it by letting other users on their instance do it instead. Not all tags have A-prefixes, I'll mention which ones do.
+#### A-
 
-#### 'NP-'
+**Accepting.** The administration to my knowledge doesn't engage in, encourage, or endorse that behaviour themselves but they do accept it and enable it in some way by letting other users on their instance do it instead.
 
-'Not Proactive'. The instance's administration is aware of the effects of certain kinds of behaviour on users in other instances and is willing to respond to requests from admins in other instances, but is not proactive in dealing with this themselves. 
+
+#### NP-
+
+**Not Proactive.** The instance's administration is aware of the effects of certain kinds of behaviour on users in other instances and is willing to respond to requests from admins in other instances, but is not proactive in dealing with this themselves. 
 
 While that might seem okay (and it might be okay for you), not being proactive means that it still enables this stuff and it can routinely spill over anyway. 
 
@@ -136,7 +139,7 @@ They also conflict with the idea of intermingling, spaces with a cooperative rel
 I'm not necessarily saying block these right now, but I think keeping watch would be a good idea, especially if they become a thing in our particular language and geographical spheres. They currently only seem to be a thing in Japan right now.
 
 
-### FVZ (w/ A-FVZ)
+### FVZ (w/ A-FVZ and NP-FVZ)
 
 Stands for **F**ascist speech / **V**iolent speech / **Z**ero-moderation. 
 
@@ -161,24 +164,34 @@ The instances with this tag usually claim to be defenders of free speech by limi
 - GamerGate [[link 1]](https://rationalwiki.org/wiki/Gamergate) [[link 2]](https://www.theguardian.com/technology/2014/oct/13/gamergate-right-wing-no-neutral-stance)
 - Anti-LGBT [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
 - ...and probably even more awful shit! I will detail them as I remember/find them later.
+- General bigotry (see the bigotry category further up)
 
 
 <br/>
 
-The reason they are all in one category is that the borders between each other are very fuzzy (they have great ideological similarities), organisations in these areas tend to be tightly related and connected to each other and one particular branch is often a gateway to another.
+The reason they are all in one category is similar to why bigotry is one larger group - it functionally makes sense. It also especially makes sense here because the borders between each group are very fuzzy (they have great ideological similarities), organisations in these areas tend to be tightly related and connected to each other and one particular group is often a gateway to another.
 
-Not even this categorisation is entirely neat - White Supremacy usually necessitates Male Supremacy and anti-LGBT (and probably even more).
+Not even this categorisation is entirely neat - White Supremacy usually necessitates some kind of Male Supremacy and anti-LGBT (and probably even more).
 
-Not all of these instances necessarily have all of these things, many of these movements have their own disagreements with each other and there is a spectrum to the volume of this content. But this shit is still ultimately toxic and not what you should be allowing if you want to make your instance safe and pleasant for people who aren't violent and have reasonable things to say.
-
-<br/>
-
-
-Other people charitably call it 'channer culture' or call it by the way *they* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when they don't actually give a shit about the free speech of women, racial minorities, trans people, queer people, etc. (it can vary between the groups, but there's always at least one of these kinds of groups they would like to deprive the rights of).
+Not all of these instances necessarily have all of these things, and not all of these instances are completely comprised of these people, but this shit is still ultimately toxic and not what you should be allowing if you want to make your instance safe and pleasant for people who aren't violent and have reasonable things to say.
 
 <br/>
 
-`A-FVZ` instances are often naive in what they say about this issue, believing that all forms of speech can coexist, even when some forms of speech (like hate speech), naturally inhibit or exclude other forms of speech. So even if they claim not to, they have sided with these people in what they are doing.
+This is worsened by the fact that part of these groups' ideology is often that debate (or whatever they think it is at least) is boundless and that people do not have the right to putting up personal boundaries, which results in a lot of behaviour that looks and acts basically like harassment.
+
+This usually results in vulnerable groups being targeted for lots of really dumbass interjections involving debunked psuedoscientific claims (like non-binary people don't exist and that gender is determined by chromosomes). It's not even good-faith responses, it's bad-faith interjections that are often intended to antagonise and pathologise people. They really don't give a shit about debate because they already believe in a certain assortment of personal truths and they won't be content to keep it to themselves when asked to.
+
+<br/>
+
+Other people charitably call this kind of thing 'channer culture' or call it by the way *these groups* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when these kinds of people don't actually give a shit about the free speech of women, racial minorities, trans people, queer people, etc. (it can vary between the groups, but there's always at least one of these kinds of groups whose speech they don't give a shit about and in many cases, would like to deprive those groups of the ability to speak).
+
+To give these people the grace of letting them call themselves free speech advocates is discrediting the very nature of free speech. We can do much better, and blocking a bunch of whiny, harrassing pseudointellectuals dressing up regressive talking points as radical ideology will actually enable our communities to have more productive and open debates.
+
+</br>
+
+Whether the administration agrees with these people or not, if they have them with their instance, they are facilitating them in some way. **When speech carries consequences, you cannot say you are neutral.** 
+
+I don't really care what side you are on, because I can just block you if you're on this side and we can call it a day (the beauty of federation!), but I'm not going to accept bullshit claims.
 
 </br>
 
@@ -199,11 +212,11 @@ For the lack of a better term. This refers to just one instance right now, Count
 
 Sexualised depictions of minors.
 
-While 'Lolicon' actually refers to a particular subset of illustrated child porn, westerners tend to use it to mean any illustrated child pornography, and I'm gonna use it that way because it's a really convenient label for a tag.
+While 'Lolicon' proper refers to a particular subset of illustrated child porn. Westerners on the internet often use it to generally mean **illustrated sexualised imagery involving what appear to be minors**, and I'm gonna use it that way because it's a really convenient label for a tag.
 
 ### privacy
 
-This instance compromises it's users' own privacy in some way, like by adding Google Analytics to track their behaviour.
+This instance compromises *it's own users' privacy* (not others in the fediverse) in some way, like by adding Google Analytics to track their behaviour.
 
 
 ### spam
