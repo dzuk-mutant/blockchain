@@ -177,19 +177,13 @@ Not all of these instances necessarily have all of these things, and not all of 
 
 <br/>
 
-This is worsened by the fact that part of these groups' ideology is often that debate (or whatever they think it is at least) is boundless and that people do not have the right to putting up personal boundaries, which results in a lot of behaviour that looks and acts basically like harassment.
-
-This usually results in vulnerable groups being targeted for lots of really dumbass interjections involving debunked psuedoscientific claims (like non-binary people don't exist and that gender is determined by chromosomes). It's not even good-faith responses, it's bad-faith interjections that are often intended to antagonise and pathologise people. They really don't give a shit about debate because they already believe in a certain assortment of personal truths and they won't be content to keep it to themselves when asked to.
-
-<br/>
-
 Other people charitably call this kind of thing 'channer culture' or call it by the way *these groups* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when these kinds of people don't actually give a shit about the free speech of women, racial minorities, trans people, queer people, etc. (it can vary between the groups, but there's always at least one of these kinds of groups whose speech they don't give a shit about and in many cases, would like to deprive those groups of the ability to speak).
 
-To give these people the grace of letting them call themselves free speech advocates is discrediting the very nature of free speech. We can do much better, and blocking a bunch of whiny, harrassing pseudointellectuals dressing up regressive talking points as radical ideology will actually enable our communities to have more productive and open debates.
+To give these people the grace of letting them call themselves free speech advocates is discrediting the very nature of free speech. We can do much better. Blocking who are in essence, a bunch of whiny, harrassing pseudointellectuals who dress up regressive talking points as radical ideology will actually enable our communities to have more productive and open debates.
 
 </br>
 
-Whether the administration agrees with these people or not, if they have them with their instance, they are facilitating them in some way. **When speech carries consequences, you cannot say you are neutral.** 
+Whether the administration agrees with these people or not, if they have them with their instance, they are facilitating them in some way. **When speech carries consequences, you cannot claim to be neutral.** 
 
 I don't really care what side you are on, because I can just block you if you're on this side and we can call it a day (the beauty of federation!), but I'm not going to accept bullshit claims.
 
