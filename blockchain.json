@@ -145,6 +145,12 @@
 			"reasons": ["FVZ"]
 		},
 
+		{
+			"name": "pleroma.cucked.me",
+			"domain": 	"pleroma.cucked.me",
+			"reasons": ["FVZ", "untagged-NSFW"]
+		},
+
 
 
 
