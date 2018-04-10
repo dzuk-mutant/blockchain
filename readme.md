@@ -166,6 +166,7 @@ The instances with this tag usually claim to be defenders of free speech by limi
 - ...and probably even more awful shit! I will detail them as I remember/find them later.
 - General bigotry (see the bigotry category further up)
 
+Irony or memeing related to these will also not be considered acceptable because it is normally just some kind of front for these things.
 
 <br/>
 
@@ -175,17 +176,18 @@ Not even this categorisation is entirely neat - White Supremacy usually necessit
 
 Not all of these instances necessarily have all of these things, and not all of these instances are completely comprised of these people, but this shit is still ultimately toxic and not what you should be allowing if you want to make your instance safe and pleasant for people who aren't violent and have reasonable things to say.
 
+
 <br/>
 
-Other people charitably call this kind of thing 'channer culture' or call it by the way *these groups* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when these kinds of people don't actually give a shit about the free speech of women, racial minorities, trans people, queer people, etc. (it can vary between the groups, but there's always at least one of these kinds of groups whose speech they don't give a shit about and in many cases, would like to deprive those groups of the ability to speak).
+Other people charitably call this kind of thing 'channer culture' or call it by the way *these groups* frame it, which is ""free-speech zone"". I'd rather not label them on their own terms, especially when it's not accurate, and when they don't really care about free speech of certain people. It's one thing to say ideas, and it's another thing to weaponise social channels against certain groups by harassment and misinformation, which is what these groups are famous for.
 
-To give these people the grace of letting them call themselves free speech advocates is discrediting the very nature of free speech. We can do much better. Blocking who are in essence, a bunch of whiny, harrassing pseudointellectuals who dress up regressive talking points as radical ideology will actually enable our communities to have more productive and open debates.
+To give these people the grace of letting them call themselves free speech advocates is discrediting the very nature of free speech. We can do much better. Blocking who are at best a bunch of harrassing pseudointellectuals and conspiracy theorists and at worst, really malicious entities will actually enable our communities to have more productive and open debates.
+
+I want healthy dialogue and debates and I want to see more of it, which is one of the reasons why they are blocked. Moderation is essential to healthy debates and dialogue, and these kinds of people have proven, not just by virtue of the things they believe, but the way they act that they are anathema to honest, rational, reasonable debate.
 
 </br>
 
-Whether the administration agrees with these people or not, if they have them with their instance, they are facilitating them in some way. **When speech carries consequences, you cannot claim to be neutral.** 
-
-I don't really care what side you are on, because I can just block you if you're on this side and we can call it a day (the beauty of federation!), but I'm not going to accept bullshit claims.
+Whether the administration agrees with these people or not, if they have them with their instance, they are facilitating them in some way. **When speech carries consequences, you cannot claim to be neutral.** Same goes for people who share the instance with them. You are responsible for who you associate with.
 
 </br>
 
