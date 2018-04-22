@@ -371,6 +371,12 @@
 		},
 
 		{
+			"name": "friends.nico",
+			"domain": 	"friends.nico",
+			"reasons": ["corporate"]
+		},
+
+		{
 			"name": "Raptor Engineering, LLC",
 			"domain": 	"social.raptorengineering.io",
 			"reasons": ["advertising"]

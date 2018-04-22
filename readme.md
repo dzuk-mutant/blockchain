@@ -47,12 +47,7 @@ Unless it's really obvious how bad an instance is by looking at their front page
 
 ## Issues?
 
-I will only be accepting issues if:
-
-- There's a technical fault
-- An instance is listed by mistake (ie. the reasons I thought they should be on the blocklist for are not accurate)
-
-If you have a philosophical problem with this list, I don't personally have the energy to debate this and if you try, I will close the issue. 
+I was accepting issues on this GitHub, but there were too many people who either didn't care about why they were blocklisted and just wanted to poison the atmosphere or who weren't willing to actually directly address why they were blocked in the first place and I don't really have the time or energy to deal with that.
 
 I made [an FAQ](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24) a while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
 
@@ -161,7 +156,7 @@ The instances with this tag usually claim to be defenders of free speech by limi
 	- Pick-up Artistry (PUA)
 	- MGTOW
 	- Incel [[link]](https://rationalwiki.org/wiki/Manosphere_glossary#Incel)
-- GamerGate [[link 1]](https://rationalwiki.org/wiki/Gamergate) [[link 2]](https://www.theguardian.com/technology/2014/oct/13/gamergate-right-wing-no-neutral-stance)
+- GamerGate [[link 1]](https://www.washingtonpost.com/news/the-intersect/wp/2014/10/14/the-only-guide-to-gamergate-you-will-ever-need-to-read/?utm_term=.6a9ac316b43a) [[link 2]](https://www.theguardian.com/technology/2014/oct/13/gamergate-right-wing-no-neutral-stance) [[link 3]](https://rationalwiki.org/wiki/Gamergate)
 - Anti-LGBT [[link]](https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-lgbt)
 - ...and probably even more awful shit! I will detail them as I remember/find them later.
 - General bigotry (see the bigotry category further up)
