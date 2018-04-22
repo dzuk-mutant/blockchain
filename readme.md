@@ -1,4 +1,4 @@
-# Blockchain (not that kind)
+# BLOCKchain (not that kind)
 
 This is a *chain of blocks*, specifically blocks for instances that federate with Mastodon instances, whether they are other Mastodon instances, or another kind of instance like GNUSocial, Pleroma, etc.
 
