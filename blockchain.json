@@ -26,12 +26,6 @@
 		},
 
 		{
-			"name": "2.distsn.org",
-			"domain": 	"freespeech.firedragonstudios.com",
-			"reasons": ["spam"]
-		},
-
-		{
 			"name": "yiff.rocks",
 			"domain": 	"yiff.rocks",
 			"reasons": ["harrassment", "FVZ"]
