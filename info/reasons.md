@@ -113,9 +113,6 @@ If the way someone talks is indistinguishable from people with hateful ideologie
 
 The instances with this tag usually claim to be defenders of free speech by limiting moderation, but really, these words are just a front. *It's really just about certain kinds of free speech at the expense of other peoples' free speech.*
 
-If an instance believes this was incorrect, then maybe it's because 
-
-
 ##### A- prefix
 
 This means that as far as I can tell, the administration doesn't engage in this or agree with the people on the instance that do it, but *they facilitate it nonetheless by letting that person stay on their server*.
