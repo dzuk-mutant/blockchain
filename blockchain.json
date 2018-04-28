@@ -22,7 +22,7 @@
 		{
 			"name": "freespeech.firedragonstudios.com",
 			"domain": 	"freespeech.firedragonstudios.com",
-			"reasons": ["harrassment", "bigotry"]
+			"reasons": ["harrassment", "hate-speech"]
 		},
 
 		{
@@ -34,7 +34,7 @@
 		{
 			"name": "yiff.rocks",
 			"domain": 	"yiff.rocks",
-			"reasons": ["harrassment", "FVZ"]
+			"reasons": ["harrassment", "hate-speech"]
 		},
 
 
@@ -46,109 +46,109 @@
 		{
 			"name": "shitposter.club",
 			"domain": 	"shitposter.club",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "rainbowdash.net",
 			"domain": 	"rainbowdash.net",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "freezepeach.xyz",
 			"domain": 	"freezepeach.xyz",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "woofer.alfter.us",
 			"domain": 	"woofer.alfter.us",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.au2pb.net",
 			"domain": 	"social.au2pb.net",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "sealion.club",
 			"domain": 	"sealion.club",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gs.smuglo.li",
 			"domain": 	"gs.smuglo.li",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "pl.smuglo.li",
 			"domain": 	"pl.smuglo.li",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "unsafe.space",
 			"domain": 	"unsafe.space",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.heldscal.la",
 			"domain": 	"social.heldscal.la",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "wrongthink.net",
 			"domain": 	"wrongthink.net",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "ediot.social",
 			"domain": 	"ediot.social",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.au2pb.net",
 			"domain": 	"social.au2pb.net",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.hidamari.blue",
 			"domain": 	"social.hidamari.blue",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "libertarianism.club",
 			"domain": 	"libertarianism.club",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "npf.mlpol.net",
 			"domain": 	"npf.mlpol.net",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gorf.club",
 			"domain": 	"gorf.club",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "pleroma.cucked.me",
 			"domain": 	"pleroma.cucked.me",
-			"reasons": ["FVZ", "untagged-NSFW"]
+			"reasons": ["hate-speech", "untagged-NSFW"]
 		},
 
 
@@ -159,67 +159,67 @@
 		{
 			"name": "gs.kawa-kun.com",
 			"domain": 	"gs.kawa-kun.com",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gs.archae.me",
 			"domain": 	"gs.archae.me",
-			"reasons": ["FVZ", "lolicon"]
+			"reasons": ["hate-speech", "lolicon"]
 		},
 
 		{
 			"name": "pleroma.soykaf.com",
 			"domain": 	"pleroma.soykaf.com",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "community.highlandarrow.com",
 			"domain": 	"community.highlandarrow.com",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "jabb.in",
 			"domain": 	"jabb.in",
-			"reasons": ["FVZ", "lolicon"]
+			"reasons": ["hate-speech", "lolicon"]
 		},
 
 		{
 			"name": "hakui.club",
 			"domain": 	"hakui.club",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.i2p.rocks",
 			"domain": 	"social.i2p.rocks",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "zerohack.xyz",
 			"domain": 	"zerohack.xyz",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "explosion.party",
 			"domain": 	"explosion.party",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "kawaiistu.moe",
 			"domain": 	"kawaiistu.moe",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "voluntaryism.club",
 			"domain": 	"voluntaryism.club",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 
@@ -232,43 +232,49 @@
 		{
 			"name": "toot.love",
 			"domain": 	"toot.love",
-			"reasons": ["A-FVZ"]
+			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "ika.moe",
 			"domain": 	"ika.moe",
-			"reasons": ["A-FVZ"]
+			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "anitwitter.moe",
 			"domain": 	"anitwitter.moe",
-			"reasons": ["A-FVZ"]
+			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "kyot.me",
 			"domain": 	"kyot.me",
-			"reasons": ["A-FVZ"]
+			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "social.targaryen.house",
 			"domain": 	"social.targaryen.house",
-			"reasons": ["A-FVZ"]
+			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "manx.social",
 			"domain": 	"manx.social",
-			"reasons": ["A-FVZ"]
+			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "niu.moe",
 			"domain": 	"niu.moe",
-			"reasons": ["NP-FVZ"]
+			"reasons": ["A-hate-speech"]
+		},
+
+		{
+			"name": "social.wiuwiu.de",
+			"domain": 	"social.wiuwiu.de",
+			"reasons": ["A-hate-speech"]
 		},
 
 
@@ -277,13 +283,13 @@
 		{
 			"name": "pridelands.io",
 			"domain": 	"pridelands.io",
-			"reasons": ["bigotry"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "counter.social",
 			"domain": 	"counter.social",
-			"reasons": ["jingoism", "bigotry"]
+			"reasons": ["jingoism", "hate-speech"]
 		},
 
 		{
@@ -385,31 +391,31 @@
 		{
 			"name": "social.guizzyordi.info",
 			"domain": 	"social.guizzyordi.info",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.lucci.xyz",
 			"domain": 	"social.lucci.xyz",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.imirhil.fr",
 			"domain": 	"social.imirhil.fr",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "wogan.im",
 			"domain": 	"wogan.im",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gs.m0n5t3r.info",
 			"domain": 	"gs.m0n5t3r.info",
-			"reasons": ["FVZ"]
+			"reasons": ["hate-speech"]
 		}
 
 
