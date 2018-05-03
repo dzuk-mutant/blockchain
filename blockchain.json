@@ -401,12 +401,6 @@
 		},
 
 		{
-			"name": "social.imirhil.fr",
-			"domain": 	"social.imirhil.fr",
-			"reasons": ["hate-speech"]
-		},
-
-		{
 			"name": "wogan.im",
 			"domain": 	"wogan.im",
 			"reasons": ["hate-speech"]
