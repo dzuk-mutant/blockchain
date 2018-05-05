@@ -48,7 +48,26 @@ They also conflict with the idea of intermingling, spaces with a cooperative rel
 I'm not necessarily saying block these right now, but I think keeping watch would be a good idea, especially if they become a thing in our particular language and geographical spheres. They currently only seem to be a thing in Japan right now.
 
 
+
+----
+
+
+### dct
+
+**Dangerous Conspiracy Theories**
+
+Conspiracy theories can be a complicated subject, and I don't mind some degree of speculative stuff, because it's harmless or can potentially be true but generally what crosses the line for me generally comes under one (or multiple) of these:
+
+
+- It promotes psuedoscience
+- Is is a hate group conspiracy theory (ie. 'International Jewry', Cultural Marxism, Holocaust Denial)
+- It is one that necessitates or involves hatred (ie. racism, bigotry, etc...)
+- It generally gets people hurt or fuels violence
+
+
+
 ---
+
 
 ### harrassment 
 

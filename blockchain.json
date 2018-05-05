@@ -222,6 +222,12 @@
 			"reasons": ["hate-speech"]
 		},
 
+		{
+			"name": "not.phrack.fyi",
+			"domain": "not.phrack.fyi",
+			"reasons": ["dct"]
+		},
+
 
 
 
