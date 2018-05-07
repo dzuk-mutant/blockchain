@@ -91,4 +91,4 @@ It's an admin's responsibility for who they have on their server.
 
 When speech carries consequences, you cannot claim to be a nautral facilitator of information. The internet isn't just networks - ***it is a network of people***.
 
-I would also raise serious questions about any of those admins, for them to have the capacity to treat people who dehumanise trans people the same way as someone who likes a certain TV show.
+I would also raise serious questions about any of those admins for them to treat the speech on their service in this way. For instance, to have the capacity to treat a person who dehumanises trans people the same way as someone who likes a certain TV show.
