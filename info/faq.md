@@ -1,3 +1,8 @@
+# FAQ
+
+Hey, this FAQ is mainly about the hate groups and hate speech and blocking such elements in the fediverse, since there are a lot of people with hang-ups over this practice.
+
+
 ### What is a hate group?
 
 A group of people that attacks or vilifies a sector of society or class of people, normally for immutable characteristics (an aspect of a person that cannot be changed), such as:
@@ -17,17 +22,33 @@ For my purposes a hate group is *to attack or vilify people for immutable things
 
 Historically in the pre-internet days, to be part of a hate group was to be part of an actual physical group or chapter with meetings or rallies. In the internet age, you don't have to be a part of an organisation to contribute to a unified, hateful discourse, and this is exactly what we see with the 'alt-right'.
 
+<br/>
+
+The assessment of what is a hate group or what is hate speech differs depending on who is doing the assessment and in what context you're doing it in (like what country or part of the world you're assessing from), but for any organisation or person that knows that they're doing, it generally falls under the kinds of lines I illustrated above.
+
+This assessment also changes based on our understanding of humans and the politics surrounding that change. For instance, several decades ago, gender identity might have not been on this list.
+
+<br/>
+
+To me, identifying hate speech and hate groups has a variety of particular benefits:
+
+- To prevent the dissemination of false information.
+- To make non-hostile communities.
+- To prevent social networks from being weaponised against people.
+- To protect marginalised groups from those who would otherwise marginalise and oppress them.
+
+
 ---
 
 ### Do you just block right-wing people?
 
-It's not really of any concern of mine whether something is left or right (and I'm not a fan of this dichotomy that much anyway), just the ideologies that are espoused. If they are hateful by my classifications (see above), then they go on the blocklist. This kind of behaviour is typically more common on the right, especially on the fediverse.
+It's not really of any concern of mine whether something is left or right (and I'm not a fan of this dichotomy that much anyway), just the ideologies that are espoused. If they are hateful by my classifications (see above), then they go on the blocklist. This however, does tend to be more common on the 'right', especially on the fediverse.
 
 ---
 
 ### What about anti-white racism?
 
-The problem with the idea of anti-white racism is not that it can't exist (there definitely are hate ideologies that malign or vilify white people), it's that this concept is often used as a reaction to civil rights reform, people who call out racism, or someone talking about their general frustration regarding these kinds of topics. 
+The problem with the idea of anti-white racism is not that it can't exist (there definitely are hate ideologies that malign or vilify white people), it's that this concept is often simply used as a reaction to civil rights reform, people who call out racism, or someone expressing their frustrations with certain patterns of behaviour that may be common to white people.
 
 It's also often used as a dogwhistle as part of a false narrative currently being perpetuated by white supremacists (ie. 'White Genocide', 'The Great Displacement', etc.).
 

@@ -65,3 +65,9 @@ Each instance has a URL and a list of [reasons](info/reasons.md) as to why they 
 
 Every instance has a list of reasons of why you might want to block them for. [Check this doc](info/reasons.md) for a list with detailed explanations.
 
+---
+
+## FAQ
+
+[There's an FAQ here](info/faq).
+
