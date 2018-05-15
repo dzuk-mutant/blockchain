@@ -69,5 +69,5 @@ Every instance has a list of reasons of why you might want to block them for. [C
 
 ## FAQ
 
-[There's an FAQ here](info/faq).
+[There's an FAQ here](info/faq.md).
 
