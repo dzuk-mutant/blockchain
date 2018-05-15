@@ -1,12 +1,26 @@
 # BLOCKchain (not that kind)
 
-This is a *chain of blocks*, specifically blocks for instances that federate with Mastodon instances, whether they are other Mastodon instances, or another kind of instance like GNUSocial, Pleroma, etc.
+The space of decentralised social networking is relatively new territory, and while many of us who would otherwise face abuse on standard centralised social media services are enjoying our new found ability to define our own boundaries, it does not come without new risks and downsides.
 
-This is very new! Please check it out and help me iron out the bugs.
+While many of us came to Mastodon to set up more egalitarian social networks, there are also other people who are setting up their own spaces to share illegal content and hate.
+
+<br/>
+
+The recent turmoils of our traditional social networks and the wider internet have revealed to many the internet is not a neutral space. It is not something that automatically produces prosperous outcomes. We have to shape our technology to create the spaces and the kind of internet we want to see in our daily lives.
+
+<br/>
+
+BLOCKchain aims to address the unique issues presented by federated social networking by giving instances tools to understand, identify and push out hate through research and exposition.
 
 ---
 
-This is a brief, machine-readable version of my long and documented [human-readable version](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23).
+**BLOCKchain is currently quite a fragmented project, in need of restructuring.
+
+It's currently divided into two parts:**
+
+- **Machine-readable** (this GitHub) - a JSON file you can use to automate blocking via [reasons](info/reasons.md) tags.
+- **Human-readable** ([http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)) - a frequently updated page that documents in detail what the instances on the list have done to be on the blocklist, complete with screen captures of some of their post.
+
 
 If you're new to this list and the kinds of instances that get blocked from Mastodon, I recommend you check the [human-readable one](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23) for all these instances first just so you know what you're doing and who you're blocking. I also try to explain what the reasons are below  too because this JSON blocklist is structured a bit differently.
 
@@ -24,9 +38,11 @@ In short...
 - You want to defend the freedom of people to choose their pronouns, what religion they practice, how they want to represent themselves, who they want to fuck and to defend the right of these people to speak without fear of inane, hateful bullshit.
 - You don't want to allow cults and hate groups to recruit vulnerable people.
 
+Think of it as a spam filter for harassment, hate and illegal content.
+
 This blocklist isn't prescriptive too. Each instance has a list of reasons of why you might want to block an instance for and you can take the action that is most appropriate for your instance.
 
-Don't know what a hate group is really like, or confused about which groups are hate groups? Don't worry! I've included links to many reputable resources that can help you understand in this readme.
+Don't know how to identify hate speech? Don't worry! I've included links to many reputable resources that can help you understand in this readme and in the [reasons](info/reasons.md) section.
 
 ---
 
@@ -71,3 +87,52 @@ Every instance has a list of reasons of why you might want to block them for. [C
 
 [There's an FAQ here](info/faq.md).
 
+---
+
+
+## Useful links
+
+If you're interested in understanding hate groups, speech and rhetoric, here's a bunch of places that specialise in tracking these subjects:
+
+##### [Southern Poverty Law Center](https://www.splcenter.org)
+
+American hate group watch dog, anti-hate campaigner and legal non-profit defending civil liberties. 
+
+Has been meticulously tracking individual hate groups in the US meat space since 1990.
+
+- [**Hatewatch**](https://www.splcenter.org/hatewatch): A blog with regular news about the happenings of American hate groups and well-established figures in these movements.
+
+- [**Extremist Files - Ideologies**](https://www.splcenter.org/fighting-hate/extremist-files/ideology): Neat summaries of common/well-established hate ideologies they tend to encounter in their research and investigations.
+
+<br/>
+
+##### [Hope Not Hate](https://www.hopenothate.org.uk)
+
+British hate group watchdog, and anti-racist political campaign group. They use a combination of standard research, undercover operatives and political counter-campaigning to fight hate groups in the UK.
+
+- [**Blog**](https://www.hopenothate.org.uk/updates/blog/)
+
+<br/>
+
+##### [Hope Not Hate (US)](https://hopenothate.com) 
+
+American branch of Hope Not Hate, focusing on the Alt-right.
+
+
+
+
+- [**The International Alternative Right**](https://alternativeright.hopenothate.com): A special mini-site dedicated to the alt-right and alt-light. Featuring an extensive undercover investigation of many of their IRL meetings annd movements, which is in the process of being compiled into a documentary right now.
+
+- [**Control Alt-Right Delete**](https://hopenothate.com/ctrl-alt-right-delete/) A weekly blog/newsletter dedicated to understanding how the alt-right works and developing strategies to fight back.
+
+<br/>
+
+##### [We Hunted The Mammoth](https://www.wehuntedthemammoth.com)
+
+A blog tracking and exposing the commentary and ideological trends among the Male Supremacy/'Manosphere' movements, such as PUA, Red Pill, Incel, MGTOW and more.
+
+<br/>
+
+##### [Searchlight](http://www.searchlightmagazine.com)
+
+A magazine investigating racism, fascism and antisemitism in Britain and elsewhere.
