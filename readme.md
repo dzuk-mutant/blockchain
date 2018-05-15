@@ -18,13 +18,11 @@ BLOCKchain aims to address the unique issues presented by federated social netwo
 
 **It's currently divided into two parts:**
 
-- **Machine-readable** (this GitHub) - a JSON file you can use to automate blocking via [reasons](info/reasons.md) tags.
-- **Human-readable** ([http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)) - a frequently updated page that documents in detail what the instances on the list have done to be on the blocklist, complete with screen captures of some of their post.
+- **Machine-readable** (this GitHub) - a JSON file you can use to automate blocking with scripts via [reasons](info/reasons.md) tags.
+- **Human-readable** ([http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)) - a frequently updated page that documents in detail what the instances on the list have done to be on the blocklist, complete with screen captures of some of their posts.
 
 
-If you're new to this list and the kinds of instances that get blocked from Mastodon, I recommend you check the [human-readable one](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23) for all these instances first just so you know what you're doing and who you're blocking. I also try to explain what the reasons are below  too because this JSON blocklist is structured a bit differently.
-
-I'm not much of a programmer so I don't have any scripts to offer you that can automatically apply blocks on your Mastodon instance from this JSON file, but I assume it would probably be kind of simple to perform.
+If you're new to this list and the kinds of instances that get blocked from Mastodon, I recommend you check the human-readable one first for all these instances first just so you know what you're doing and who you're blocking. I also try to explain what the reasons are below too because this JSON blocklist is structured a bit differently.
 
 ---
 
