@@ -147,5 +147,5 @@ I would also raise serious questions about any of those admins for them to treat
 
 **Don't:**
 
-- Ask me that you will remove the posts of the screencaps I posted. I care about your idea of what you find acceptable to post on your server as a whole, not X incident or Y incident.
+- Tell me that you will remove the posts of the screencaps I posted. I care about your idea of what you find acceptable to post on your server as a whole, not X incident or Y incident.
 - Tell me that you don't have hateful ideologies or beliefs therefore you shouldn't be on the list. *I don't care what you believe in, just what you do.*

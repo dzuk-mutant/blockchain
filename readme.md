@@ -14,9 +14,9 @@ BLOCKchain aims to address the unique issues presented by federated social netwo
 
 ---
 
-**BLOCKchain is currently quite a fragmented project, in need of restructuring.
+**BLOCKchain is currently quite a fragmented project, in need of restructuring.**
 
-It's currently divided into two parts:**
+**It's currently divided into two parts:**
 
 - **Machine-readable** (this GitHub) - a JSON file you can use to automate blocking via [reasons](info/reasons.md) tags.
 - **Human-readable** ([http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)) - a frequently updated page that documents in detail what the instances on the list have done to be on the blocklist, complete with screen captures of some of their post.
