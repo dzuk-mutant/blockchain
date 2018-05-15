@@ -81,6 +81,12 @@ Communities have the right to define their own boundaries, whether you agree wit
 
 Secondly, ideologies do not exist in a vacuum - they have implications and consequences, and not all ideologies should be considered equal because of that. You know, Nazism is an ideology but for decades most people have had the common sense to dismiss it.
 
+<br/>
+
+It's also important that while ideology is a jumping off point, it isn't the ultimate reason this is done. Me blocking instances for enabling hate ideologies and hate groups is nothing compared to the threat of violence that these groups, ideologies and actions pose against certain groups of people.
+
+**If you want to not be on my blocklist, you can simply change your mind and not let these people on your server and/or stop doing the things you're being blocked for. If you're a targeted minority and want to make a person with a hateful or fascistic ideology happy, you have to stop existing.**
+
 ----
 
 ### Shouldn't there be people around who can challenge these hateful ideologies?
@@ -88,6 +94,18 @@ Secondly, ideologies do not exist in a vacuum - they have implications and conse
 Yes, but it's not everyone's responsibility. Especially not the responsibility of those who are normally victimised by hate groups (and for whom someone in a hate group would be inclined not to listen to anyway).
 
 If you have the energy and faculties (and know enough about what you're doing) to occasionally put yourself around these kinds of people (especially if you're white, straight, cis, male, etc.) and provide alternative narratives or an alternative voice, then by all means do.
+
+----
+
+### You can't tell if someone has a particular ideology or belief or not.
+
+**No, but that's not what I'm interested in. I'm interested in what people do.**
+
+For all I care, you can be the most hateful person imaginable, but if you keep it to yourself and don't post an ounce of it, I would have no interest in your server. Furthermore, I wouldn't be able to tell.
+
+I'm well aware that not everyone who posts shitty things does it knowingly, that's not the point. **For my purposes, your intent doesn't matter, but your actions do.**
+
+If you find doing particular things acceptable, for whatever reason, you will be on the blocklist, and only by understanding why that was a bad thing to do and stop doing those things will you ever not be on the list.
 
 ----
 
@@ -113,3 +131,21 @@ It's an admin's responsibility for who they have on their server.
 When speech carries consequences, you cannot claim to be a nautral facilitator of information. The internet isn't just networks - ***it is a network of people***.
 
 I would also raise serious questions about any of those admins for them to treat the speech on their service in this way. For instance, to have the capacity to treat a person who dehumanises trans people the same way as someone who likes a certain TV show.
+
+
+----
+
+
+### Say I don't want my instance to be on your blocklist anymore. What would I need to do?
+
+**Do:**
+
+- Learn why the things you did were wrong.
+- Stop doing those things.
+- Keep at it.
+
+
+**Don't:**
+
+- Ask me that you will remove the posts of the screencaps I posted. I care about your idea of what you find acceptable to post on your server as a whole, not X incident or Y incident.
+- Tell me that you don't have hateful ideologies or beliefs therefore you shouldn't be on the list. *I don't care what you believe in, just what you do.*
