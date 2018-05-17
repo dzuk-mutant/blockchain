@@ -100,7 +100,7 @@ Sorry that this is very anglophone-centric right now ¯\\\_(ツ)_/¯
 
 #### [Southern Poverty Law Center](https://www.splcenter.org)
 
-American hate group watch dog, anti-hate campaigner. They are also legal non-profit fighting hate, discrimination and threats to civil liberties. 
+American hate group watch dog, anti-hate campaigner. They are also a legal non-profit fighting hate, discrimination and threats to civil liberties. 
 
 They have been meticulously tracking individual hate groups in the US meat space since 1990.
 
