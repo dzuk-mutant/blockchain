@@ -10,7 +10,7 @@ The recent turmoils of our traditional social networks and the wider internet ha
 
 <br/>
 
-BLOCKchain aims to address the unique issues presented by federated social networking by giving instances tools to understand, identify and push out hate through research and exposition.
+BLOCKchain aims to address the unique issues presented by federated social networking by giving instances tools to understand, identify and push out hate and other social media threats through research and exposition.
 
 ---
 
@@ -33,7 +33,7 @@ In short...
 - You want to keep illegal content (eg. child porn) off your servers.
 - You want to promote healthy discussion and interactions between people that isn't poisoned by shitty, violent ideologies and dangerous conspiracy theories.
 - You want your users to enjoy your instance and not have to worry about being harrassed or have shit flinged at them from people who don't know better.
-- You want to defend the freedom of people to choose their pronouns, what religion they practice, how they want to represent themselves, who they want to fuck and to defend the right of these people to speak without fear of inane, hateful bullshit.
+- You want to defend the freedom of people to choose their pronouns, what religion they practice, how they want to represent themselves, who they want to have sex with, etc. etc. and to defend the right of these people to speak without fear of inane, hateful speech.
 - You don't want to allow cults and hate groups to recruit vulnerable people.
 
 Think of it as a spam filter for harassment, hate and illegal content.
@@ -90,13 +90,19 @@ Every instance has a list of reasons of why you might want to block them for. [C
 
 ## Useful links
 
-If you're interested in understanding hate groups, speech and rhetoric, here's a bunch of places that specialise in tracking these subjects:
+If you're interested in understanding hate groups, speech and rhetoric, here's a bunch of places that specialise in tracking these subjects.
 
-##### [Southern Poverty Law Center](https://www.splcenter.org)
+Sorry that this is very anglophone-centric right now ¯\\\_(ツ)_/¯
 
-American hate group watch dog, anti-hate campaigner and legal non-profit defending civil liberties. 
+**Also content warning! All of these are going to contain lots of unhappy things from the start!**
 
-Has been meticulously tracking individual hate groups in the US meat space since 1990.
+<br/>
+
+#### [Southern Poverty Law Center](https://www.splcenter.org)
+
+American hate group watch dog, anti-hate campaigner. They are also legal non-profit fighting hate, discrimination and threats to civil liberties. 
+
+They have been meticulously tracking individual hate groups in the US meat space since 1990.
 
 - [**Hatewatch**](https://www.splcenter.org/hatewatch): A blog with regular news about the happenings of American hate groups and well-established figures in these movements.
 
@@ -104,7 +110,7 @@ Has been meticulously tracking individual hate groups in the US meat space since
 
 <br/>
 
-##### [Hope Not Hate](https://www.hopenothate.org.uk)
+#### [Hope Not Hate](https://www.hopenothate.org.uk)
 
 British hate group watchdog, and anti-racist political campaign group. They use a combination of standard research, undercover operatives and political counter-campaigning to fight hate groups in the UK.
 
@@ -112,7 +118,7 @@ British hate group watchdog, and anti-racist political campaign group. They use 
 
 <br/>
 
-##### [Hope Not Hate (US)](https://hopenothate.com) 
+#### [Hope Not Hate (US)](https://hopenothate.com) 
 
 American branch of Hope Not Hate, focusing on the Alt-right.
 
@@ -125,12 +131,27 @@ American branch of Hope Not Hate, focusing on the Alt-right.
 
 <br/>
 
-##### [We Hunted The Mammoth](https://www.wehuntedthemammoth.com)
+#### [We Hunted The Mammoth](https://www.wehuntedthemammoth.com)
 
 A blog tracking and exposing the commentary and ideological trends among the Male Supremacy/'Manosphere' movements, such as PUA, Red Pill, Incel, MGTOW and more.
 
 <br/>
 
-##### [Searchlight](http://www.searchlightmagazine.com)
+#### [Searchlight](http://www.searchlightmagazine.com)
 
 A magazine investigating racism, fascism and antisemitism in Britain and elsewhere.
+
+<br/>
+
+
+#### [ShitRedditSays](https://www.reddit.com/r/ShitRedditSays/)
+
+A Reddit community dedicated to showcasing the worst (re: bigoted, creepy, sexist, racist, homophobic, transphobic etc. etc. etc.) commentary across Reddit.
+
+Contains more of a humorous tone compared to the other links, and the community is more of a venting place (not to say it diminishes it's quality, just that it's different in tone). An easy way to get an insight into the latest trends in typical anglophone internet hate speech discourse at a glance.
+
+<br/>
+
+#### [Right Wing Watch](http://www.rightwingwatch.org)
+
+Blog dedicated to tracking far-right movements, figures and rhetoric in the US.
