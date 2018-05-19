@@ -4,150 +4,168 @@
 		{
 			"name": "No Agenda Social",
 			"domain": 	"noagendasocial.com",
+			"action":  ["suspend"],
 			"reasons": ["harrassment"]
 		},
 
 		{
 			"name": "No Agenda Social",
 			"domain": 	"noagenda.social",
+			"action":  ["suspend"],
 			"reasons": ["harrassment"]
 		},
 
 		{
 			"name": "sunshinegardens.org",
 			"domain": 	"sunshinegardens.org",
+			"action":  ["suspend"],
 			"reasons": ["harrassment"]
 		},
 
 		{
 			"name": "freespeech.firedragonstudios.com",
 			"domain": 	"freespeech.firedragonstudios.com",
+			"action":  ["suspend"],
 			"reasons": ["harrassment", "hate-speech"]
-		},
-
-		{
-			"name": "2.distsn.org",
-			"domain": 	"freespeech.firedragonstudios.com",
-			"reasons": ["spam"]
 		},
 
 		{
 			"name": "yiff.rocks",
 			"domain": 	"yiff.rocks",
+			"action":  ["suspend"],
 			"reasons": ["harrassment", "hate-speech"]
 		},
 
-
-
-
-
-
+		{
+			"name": "2.distsn.org",
+			"domain": 	"2.distsn.org",
+			"action":  ["suspend"],
+			"reasons": ["spam"]
+		},
 
 		{
 			"name": "shitposter.club",
 			"domain": 	"shitposter.club",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "rainbowdash.net",
 			"domain": 	"rainbowdash.net",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "freezepeach.xyz",
 			"domain": 	"freezepeach.xyz",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "woofer.alfter.us",
 			"domain": 	"woofer.alfter.us",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.au2pb.net",
 			"domain": 	"social.au2pb.net",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "sealion.club",
 			"domain": 	"sealion.club",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gs.smuglo.li",
 			"domain": 	"gs.smuglo.li",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "pl.smuglo.li",
 			"domain": 	"pl.smuglo.li",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "unsafe.space",
 			"domain": 	"unsafe.space",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.heldscal.la",
 			"domain": 	"social.heldscal.la",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "wrongthink.net",
 			"domain": 	"wrongthink.net",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "ediot.social",
 			"domain": 	"ediot.social",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.au2pb.net",
 			"domain": 	"social.au2pb.net",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.hidamari.blue",
 			"domain": 	"social.hidamari.blue",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "libertarianism.club",
 			"domain": 	"libertarianism.club",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "npf.mlpol.net",
 			"domain": 	"npf.mlpol.net",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gorf.club",
 			"domain": 	"gorf.club",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "pleroma.cucked.me",
 			"domain": 	"pleroma.cucked.me",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech", "untagged-NSFW"]
 		},
 
@@ -159,66 +177,77 @@
 		{
 			"name": "gs.kawa-kun.com",
 			"domain": 	"gs.kawa-kun.com",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gs.archae.me",
 			"domain": 	"gs.archae.me",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech", "lolicon"]
 		},
 
 		{
 			"name": "pleroma.soykaf.com",
 			"domain": 	"pleroma.soykaf.com",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "community.highlandarrow.com",
 			"domain": 	"community.highlandarrow.com",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "jabb.in",
 			"domain": 	"jabb.in",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech", "lolicon"]
 		},
 
 		{
 			"name": "hakui.club",
 			"domain": 	"hakui.club",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.i2p.rocks",
 			"domain": 	"social.i2p.rocks",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "zerohack.xyz",
 			"domain": 	"zerohack.xyz",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "explosion.party",
 			"domain": 	"explosion.party",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "kawaiistu.moe",
 			"domain": 	"kawaiistu.moe",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "voluntaryism.club",
 			"domain": 	"voluntaryism.club",
+			"action":  ["silence", "no-media"],
 			"reasons": ["hate-speech"]
 		},
 
@@ -231,6 +260,7 @@
 		{
 			"name": "not.phrack.fyi",
 			"domain": "not.phrack.fyi",
+			"action":  ["silence"],
 			"reasons": ["dct"]
 		},
 
@@ -244,48 +274,56 @@
 		{
 			"name": "toot.love",
 			"domain": 	"toot.love",
+			"action":  ["silence"],
 			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "ika.moe",
 			"domain": 	"ika.moe",
+			"action":  ["silence"],
 			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "anitwitter.moe",
 			"domain": 	"anitwitter.moe",
+			"action":  ["silence"],
 			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "kyot.me",
 			"domain": 	"kyot.me",
+			"action":  ["silence"],
 			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "social.targaryen.house",
 			"domain": 	"social.targaryen.house",
+			"action":  ["silence"],
 			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "manx.social",
 			"domain": 	"manx.social",
+			"action":  ["silence"],
 			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "niu.moe",
 			"domain": 	"niu.moe",
+			"action":  ["silence"],
 			"reasons": ["A-hate-speech"]
 		},
 
 		{
 			"name": "social.wiuwiu.de",
 			"domain": 	"social.wiuwiu.de",
+			"action":  ["suspend"],
 			"reasons": ["A-hate-speech"]
 		},
 
@@ -295,18 +333,21 @@
 		{
 			"name": "pridelands.io",
 			"domain": 	"pridelands.io",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "counter.social",
 			"domain": 	"counter.social",
+			"action":  ["suspend"],
 			"reasons": ["jingoism", "hate-speech"]
 		},
 
 		{
 			"name": "Hiveway",
 			"domain": "hiveway.net",
+			"action":  ["suspend"],
 			"reasons": ["privacy", "corporate", "tech-sleaze", "advertising"]
 
 		},
@@ -315,12 +356,14 @@
 		{
 			"name": "mastodon.blue",
 			"domain": 	"mastodon.blue",
+			"action":  ["silence"],
 			"reasons": ["unresponsive"]
 		},
 
 		{
 			"name": "hostux.social",
 			"domain": 	"hostux.social",
+			"action":  ["silence"],
 			"reasons": ["A-harrassment"]
 		},
 
@@ -329,6 +372,7 @@
 		{
 			"name": "porntoot.com",
 			"domain": 	"porntoot.com",
+			"action":  ["no-media"],
 			"reasons": ["untagged-NSFW"]
 		},
 
@@ -336,42 +380,49 @@
 		{
 			"name": "baraag.net",
 			"domain": 	"baraag.net",
+			"action":  ["silence", "no-media"],
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "social.allthefallen.ninja",
 			"domain": 	"social.allthefallen.ninja",
+			"action":  ["silence", "no-media"],
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "social.homunyan.com",
 			"domain": 	"social.homunyan.com",
+			"action":  ["silence", "no-media"],
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "preteengirls.biz",
 			"domain": 	"preteengirls.biz",
+			"action":  ["silence", "no-media"],
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "mastodon.loliandstuff.moe",
 			"domain": 	"mastodon.loliandstuff.moe",
+			"action":  ["silence", "no-media"],
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "wxw.moe",
 			"domain": 	"wxw.moe",
+			"action":  ["silence", "no-media"],
 			"reasons": ["lolicon"]
 		},
 
 		{
 			"name": "social.super-niche.club",
 			"domain": 	"social.super-niche.club",
+			"action":  ["silence", "no-media"],
 			"reasons": ["lolicon"]
 		},
 
@@ -379,48 +430,56 @@
 		{
 			"name": "Pawoo",
 			"domain": 	"pawoo.net",
+			"action":  ["suspend", "no-media"],
 			"reasons": ["lolicon", "corporate"]
 		},
 
 		{
 			"name": "Pawoo Music",
 			"domain": 	"music.pawoo.net",
+			"action":  ["suspend", "no-media"],
 			"reasons": ["corporate"]
 		},
 
 		{
 			"name": "friends.nico",
 			"domain": 	"friends.nico",
+			"action":  ["silence"],
 			"reasons": ["corporate"]
 		},
 
 		{
 			"name": "Raptor Engineering, LLC",
 			"domain": 	"social.raptorengineering.io",
+			"action":  ["silence"],
 			"reasons": ["advertising"]
 		},
 
 		{
 			"name": "social.guizzyordi.info",
 			"domain": 	"social.guizzyordi.info",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "social.lucci.xyz",
 			"domain": 	"social.lucci.xyz",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "wogan.im",
 			"domain": 	"wogan.im",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		},
 
 		{
 			"name": "gs.m0n5t3r.info",
 			"domain": 	"gs.m0n5t3r.info",
+			"action":  ["suspend"],
 			"reasons": ["hate-speech"]
 		}
 
