@@ -2,7 +2,7 @@
 
 The space of decentralised social networking is relatively new territory, and while many of us who would otherwise face abuse on standard centralised social media services are enjoying our new found ability to define our own boundaries, it does not come without new risks and downsides.
 
-While many of us came to Mastodon to set up more egalitarian social networks, there are also other people who are setting up their own spaces to share illegal content and hate.
+While many of us came to Mastodon to set up more egalitarian social networks, there are also other people who are setting up their own spaces to spew hate.
 
 <br/>
 
@@ -11,18 +11,6 @@ The recent turmoils of our traditional social networks and the wider internet ha
 <br/>
 
 BLOCKchain aims to address the unique issues presented by federated social networking by giving instances tools to understand, identify and push out hate and other social media threats through research and exposition.
-
----
-
-**BLOCKchain is currently quite a fragmented project, in need of restructuring.**
-
-**It's currently divided into two parts:**
-
-- **Machine-readable** (this GitHub) - a JSON file you can use to automate blocking with scripts via [reasons](info/reasons.md) tags.
-- **Human-readable** ([http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)) - a frequently updated page that documents in detail what the instances on the list have done to be on the blocklist, complete with screen captures of some of their posts.
-
-
-If you're new to this list and the kinds of instances that get blocked from Mastodon, I recommend you check the human-readable one first for all these instances first just so you know what you're doing and who you're blocking. I also try to explain what the reasons are below too because this JSON blocklist is structured a bit differently.
 
 ---
 
@@ -36,11 +24,34 @@ In short...
 - You want to defend the freedom of people to choose their pronouns, what religion they practice, how they want to represent themselves, who they want to have sex with, etc. etc. and to defend the right of these people to speak without fear of inane, hateful speech.
 - You don't want to allow cults and hate groups to recruit vulnerable people.
 
-Think of it as a spam filter for harassment, hate and illegal content.
+Think of it as a spam filter for harassment, hate and common kinds of illegal content.
 
-This blocklist isn't prescriptive too. Each instance has a list of reasons of why you might want to block an instance for and you can take the action that is most appropriate for your instance.
+This blocklist isn't prescriptive too. Feel free to examine the reasons and each instance to see what action is right for you.
 
-Don't know how to identify hate speech? Don't worry! I've included links to many reputable resources that can help you understand in this readme and in the [reasons](info/reasons.md) section.
+Don't know how to identify hate speech? Don't worry! I've included links to many reputable resources that can help you understand in this readme.
+
+---
+
+
+## The List
+
+**BLOCKchain is currently quite a fragmented project, in need of restructuring.**
+
+**It's currently divided into two parts:**
+
+#### New (this GitHub)
+
+[You can find the new list here.](list/list.md)
+
+A more convenient list with linked summaries breaking down examples of hateful discourse within the listed instances when it occurs. Also has a better, tighter editorial style. **This is in development and not complete.** When it is finished, it will be replacing the old one.
+
+
+#### Old
+[You can find the old list here.](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)
+
+This is the original page for the blocklist. **Contains all examples and all evidence.**
+
+This will eventually be phased out into the new list.
 
 ---
 
@@ -65,13 +76,6 @@ I was accepting issues on this GitHub, but there were too many people who either
 
 I made [an FAQ](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24) a while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
 
----
-
-## Structure
-
-So the blocklist is basically just one array with the instances in it.
-
-Each instance has a URL and a list of [reasons](info/reasons.md) as to why they are on the blocklist. I'm not that much of a programmer, but I assume you can use those to filter which instances you want to block and how severe you want it to be.
 
 ---
 
