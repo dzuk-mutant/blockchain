@@ -20,6 +20,15 @@ Some of these instances don't exist anymore, but because people can own domains 
 
 ----
 
+## Security/privacy risks
+
+These instances have something in them that compromises the privacy/broadcast levels of posts that have been made.
+
+* [**pleroma.rareome.ga**](pleroma_rareome_ga/pleroma_rareome_ga.md)
+
+
+----
+
 ## Harassment and direct abuse to other people
 
 These instances have harassed users of other instances or generally acted abusively towards them.
@@ -88,6 +97,7 @@ See the old list for the ones that don't have their own files for the explanatio
 * **gs.mon5t3r.info**
 * [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
 * [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
+* [**pleroma.rareome.ga**](pleroma_rareome_ga/pleroma_rareome_ga.md)
 
 
 ---
