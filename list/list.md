@@ -22,7 +22,7 @@ Some of these instances don't exist anymore, but because people can own domains 
 
 ## Security/privacy risks
 
-These instances have something in them that compromises the privacy/broadcast levels of posts that have been made.
+These instances have something in them that compromises the privacy/broadcast levels of posts.
 
 * [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
 
@@ -40,6 +40,7 @@ These instances have harassed users of other instances or generally acted abusiv
 * **freespeech.firedragonstudios.com**
 * **yiff.rocks**
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
+* [**loli.estate**](instances/loli_estate/loli_estate.md)
 
 
 ----
@@ -179,18 +180,19 @@ This isn't necessarily a moral judgement, but it is illegal in most western coun
 
 **This judgement has to be done by eye, not by whatever an accompanying text says.** So if some context says the person is over 18, but they definitely *look* under 18, that is still going to be considered under this category.
 
-With this list I am generally going by the word of mods and admins I trust unless I accidentally stumble upon it myself or it's self-evident from the instance description.
+With this list I am generally going by the word of mods and admins I trust unless I accidentally stumble upon it myself or it's self-evident from the instance description. I generally won't be linking to the material because it would probably be legally fraught for everyone to do so.
 
 
 
 - **baraag.net** (https://elekk.xyz/@noelle/18828)
 - **social.allthefallen.ninja** (lolicon and shotacon-oriented space; self-evident from instance description)
-- **Pawoo (pawoo.net)** (Japanese law on this differs to western countries so it's legally fine for Pawoo to host shota/loli) (https://github.com/tootcafe/blocked-instances)
+- **Pawoo (pawoo.net)** (Japanese law enforcement on this differs to western countries) (https://github.com/tootcafe/blocked-instances)
 - **social.homunyan.com** (https://social.homunyan.com/users/ZettaiRyouiki/updates/4632, also that entire user. The admin has boosted an update from that user and the instance is very small so they seem fine with it.)
 - **preteengirls.biz** (kinda obvious from the name... [1])
 - **mastodon.loliandstuff.moe** (self-evident)
 - **wxw.moe** (It has a loli-posting bot called AnimeGirlsBot. The instance is Chinese so I can't talk to the moderator about it but judging from their profile they are totally fine with it.)
 - **social.super-niche.club** (https://cybre.space/@chr/99842390611279789)
+- [**loli.estate**](instances/loli_estate/loli_estate.md)
 
 
 ---
