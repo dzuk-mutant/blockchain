@@ -4,7 +4,7 @@ This new list breaks off the instances of abuse, hate, etc. that an instance may
 
 Eventually, the goal is to get most instances their own file, and content will be built up as time goes on.
 
-For now, if you still want the most detail, you should look at [The Old List](). 
+For now, if you still want the most detail, you should look at [The Old List](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23). 
 
 Some are repeated in this list multiple times because they are in different categories.
 
@@ -14,7 +14,9 @@ Some of these instances don't exist anymore, but because people can own domains 
 
 ## Important notice!
 
-**All of the links in this document are to other documents in this GitHub detailing the evidence about that instance. They do not go to the instances themselves. If there are links to an instance's content, they will not be hyperlinked for safety.**
+**All of the instance links in this document are to other documents in this GitHub detailing the evidence about that instance. They do not go to the instances themselves.**
+
+**Unfortunately evidence links are automatically hyperlinked in GitHub, and I shall try to circumvent that in due course, so avoid clicking on those unless you actually want to.**
 
 **Any content or topics beyond this point may be of a distressing nature. If you're not in the mood to experience that right now, I recommend coming back later.**
 
