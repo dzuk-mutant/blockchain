@@ -104,6 +104,7 @@ See the old list for the ones that don't have their own files for the explanatio
 * [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
 * [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 * [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
+* [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
 
 
 ---
@@ -131,7 +132,7 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 
 Instances that aren't overtly safe spaces for violent speech, but they do say that they want to moderate as little as possible, often with the only thing they're really willing to moderate is what's illegal for them (and also normally harrassment).
 
-The problem with that is that leaves out fascism, sexism, racism, homophobia, and other forms of bigotry. So while they aren't necessarily engaging in it themselves, they are enabling it by letting other people do it on their servers.
+The problem with that is that leaves out fascism, sexism, racism, homophobia, and other forms of bigotry. So while they aren't necessarily engaging in it themselves, they are enabling it by letting other people do it on their servers. This means that by federating with them, you're putting you and your users at risk too.
 
 
 
@@ -172,8 +173,8 @@ Instances that have made it clear that they won't remove violent individuals, bu
 
 This is a miscellaneous group, and each instance is here for their own very specific reasons. I recommend you check out each instance's file.
 
-- **pridelands.io**
-- **counter.social**
+- [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
+- [**counter.social**](instances/counter_social/counter_social.md)
 
 ---
 
