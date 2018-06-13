@@ -77,12 +77,6 @@ I made [an FAQ](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24) a
 
 ---
 
-## Reasons
-
-Every instance has a list of reasons of why you might want to block them for. [Check this doc](info/reasons.md) for a list with detailed explanations.
-
----
-
 ## FAQ
 
 [There's an FAQ here](info/faq.md).
