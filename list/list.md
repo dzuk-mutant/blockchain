@@ -40,10 +40,12 @@ These instances have harassed users of other instances or generally acted abusiv
 * **noagendasocial.com**
 * **sunshinegardens.org**
 * **freespeech.firedragonstudios.com**
-* **yiff.rocks**
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
 * [**youkai.town**](instances/youkai_town/youkai_town.md)
+
+
+* [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) **[instance no longer exists]**
 
 
 ----

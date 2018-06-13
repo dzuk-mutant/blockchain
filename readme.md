@@ -51,8 +51,6 @@ A more convenient list with linked summaries breaking down examples of hateful d
 
 This is the original page for the blocklist. **Contains all examples and all evidence.**
 
-This will eventually be phased out into the new list.
-
 ---
 
 ## Updates
@@ -64,7 +62,7 @@ You can follow [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain) 
 
 ## Contributions
 
-Feel free to contribute either here or on Mastodon via [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain).
+Feel free to contribute on Mastodon via [@blockchain@monsterpit.net](https://monsterpit.net/@blockchain).
 
 Unless it's really obvious how bad an instance is by looking at their front page, it's important that you bring evidence. Links are especially preferred becuase it means I can verify, archive and screencap them myself.
 
