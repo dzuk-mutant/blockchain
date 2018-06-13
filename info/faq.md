@@ -2,42 +2,6 @@
 
 Hey, this FAQ is mainly about the hate groups and hate speech and blocking such elements in the fediverse, since there are a lot of people with hang-ups over this practice.
 
-
-### What is a hate group?
-
-A group of people that attacks or vilifies a sector of society or class of people, normally for immutable characteristics (an aspect of a person that cannot be changed), such as:
-
-- Race / Ethnicity
-- Disability
-- Sexual orientation
-- Gender identity
-
-This also extends to areas such as religion (as long as the religious sect/group itself is not a hate group).
-
-For my purposes a hate group is *to attack or vilify people for immutable things, or non-harmful activities or ideologies that can co-exist in a peaceful or compassionate society.*
-
-<br/>
-
-'Hate group' historically refers to an organised group with physical locations, ie. National Socialist Movement or English Defense League, but for the sake of this blocklist it's more about ideological groups, because that's how hate groups tend to work on the internet. 
-
-Historically in the pre-internet days, to be part of a hate group was to be part of an actual physical group or chapter with meetings or rallies. In the internet age, you don't have to be a part of an organisation to contribute to a unified, hateful discourse, and this is exactly what we see with the 'alt-right'.
-
-<br/>
-
-The assessment of what is a hate group or what is hate speech differs depending on who is doing the assessment and in what context you're doing it in (like what country or part of the world you're assessing from), but for any organisation or person that knows that they're doing, it generally falls under the kinds of lines I illustrated above.
-
-This assessment also changes based on our understanding of humans and the politics surrounding that change. For instance, several decades ago, gender identity might have not been on this list.
-
-<br/>
-
-To me, identifying hate speech and hate groups has a variety of particular benefits:
-
-- To prevent the dissemination of false information.
-- To make non-hostile communities.
-- To prevent social networks from being weaponised against people.
-- To protect marginalised groups from those who would otherwise marginalise and oppress them.
-
-
 ---
 
 ### Do you just block right-wing people?
@@ -149,3 +113,11 @@ I would also raise serious questions about any of those admins for them to treat
 
 - Tell me that you will remove the posts of the screencaps I posted. I care about your idea of what you find acceptable to post on your server as a whole, not X incident or Y incident.
 - Tell me that you don't have hateful ideologies or beliefs therefore you shouldn't be on the list. *I don't care what you believe in, just what you do.*
+
+---
+
+### What do you do with instances that no longer exist?
+
+They generally stay on the list, just marked that they no longer exist.
+
+[Read this article for more information.](deleted_instances.md)
