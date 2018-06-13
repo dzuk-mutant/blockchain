@@ -8,7 +8,7 @@ For now, if you still want the most detail, you should look at [The Old List](ht
 
 Some are repeated in this list multiple times because they are in different categories.
 
-Some of these instances don't exist anymore, but because people can own domains for years, they are staying on the list in case they ever decide to come back under the same ownership.
+Some of these instances don't exist anymore, but will be staying on for future reference for a variety of factors. [Learn more about how dead instances are handled here.](../info/deleted_instances.md)
 
 
 
@@ -121,7 +121,7 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 
 #### Instances
 
-- **not.phrack.fyi**
+- [**not.phrack.fyi**](instances/not_phrack_fyi/not_phrack_fyi.md)
 * [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 
 
