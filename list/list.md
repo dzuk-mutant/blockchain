@@ -43,6 +43,7 @@ These instances have harassed users of other instances or generally acted abusiv
 * **yiff.rocks**
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
+* [**youkai.town**](instances/youkai_town/youkai_town.md)
 
 
 ----
@@ -195,6 +196,7 @@ With this list I am generally going by the word of mods and admins I trust unles
 - **wxw.moe** (It has a loli-posting bot called AnimeGirlsBot. The instance is Chinese so I can't talk to the moderator about it but judging from their profile they are totally fine with it.)
 - **social.super-niche.club** (https://cybre.space/@chr/99842390611279789)
 - [**loli.estate**](instances/loli_estate/loli_estate.md)
+- [**youkai.town**](instances/youkai_town/youkai_town.md)
 
 
 ---
