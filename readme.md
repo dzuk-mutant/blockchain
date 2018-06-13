@@ -1,8 +1,10 @@
 # BLOCKchain (not that kind)
 
+![](sonny.png)
+
 The space of decentralised social networking is relatively new territory, and while many of us who would otherwise face abuse on standard centralised social media services are enjoying our new found ability to define our own boundaries, it does not come without new risks and downsides.
 
-While many of us came to Mastodon to set up more egalitarian social networks, there are also other people who are setting up their own spaces to spew hate.
+While many of us came to Mastodon to set up more egalitarian social networks, there are also other people who are setting up their own spaces to spew hate and abuse.
 
 <br/>
 
