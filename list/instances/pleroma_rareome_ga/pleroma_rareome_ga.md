@@ -10,22 +10,16 @@ Also just general edgelord stuff from what I have seen so far.
 
 ### example 1
 
-This was boosted by the instance admin themselves.
+Admission of the instance bypassing blocks.
 
-(https://pleroma.rareome.ga/notice/111833)  
-![](111833.png)
-
-### example 2
-'Niggys', 'don't loli too hard'
-
-Another admission of their broken block system.
+'Niggys', 'don't loli too hard' (loli = lolicon)
 
 (https://pleroma.rareome.ga/notice/55113)  
 ![](55113.png)
 
 
 
-### example 3
+### example 2
 '[sperging](https://www.urbandictionary.com/define.php?term=sperging)', basically a shitty ableist thing to say.
 
 (https://pleroma.rareome.ga/notice/96257)  
