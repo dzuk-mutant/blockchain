@@ -19,7 +19,7 @@ But if you care about information and communication it's also unacceptable - if 
 
 ----
 
-If these people are unwilling to change their ways, exclusion (of varying degrees) is the only realistic option. And for these aforementioned reasons, it is not counter-productive to altruistic philosophical higher goals of the internet to do this. It is logical and necessary in order to maintain them.
+If these people are unwilling to change their ways, exclusion (of varying degrees) is probably one of the only realistic options. And for these aforementioned reasons, it is not counter-productive to altruistic philosophical higher goals of the internet to do this. It is logical and necessary in order to maintain them.
 
 This will not probably be easy, and there will definitely be mistakes, but it is absolutely necessary to consider this possibility.
 
