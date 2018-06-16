@@ -62,7 +62,9 @@ These instances have harassed users of other instances or generally acted abusiv
 
 These are generally self-evident, either from the URL or by looking at them. These are mostly instances that other people have covered before me.
 
-#### Instances
+#### Obvious instances
+
+These generally won't have pages of their own because they are generally self-evidently what they are.
 
 * **shitposter.club**
 * **rainbowdash.net**
@@ -81,7 +83,6 @@ These are generally self-evident, either from the URL or by looking at them. The
 * **libertarianism.club**
 * **npf.mlpol.net**
 * **pleroma.cucked.me**
-
 
 
 #### Less obvious ones
@@ -105,6 +106,7 @@ See the old list for the ones that don't have their own files for the explanatio
 * [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 * [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
 * [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
+* [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 
 
 ---
@@ -200,6 +202,7 @@ With this list I am generally going by the word of mods and admins I trust unles
 - **social.super-niche.club** (https://cybre.space/@chr/99842390611279789)
 - [**loli.estate**](instances/loli_estate/loli_estate.md)
 - [**youkai.town**](instances/youkai_town/youkai_town.md)
+- [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 
 
 ---
