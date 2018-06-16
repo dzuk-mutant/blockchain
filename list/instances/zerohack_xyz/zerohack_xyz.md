@@ -10,6 +10,8 @@ When this was on Mastodon, the instance's about page contained phrases like 'lai
 
 While on Mastodon, the admin also posted a GIF containing racist slurs.
 
+Here is some archived content:
+
 ![](99525457354724038.png)
 
 (https://zerohack.xyz/@taco/99525457354724038)

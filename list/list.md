@@ -107,7 +107,7 @@ See the old list for the ones that don't have their own files for the explanatio
 * [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
 * [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
 * [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
-
+* [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
 
 ---
 
@@ -204,14 +204,6 @@ With this list I am generally going by the word of mods and admins I trust unles
 - [**youkai.town**](instances/youkai_town/youkai_town.md)
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 
-
----
-
-## Possibly annoying culture war stuff
-
-If you don't really want to hear ignorant right-wing talking points, like how safe spaces are supposedly hurting classrooms and the like, this list is for you.
-
-- **zerohack.xyz**
 
 ---
 
