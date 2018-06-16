@@ -9,10 +9,10 @@ Various posts on the instance feature illustrated sexual depictions of what appe
 It's not that difficult to find edgy and worse stuff, but here's a few things I skimmed that I can legally show you:
 
 
-![](40052.png)
+![](40052.png)  
 (https://shitasstits.life/notice/40052)  
-(neo-reactionary video link)
+Neo-reactionary video link.
 
-![](9685.png)
+![](9685.png)  
 (https://shitasstits.life/notice/9685)  
-(probably not serious, still shitty)
+Probably not serious (although keep in mind how communities like these constantly like to erode the border between serious and not serious) still shitty.
