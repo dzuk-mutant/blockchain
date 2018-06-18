@@ -1,6 +1,6 @@
 # The New List
 
-This new list breaks off the instances of abuse, hate, etc. that an instance may into it's own file, making for much more convenient browsing.
+This new list breaks off the instances of abuse, hate, etc. that an instance may into it's own file, making for much more convenient browsing (and making it much easier for me to update).
 
 Eventually, the goal is to get most instances their own file, and content will be built up as time goes on.
 
@@ -43,8 +43,6 @@ These instances have harassed users of other instances or generally acted abusiv
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
 * [**youkai.town**](instances/youkai_town/youkai_town.md)
-
-
 * [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) **[instance no longer exists]**
 
 
@@ -100,14 +98,14 @@ See the old list for the ones that don't have their own files for the explanatio
 - **explosion.party**
 - **voluntaryism.club**
 - [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
-* **wogan.im**
-* **gs.mon5t3r.info**
-* [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
-* [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
-* [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
-* [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
-* [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
-* [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
+- **wogan.im**
+- **gs.mon5t3r.info**
+- [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
+- [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
+- [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
+- [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
+- [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
+- [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
 
 ---
 
@@ -115,11 +113,11 @@ See the old list for the ones that don't have their own files for the explanatio
 
 These instances either distinctly imply or outright promote dangerous or violent conspiracy theories.
 
-Conspiracy theories can be a complicated subject, and certain kinds are pretty harmless and okay, so for the sake of this list, what makes a conspiracy theory dangerous or violent is one of the following:
+Conspiracy theories can be a complicated subject, and certain kinds are pretty harmless and okay, so for the sake of this list, what makes a conspiracy theory dangerous or violent is one or more of the following:
 
-- It promotes psuedoscience.
-- Is a hate group conspiracy theory (ie. 'International Jewry', 'Cultural Marxism', 'The Great Replacement', Holocaust Denial).
-- Is one that necessitates or involves hate speech, racialism or other hate ideology.
+- It promotes psuedoscience that fundamentally attempts to undermine reputable scientific practice. (ie. antivaxxers, flat earthers, climate change denial)
+- It is a hate group conspiracy theory (ie. 'International Jewry', 'Cultural Marxism', 'The Great Replacement', Holocaust Denial).
+- It is one that necessitates or involves hate speech, racialism or other hate ideology.
 
 #### Instances
 
@@ -147,27 +145,14 @@ Instances that have made it clear that they won't remove violent individuals, bu
 #### Instances
 
 
-- **toot.love**
-
-	- https://toot.love/about/more
-
-- **ika.moe** 
-
-	- (https://ika.moe/@Naouak/778172)
-
-- **anitwitter.moe** (Now deleted)
-
-	- https://anitwitter.moe/about/more
-
-- **kyot.me**
-
-	- https://kyot.me/about/more
-
+- **toot.love** (https://toot.love/about/more)
+- **ika.moe** (https://ika.moe/@Naouak/778172)
+- **kyot.me** (https://kyot.me/about/more)
 - **social.targaryen.house**
 - **manx.social**
 - **niu.moe**
 - **social.wiuwiu.de**
-
+- **anitwitter.moe (Now deleted)**  (https://anitwitter.moe/about/more)
 
 ---
 
@@ -211,10 +196,29 @@ With this list I am generally going by the word of mods and admins I trust unles
 ## Advertising
 Instances owned or used by corporations to advertise and post product updates. I wouldn't say suspend them, I just think that you may want to silence them so that only people want to see them will see them on the federated timeline.
 
+Instances that advertise won't be on this list if they don't publish to the federated timeline.
+
 - **social.raptorengineering.io** (Raptor Engineering, LLC)
 
 ---
 
+## Federation Bots
+
+This is the only list not dedicated to instances but specific users.
+
+Federation bots despite the benign intent, cause a variety of problems:
+
+- They have the potential to passively/quietly undermine the privacy settings of peoples' posts.
+- They are opt-out instead of opt-in, meaning it's up to individual users to have to block them or add a '#nobot' to  their bio. This is frustrating to many people and an unacceptable situation in terms of privacy.
+
+While it would be good if there are better discovery mechanisms in federated social networks, it needs to be done in a way that can mitigate abuse and does not access a person's data without their explicit consent in advance.
+
+My personal recommendation would be to suspend these bots.
+
+- [**@federationbot@mastodon.host**](https://mastodon.host/@federationbot) (mastodon.host)
+- [**@federation_bot@uelfte.club**](https://uelfte.club/@federation_bot) (uelfte.club)
+
+---
 
 ## Corporate-owned instances
 
