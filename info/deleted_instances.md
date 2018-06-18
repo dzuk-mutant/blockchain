@@ -1,4 +1,4 @@
-# Note about deleted instances
+# About deleted instances
 
 **If an instance that has been recorded on this list is deleted, it will still be maintained on this list, it will only be marked as deleted.**
 

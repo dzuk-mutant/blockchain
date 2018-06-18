@@ -43,13 +43,13 @@ Don't know how to identify hate speech? Don't worry! I've included links to many
 
 #### New (this GitHub)
 
-[You can find the new list here.](list/list.md)
+[**You can find the new list here.**](list/list.md)
 
 A more convenient list with linked summaries breaking down examples of hateful discourse within the listed instances when it occurs. Also has a better, tighter editorial style. **This is in development and not complete.** When it is finished, it will be replacing the old one.
 
 
 #### Old
-[You can find the old list here.](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)
+[**You can find the old list here.**](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)
 
 This is the original page for the blocklist. **Contains all examples and all evidence.**
 
@@ -74,14 +74,25 @@ Unless it's really obvious how bad an instance is by looking at their front page
 
 I was accepting issues on this GitHub, but there were too many people who either didn't care about why they were blocklisted and just wanted to poison the atmosphere or who weren't willing to actually directly address why they were blocked in the first place and I don't really have the time or energy to deal with that.
 
-I made [an FAQ](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24) a while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
+I made  a while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
 
 
 ---
 
-## FAQ
+## Other Info
 
-[There's an FAQ here](info/faq.md).
+[**FAQ about BLOCKchain**](info/faq.md)
+
+[**FAQ about blocklisting in general**](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24)
+
+[**Content Policy**](info/content_policy.md)
+
+[**About deleted instances**](info/deleted_instances.md)
+
+
+### Thoughts on stuff
+
+[**Blocklisting and the philosophies of free information**](info/information_freedom.md)
 
 ---
 
@@ -95,6 +106,10 @@ Sorry that this is very anglophone-centric right now ¯\\\_(ツ)_/¯
 **Also content warning! All of these are going to contain lots of unhappy things from the start!**
 
 <br/>
+
+#### [Compassion Online](https://compassion.online)
+
+Another blocklist that also contains a list of recommended instances.
 
 #### [Southern Poverty Law Center](https://www.splcenter.org)
 
