@@ -202,21 +202,24 @@ Instances that advertise won't be on this list if they don't publish to the fede
 
 ---
 
-## Federation Bots
+## Federation Bots / Follow Bots
 
 This is the only list not dedicated to instances but specific users.
 
-Federation bots despite the benign intent, cause a variety of problems:
+These bots despite having benign intent, cause a variety of problems:
 
 - They have the potential to passively/quietly undermine the privacy settings of peoples' posts.
-- They are opt-out instead of opt-in, meaning it's up to individual users to have to block them or add a '#nobot' to  their bio. This is frustrating to many people and an unacceptable situation in terms of privacy.
+- They are opt-out instead of opt-in, meaning it's up to individual users to have to block them or add a '#nobot' to  their bio. This is frustrating to many,   and an unacceptable situation in terms of privacy.
 
 While it would be good if there are better discovery mechanisms in federated social networks, it needs to be done in a way that can mitigate abuse and does not access a person's data without their explicit consent in advance.
+
+Federation bots are kind of like the fediverse version of spam and malware.
 
 My personal recommendation would be to suspend these bots.
 
 - [**@federationbot@mastodon.host**](https://mastodon.host/@federationbot) (mastodon.host)
 - [**@federation_bot@uelfte.club**](https://uelfte.club/@federation_bot) (uelfte.club)
+- [**@ambassador@mastodon.starrevolution.org**](https://mastodon.starrevolution.org/@Ambassador) (mastodon.starrevolution.org)
 
 ---
 
