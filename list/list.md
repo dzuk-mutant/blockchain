@@ -97,7 +97,7 @@ See the old list for the ones that don't have their own files for the explanatio
 - **social.i2p.rocks**
 - [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
-- **voluntaryism.club**
+- [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
 - [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 - **wogan.im**
 - **gs.mon5t3r.info**
@@ -125,6 +125,7 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 - [**not.phrack.fyi**](instances/not_phrack_fyi/not_phrack_fyi.md)
 * [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 * [**explosion.party**](instances/explosion_party/explosion_party.md)
+* [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
 
 
 ---
@@ -153,7 +154,7 @@ Instances that have made it clear that they won't remove violent individuals, bu
 - **social.targaryen.house**
 - **manx.social**
 - **niu.moe**
-- **social.wiuwiu.de**
+- [**social.wiuwiu.de**](instances/social_wiuwiu_de/social_wiuwiu_de.md)
 - **anitwitter.moe (Now deleted)**  (https://anitwitter.moe/about/more)
 
 ---
