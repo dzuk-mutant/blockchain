@@ -96,7 +96,7 @@ See the old list for the ones that don't have their own files for the explanatio
 - **hakui.club**
 - **social.i2p.rocks**
 - [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md)
-- **explosion.party**
+- [**explosion.party**](instances/explosion_party/explosion_party.md)
 - **voluntaryism.club**
 - [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 - **wogan.im**
@@ -124,6 +124,7 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 
 - [**not.phrack.fyi**](instances/not_phrack_fyi/not_phrack_fyi.md)
 * [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
+* [**explosion.party**](instances/explosion_party/explosion_party.md)
 
 
 ---
