@@ -1,12 +1,14 @@
 # FAQ
 
-Hey, this FAQ is mainly about the hate groups and hate speech and blocking such elements in the fediverse, since there are a lot of people with hang-ups over this practice.
+Hey, this FAQ is mainly about hate speech, since this is the source of most of the hang-ups about blocklisting.
 
 ---
 
 ### Do you just block right-wing people?
 
-It's not really of any concern of mine whether something is left or right (and I'm not a fan of this dichotomy that much anyway), just the ideologies that are espoused. If they are hateful by my classifications (see above), then they go on the blocklist. This however, does tend to be more common on the 'right', especially on the fediverse.
+It's not really of any concern of mine whether something is left or right (and I'm not a fan of this dichotomy that much anyway), just the content that is espoused. If it is hateful or discriminatory and the instance's administration accepts that behaviour, then that instance go on the blocklist. 
+
+This activity does however tend to be more common on the 'right', especially on the fediverse.
 
 ---
 
@@ -14,7 +16,7 @@ It's not really of any concern of mine whether something is left or right (and I
 
 The problem with the idea of anti-white racism is not that it can't exist (there definitely are hate ideologies that malign or vilify white people), it's that this concept is often simply used as a reaction to civil rights reform, people who call out racism, or someone expressing their frustrations with certain patterns of behaviour that may be common to white people.
 
-It's also often used as a dogwhistle as part of a false narrative currently being perpetuated by white supremacists (ie. 'White Genocide', 'The Great Displacement', etc.).
+It's also often used as a dogwhistle as part of a false narrative currently being perpetuated by white supremacists (ie. 'White Genocide', 'The Great Displacement', 'Cultural Marxism', etc.).
 
 <br/>
 
@@ -47,9 +49,9 @@ Secondly, ideologies do not exist in a vacuum - they have implications and conse
 
 <br/>
 
-It's also important that while ideology is a jumping off point, it isn't the ultimate reason this is done. Me blocking instances for enabling hate ideologies and hate groups is nothing compared to the threat of violence that these groups, ideologies and actions pose against certain groups of people.
+It's also important that while ideology is a jumping off point, it isn't the ultimate reason this is done. Me blocking instances for enabling hate ideologies and hate speech is nothing compared to the threat of violence that these groups, ideologies and actions pose against certain groups of people.
 
-**If you want to not be on my blocklist, you can simply change your mind and not let these people on your server and/or stop doing the things you're being blocked for. If you're a targeted minority and want to make a person with a hateful or fascistic ideology happy, you have to stop existing.**
+**If you want to not be on my blocklist, you can simply change your mind and not let these people on your server and/or stop doing the things you're being blocked for. If you're a targeted minority and want to make someone with a hateful ideology or behaviour happy, you have to stop existing.**
 
 ----
 
@@ -63,13 +65,13 @@ If you have the energy and faculties (and know enough about what you're doing) t
 
 ### You can't tell if someone has a particular ideology or belief or not.
 
-**No, but that's not what I'm interested in. I'm interested in what people do.**
+**No, but that's not what I specicially look for. I look at what people do.**
 
 For all I care, you can be the most hateful person imaginable, but if you keep it to yourself and don't post an ounce of it, I would have no interest in your server. Furthermore, I wouldn't be able to tell.
 
-I'm well aware that not everyone who posts shitty things does it knowingly, that's not the point. **For my purposes, your intent doesn't matter, but your actions do.**
+I'm well aware that not everyone who posts hate speech are 100% aware of what they are doing, but it's not the intent that matters, it's the fact that the action occurred in the first place and what the effects of that speech are.
 
-If you find doing particular things acceptable, for whatever reason, you will be on the blocklist, and only by understanding why that was a bad thing to do and stop doing those things will you ever not be on the list.
+**If you find doing particular things acceptable, for whatever reason, you will be on the blocklist, and only by understanding why that was a bad thing to do and stop doing those things will you ever not be on the list.**
 
 ----
 
@@ -77,9 +79,9 @@ If you find doing particular things acceptable, for whatever reason, you will be
 
 Because it doesn't give anyone a guarantee of safety.
 
-I would argue that a safe environment is one where someone doesn't have to be concerned or worried about abuse or oppressive ideologies aimed at them, that isn't a place where someone has to react as an individual against individual cases of abuse. **Proactive rather than reactive, community-based rather than individual-based.**
+I would argue that a positive community environment is one where someone doesn't have to be concerned or worried about abuse or oppressive ideologies aimed at them, that isn't a place where someone has to react as an individual against individual cases of abuse. **Proactive rather than reactive, community-based rather than individual-based.**
 
-Whether a victim of abuse can block someone or not doesn't really matter because the emotional damage is already done at that point. In the long run, that wears someone down. It's also very isolating because it's all on the individual to manage it.
+Whether a victim of abuse can block someone or not doesn't really matter because the emotional damage is already done at that point. In the long run, that wears someone down. It's also very isolating because it's all on the individual to manage all of the cases of unwarranted hatred and bullshit.
 
 I don't personally want to be in an instance where people in vulnerable groups (like myself) are basically expected to fend for themselves. That's a pretty unhappy way for a place to be IMO and one of the reasons people left Twitter for our kind of Mastodon instances.
 
@@ -92,9 +94,9 @@ But if you're not bothered by certain people and don't get as much abuse as some
 
 It's an admin's responsibility for who they have on their server.
 
-When speech carries consequences, you cannot claim to be a nautral facilitator of information. The internet isn't just networks - ***it is a network of people***.
+When speech carries consequences, you cannot claim to be a nautral facilitator of information. The internet isn't just a network - ***it is a network of people***.
 
-I would also raise serious questions about any of those admins for them to treat the speech on their service in this way. For instance, to have the capacity to treat a person who dehumanises trans people the same way as someone who likes a certain TV show.
+I would also raise serious questions about any of those admins for them to treat the speech on their service in this way. For instance, for someone to have the capacity to treat a person who dehumanises trans people the same way as someone who likes a certain TV show.
 
 
 ----
@@ -112,12 +114,12 @@ I would also raise serious questions about any of those admins for them to treat
 **Don't:**
 
 - Tell me that you will remove the posts of the screencaps I posted. I care about your idea of what you find acceptable to post on your server as a whole, not X incident or Y incident.
-- Tell me that you don't have hateful ideologies or beliefs therefore you shouldn't be on the list. *I don't care what you believe in, just what you do.*
+- Tell me that you don't have hateful ideologies or beliefs therefore you shouldn't be on the list. *I don't care what you say you believe in, just what you do.*
 
 ---
 
 ### What do you do with instances that no longer exist?
 
-They generally stay on the list, just marked that they no longer exist.
+They generally stay on the list, they just become marked that they no longer exist.
 
 [Read this article for more information.](deleted_instances.md)
