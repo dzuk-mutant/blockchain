@@ -24,4 +24,4 @@ Ben Shapiro is the former editor of Brietbart and is the founder and current edi
 
 One of his personal talking points on his media channels is the 'militant homosexual agenda'. He is also a virulent transphobe and anti-abortion activist.
 
-'Western civilisation' (as in the hashtag in that post) is a frequent Alt-Right/Alt-Light dogwhistle and narrative (that western civilisation is under threat from what these people see as 'political correctness').
+'Western civilisation' (as in the hashtag in that post) is a frequent Alt-Right/Alt-Light dogwhistle and narrative (that 'western civilisation' (whatever they think western civilisation is) is under threat from what they see as 'political correctness').

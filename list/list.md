@@ -38,8 +38,8 @@ These instances have harassed users of other instances or generally acted abusiv
 #### Instances
 
 * **noagendasocial.com**
-* **sunshinegardens.org**
-* **freespeech.firedragonstudios.com**
+* [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md)
+* [**freespeech.firedragonstudios.com**](instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md)
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
 * [**youkai.town**](instances/youkai_town/youkai_town.md)
