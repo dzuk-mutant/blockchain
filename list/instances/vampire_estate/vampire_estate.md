@@ -2,7 +2,9 @@
 
 ***last updated 2018.06.20***
 
-A user there (@oshino) spammed my personal account with illustrated sexualised depictions of minors and harassing comments.
+A user there (@oshino) spammed my personal account with harrassing comments and pictures - some of those pictures have sexualised depictions of minors.
+
+This user appears to be the admin of the instance.
 
 ![](1.png)
 ![](2.png)
