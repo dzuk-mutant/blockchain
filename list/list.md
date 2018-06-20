@@ -95,7 +95,7 @@ See the old list for the ones that don't have their own files for the explanatio
 - **jabb.in**
 - **hakui.club**
 - **social.i2p.rocks**
-- **kawaiistu.moe**
+- [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md)
 - **explosion.party**
 - **voluntaryism.club**
 - [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
@@ -181,7 +181,7 @@ With this list I am generally going by the word of mods and admins I trust unles
 - **baraag.net** (https://elekk.xyz/@noelle/18828)
 - **social.allthefallen.ninja** (lolicon and shotacon-oriented space; self-evident from instance description)
 - **Pawoo (pawoo.net)** (Japanese law enforcement on this differs to western countries) (https://github.com/tootcafe/blocked-instances)
-- **social.homunyan.com** (https://social.homunyan.com/users/ZettaiRyouiki/updates/4632, also that entire user. The admin has boosted an update from that user and the instance is very small so they seem fine with it.)
+- **social.homunyan.com** (The admin posts and boosts that kind of content.)
 - **preteengirls.biz** (kinda obvious from the name... [1])
 - **mastodon.loliandstuff.moe** (self-evident)
 - **wxw.moe** (It has a loli-posting bot called AnimeGirlsBot. The instance is Chinese so I can't talk to the moderator about it but judging from their profile they are totally fine with it.)
