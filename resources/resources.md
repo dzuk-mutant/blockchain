@@ -73,18 +73,66 @@ Contains more of a humorous tone compared to the other links, and the community 
 
 Blog dedicated to tracking far-right movements, figures and rhetoric in the US.
 
+<br/>
+
+#### [The TERFs](http://theterfs.com)
+
+A website that breaks down what TERFs are, what their beliefs are, and has a blog that tracks actions and rhetoric within this movement.
+
 
 <br/>
 
 
 ----
 
+<br/>
+
+## Explainer posts
+
+#### Alt-right
+- [**What is Weaponised Activism?**](https://medium.com/@melissaryan/what-is-weaponization-836dc8b006b9) - This post quickly and effectively points out the differences between alt-right activism and healthy, reasonable activism, and why the former cannot adequately be protected as free speech. (I mean, this is separated from the bigoted rhetoric itself which is already a perfectly good reason.)
+- [**Japan and the Alternative Right**](https://hopenothate.com/2018/04/20/japan-and-the-alternative-right/) - Or as I like to call it, 'what's with all the anime stuff'?
+
+
+#### Neo-reactionary
+- [**Mouthbreathing Machiavellis Dream of a Silicon Reich**](https://thebaffler.com/latest/mouthbreathing-machiavellis) A piece summarising the ideological problems, as well as the dangers of the neo-reactionary movement.
+
+
+<br/>
+
+----
 
 <br/>
 
 
 ## Symbolism and rhetoric
 
+It's important to remember these symbols and words should be treated with context. For instance, people can use [(((echoes)))](https://rationalwiki.org/wiki/Alt-right_glossary#.28.28.28.29.29.29) sarcastically as a form of defiance against anti-semitic abuse.
+
+#### Alt-Right
+
+- [**Alt-Right Glossary on RationalWiki.org**](https://rationalwiki.org/wiki/Alt-right_glossary) - [[note 1]](#notes-1) A very comprehensive list of in-group terms and buzzwords.
+
+
 #### Nazi / Neo-Nazi
-- [**Nazi symbolism on Wikipedia**](https://en.wikipedia.org/wiki/Nazi_symbolism) - A good primer on nazi symbols, and a lot of these can be seen quite frequently on white naationalists on the internet and IRL (many of these featured quite heavily in the Charlottessville rally of 2017).
+- [**Nazi symbolism on Wikipedia**](https://en.wikipedia.org/wiki/Nazi_symbolism) - A good primer on nazi symbols, and a lot of these can be seen quite frequently on white nationalists on the internet and IRL (many of these featured quite heavily in the Charlottessville rally of 2017).
 - [**ADL Hate Symbols Database**](https://www.adl.org/education-and-resources/resource-knowledge-base/hate-symbols?page=4) - It's important to keep in mind that people on the internet with hateful opinions tend to be less overt and won't use these kinds of symbols. Like with the SPLC, a lot of this is related to IRL dedicated and overt hate groups.
+
+#### Male Supremacy (Manosphere)
+
+- [**Manosphere Glossary on RationalWiki.org**](https://rationalwiki.org/wiki/Manosphere_glossary) - [[note 1]](#notes-1) Probably the most comprehensive glossary of Manosphere in-group terms that exists right now.
+
+<br/>
+
+-----
+
+
+<br/>
+
+
+
+## Notes
+
+
+1. <a id='notes-1'></a> I'm painfully aware of the baggage the use of the word 'rational' has and RationalWiki is definitely not perfect. However, it is pretty great at summarising and collecting information about hate groups in ways that I have not seen anywhere else.
+2. Alt-Rightists and Neo-nazis are often essentially the same, but not necessarily (especially in the case of the alt-light), so they are separated when it comes to categorised lists.

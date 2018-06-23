@@ -59,11 +59,21 @@ These instances have harassed users of other instances or generally acted abusiv
 
 ## Violent speech and zero-moderation spaces
 
-These are generally self-evident, either from the URL or by looking at them. These are mostly instances that other people have covered before me.
+These instances often advertise themselves as having laissez-faire moderation or as 'not a safe space', what they really mean is that they are a safe space for a variety of violent and/or hateful ideologies, including (but not limited to):
+
+- White supremacy
+- Neo-nazi
+- Alt-right / Alt-light / Identitarian
+- Male supremacy (ie. Manosphere, The Red Pill, PUA, MGTOW, Incel, etc.)
+- Neo-reactionary (which is basically white supremacy and male supremacy but tailored to Silicon Valley)
+- GamerGate
+- TERFs/fake goths
+- general anti-LGBTQ+ / homophobia / transphobia / etc.
+- general anti-muslim bigotry
 
 #### Obvious instances
 
-These generally won't have pages of their own because they are generally self-evidently what they are.
+These typically won't have pages of their own because it's normally self-evident what they are from looking at their homepages.
 
 * **shitposter.club**
 * **rainbowdash.net**
