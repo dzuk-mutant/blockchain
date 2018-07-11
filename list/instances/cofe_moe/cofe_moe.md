@@ -12,4 +12,4 @@
 
 This is all there is of this instance's rules.
 
-This is laced with coded language heavily implying that the instance will not deal with abuse or hate speech. 
+This is laced with coded language heavily implying that the instance will not deal with hate speech.
