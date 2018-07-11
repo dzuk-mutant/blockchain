@@ -168,6 +168,7 @@ Instances that have made it clear that they won't remove violent individuals, bu
 - **manx.social**
 - **niu.moe**
 - [**social.wiuwiu.de**](instances/social_wiuwiu_de/social_wiuwiu_de.md)
+- [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
 - **anitwitter.moe (Now deleted)**  (https://anitwitter.moe/about/more)
 
 ---
