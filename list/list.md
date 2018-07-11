@@ -44,6 +44,7 @@ These instances have harassed users of other instances or generally acted abusiv
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
 * [**youkai.town**](instances/youkai_town/youkai_town.md)
 * [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
+* [**pleroma.yorha.club**](instances/pleroma_yorha_club/pleroma_yorha_club.md)
 * [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) **[instance no longer exists]**
 
 
