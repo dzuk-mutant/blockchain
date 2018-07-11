@@ -1,6 +1,8 @@
 # social.lucci.xyz
 
-This user as of existing research has not posted anything of the kind shown in the examples themselves, but still promotes them themselves, and seens to knowingly, given the ideological consistency (typically indicative of the so-called Alt-Right) between them.
+***last updated 2018.07.04***
+
+This user as of existing research has not posted anything of the kind shown in the examples themselves, but still promotes them themselves, and seens to knowingly, given the ideological consistency (typically indicative of the  alt-right) between them.
 
 ### example 1
 
@@ -12,6 +14,6 @@ Also let's not forget the use of 'cuck'. 🙄
 
 ### example 2
 
-They have also boosted another post making an anti-semitic insinuation. (That a Jew was involved in EU hate legislation, thus perpetuating the conspiracy narrative that Jews are one of the driving forces behind what some people see as 'political correctness'.)
+They have also boosted another post making an anti-semitic insinuation. (That a Jew was involved in EU hate legislation, thus perpetuating the conspiracy narrative that Jews are one of the driving forces behind what the alt-right labells as 'political correctness' (ie. basically not being a racist piece of shit).
 
 ![](2.png)

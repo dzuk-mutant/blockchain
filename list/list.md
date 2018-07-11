@@ -117,6 +117,7 @@ See the old list for the ones that don't have their own files for the explanatio
 - [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
+- [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
 
 ---
 
@@ -202,6 +203,7 @@ With this list I am generally going by the word of mods and admins I trust unles
 - [**youkai.town**](instances/youkai_town/youkai_town.md)
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
+- [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
 
 
 ---

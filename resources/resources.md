@@ -2,7 +2,7 @@
 
 If you're interested in understanding hate groups, speech and rhetoric, 
 
-Sorry that this is very anglophone-centric right now ¯\\\_(ツ)_/¯
+Sorry that this is very centered on 'western' (ie. North America and Europe) hate group types right now.
 
 **Also content warning! All of these are going to contain lots of unhappy things from the start!**
 
@@ -10,7 +10,7 @@ Sorry that this is very anglophone-centric right now ¯\\\_(ツ)_/¯
 
 ----
 
-## Watchdogs
+## Hate group watchdogs
 
 Here's a bunch of places that specialise in tracking these subjects. They have varying levels of specialisation or regional focus.
 
@@ -90,12 +90,17 @@ A website that breaks down what TERFs are, what their beliefs are, and has a blo
 ## Explainer posts
 
 #### Alt-right
+- [**Alt-Right summary by SPLC**](https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right) - Very comprehensive.
 - [**What is Weaponised Activism?**](https://medium.com/@melissaryan/what-is-weaponization-836dc8b006b9) - This post quickly and effectively points out the differences between alt-right activism and healthy, reasonable activism, and why the former cannot adequately be protected as free speech. (I mean, this is separated from the bigoted rhetoric itself which is already a perfectly good reason.)
 - [**Japan and the Alternative Right**](https://hopenothate.com/2018/04/20/japan-and-the-alternative-right/) - Or as I like to call it, 'what's with all the anime stuff'?
 
 
+#### Male Supremacy / Manosphere (MRA, PUA, The Red Pill, Incel, MGTOW, etc.)
+- [**Male Supremacy summary by SPLC**](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) Very comprehensive, and goes across the spectrum of male supremacist beliefs.
+
+
 #### Neo-reactionary
-- [**Mouthbreathing Machiavellis Dream of a Silicon Reich**](https://thebaffler.com/latest/mouthbreathing-machiavellis) A piece summarising the ideological problems, as well as the dangers of the neo-reactionary movement.
+- [**Mouthbreathing Machiavellis Dream of a Silicon Reich**](https://thebaffler.com/latest/mouthbreathing-machiavellis) - A piece summarising the ideological problems, as well as the potential dangers of the neo-reactionary movement.
 
 
 <br/>
@@ -107,7 +112,8 @@ A website that breaks down what TERFs are, what their beliefs are, and has a blo
 
 ## Symbolism and rhetoric
 
-It's important to remember these symbols and words should be treated with context. For instance, people can use [(((echoes)))](https://rationalwiki.org/wiki/Alt-right_glossary#.28.28.28.29.29.29) sarcastically as a form of defiance against anti-semitic abuse.
+It's important to remember these symbols and words should be treated with some degree of  context (not the psuedo-ironic card the actual culprits like to play however). For instance, people can use [(((echoes)))](https://rationalwiki.org/wiki/Alt-right_glossary#.28.28.28.29.29.29) sarcastically as a form of defiance against anti-semitic abuse.
+
 
 #### Alt-Right
 
@@ -118,7 +124,7 @@ It's important to remember these symbols and words should be treated with contex
 - [**Nazi symbolism on Wikipedia**](https://en.wikipedia.org/wiki/Nazi_symbolism) - A good primer on nazi symbols, and a lot of these can be seen quite frequently on white nationalists on the internet and IRL (many of these featured quite heavily in the Charlottessville rally of 2017).
 - [**ADL Hate Symbols Database**](https://www.adl.org/education-and-resources/resource-knowledge-base/hate-symbols?page=4) - It's important to keep in mind that people on the internet with hateful opinions tend to be less overt and won't use these kinds of symbols. Like with the SPLC, a lot of this is related to IRL dedicated and overt hate groups.
 
-#### Male Supremacy (Manosphere)
+#### Male Supremacy / Manosphere (MRA, PUA, The Red Pill, Incel, MGTOW, etc.)
 
 - [**Manosphere Glossary on RationalWiki.org**](https://rationalwiki.org/wiki/Manosphere_glossary) - [[note 1]](#notes-1) Probably the most comprehensive glossary of Manosphere in-group terms that exists right now.
 

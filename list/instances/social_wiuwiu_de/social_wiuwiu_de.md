@@ -1,10 +1,10 @@
 # social.wiuwiu.de
 
-***last updated 2018.06.20***
+***last updated 2018.07.04***
 
 I made a report to the administration concerning this user (@orangecoastcollegeprivacy), who posts content that dehumanises non-binary and trans people and makes alt-light dogwhistles.
 
-The administration decided to not take moderation actions against this user because what this user did wasn't against their CoC.
+The administration decided to not take moderation actions against this user because what this user did wasn't against their CoC. In short; they are unwilling to moderate this kind of behaviour.
 
 ### example 1
 

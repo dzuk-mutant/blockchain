@@ -1,6 +1,6 @@
 # explosion.party
 
-***last updated 2018.06.20***
+***last updated 2018.07.04***
 
 Multiple people on the instance, including the admin (@hector), have been posting alt-right and anti-semitic memes and content.
 
@@ -24,7 +24,7 @@ Intentional misgendering of a Mastodon user.
 
 (URL not attainable because it was a boost)
 
-Using the two articles to imply a common alt-right anti-semitic conspiracy theory that Jews are erasing 'white identity' by encouraging non-white migration (among other things).
+Using the two articles to imply a common alt-right anti-semitic conspiracy theory that Jews are erasing 'white identity' by encouraging non-white migration (into what they perceive as white countries), among other things.
 
 ### example 4
 

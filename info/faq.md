@@ -14,7 +14,7 @@ This activity does however tend to be more common on the 'right', especially on 
 
 ### What about anti-white racism?
 
-The problem with the idea of anti-white racism is not that it can't exist (there definitely are hate ideologies that malign or vilify white people), it's that this concept is often simply used as a reaction to civil rights reform, people who call out racism, or someone expressing their frustrations with certain patterns of behaviour that may be common to white people.
+The problem with the idea of anti-white racism is not that it can't exist (there definitely are hate ideologies that malign or vilify white people), it's that this concept is often simply used as a reaction to civil rights reform, people who call out racism, or someone expressing their frustrations with certain patterns of behaviour that may be common to white communities.
 
 It's also often used as a dogwhistle as part of a false narrative currently being perpetuated by white supremacists (ie. 'White Genocide', 'The Great Displacement', 'Cultural Marxism', etc.).
 
@@ -31,7 +31,7 @@ I haven't seen any fediverse entities that act with hateful ideologies with resp
 
 ### What about antifa?
 
-You are free to disagree with violence that antifascist groups sometimes employ (much of an antifasist group's time is actually spent doing non-violent things), but it's not an immutable characteristic to have fascist ideologies or to spread fascist ideologies, nor is it a characteristic that can exist in a democratic or compassionate society. Paradox of Tolerance and all that.
+You are free to disagree with violence that antifascist groups sometimes employ (much of an antifasist group's time is actually spent doing non-violent things and not all anti-fascist groups use violence), but it's not an immutable characteristic to have fascist ideologies or to spread them, nor is it a characteristic that can exist in a democratic or compassionate society. Paradox of Tolerance and all that.
 
 To be against a hate group for being a hate group isn't the same as actually being a hate group. It's just people protecting their communities who are being victimised.
 
@@ -41,11 +41,11 @@ To be against a hate group for being a hate group isn't the same as actually bei
 
 Firstly, censorship is normally performed at a state level, in a way where access by any other means is impossible or very difficult. 
 
-Blocking isn't censorship. Nobody is actually stopping you from listening to hate groups in the entire fediverse. If you don't like what an instance blocks, then go on a different instance. 
+Blocking isn't censorship. Nobody is actually stopping you from listening to hate groups in the entire fediverse. If you don't like what an instance blocks, then go on a different instance. We all have relatively little power here.
 
-Communities have the right to define their own boundaries, whether you agree with the motivations or not.
 
-Secondly, ideologies do not exist in a vacuum - they have implications and consequences, and not all ideologies should be considered equal because of that. You know, Nazism is an ideology but for decades most people have had the common sense to dismiss it.
+Secondly, the people that are behind these blocklists have already decided that certain peoples' opinions aren't important, that certain people are worthy of hatred and abuse. Blocking is simply damage control. To suggest it's anything else is really disingenuous.
+
 
 <br/>
 
@@ -57,7 +57,7 @@ It's also important that while ideology is a jumping off point, it isn't the ult
 
 ### Shouldn't there be people around who can challenge these hateful ideologies?
 
-Yes, but it's not everyone's responsibility. Especially not the responsibility of those who are normally victimised by hate groups (and for whom someone in a hate group would be inclined not to listen to anyway).
+Yes, but it's not everyone's responsibility. Especially not the responsibility of those who are normally victimised by hate groups (and for whom someone in a hate group wouldn't listen to anyway).
 
 If you have the energy and faculties (and know enough about what you're doing) to occasionally put yourself around these kinds of people (especially if you're white, straight, cis, male, etc.) and provide alternative narratives or an alternative voice, then by all means do.
 
