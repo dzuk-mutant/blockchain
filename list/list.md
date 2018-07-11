@@ -92,7 +92,7 @@ These typically won't have pages of their own because it's normally self-evident
 * **libertarianism.club**
 * **npf.mlpol.net**
 * **pleroma.cucked.me**
-
+* **comm.network**
 
 #### Less obvious ones
 
