@@ -119,6 +119,7 @@ See the old list for the ones that don't have their own files for the explanatio
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
+- [**qoto.org**](instances/qoto_org/qoto_org.md)
 
 ---
 
@@ -135,9 +136,9 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 #### Instances
 
 - [**not.phrack.fyi**](instances/not_phrack_fyi/not_phrack_fyi.md)
-* [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
-* [**explosion.party**](instances/explosion_party/explosion_party.md)
-* [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
+- [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
+- [**explosion.party**](instances/explosion_party/explosion_party.md)
+- [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
 
 
 ---
