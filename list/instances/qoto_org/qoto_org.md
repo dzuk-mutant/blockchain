@@ -23,7 +23,7 @@ Ohhh boy.
 
 ### example 1
 
-![](qoto_org 100357461569095586.png)
+![](100357461569095586.png)
 
 (https://qoto.org/@freemo/100357461569095586)
 
