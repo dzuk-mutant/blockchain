@@ -235,9 +235,12 @@ Federation bots are kind of like the fediverse version of spam and malware.
 
 My personal recommendation would be to suspend these bots.
 
-- [**@federationbot@mastodon.host**](https://mastodon.host/@federationbot) (mastodon.host)
-- [**@federation_bot@uelfte.club**](https://uelfte.club/@federation_bot) (uelfte.club)
-- [**@ambassador@mastodon.starrevolution.org**](https://mastodon.starrevolution.org/@Ambassador) (mastodon.starrevolution.org)
+- **@federationbot@mastodon.host**
+- **@federation_bot@uelfte.club**
+- **@ambassador@mastodon.starrevolution.org**
+- **@starfleet@qoto.org** **([the instance this bot is from is on this list](instances/qoto_org/qoto_org.md))**
+- **@FederationBot@crazynoisybizarre.town**
+- **@followbot@mastodon.teppelin.fr**
 
 ---
 
