@@ -1,6 +1,8 @@
 # kawaiistu.moe
 
-***last updated 2018.06.20***
+***last updated 2018.07.12***
+
+***This instance no longer exists. It has been replaced with (and redirects to) [karolat.press](../karolat_press/karolat_press.md).***
 
 This instance's admin (@karolat) has a history of boosting and posting content with neo-Nazi and alt-right content and dogwhistles.
 
