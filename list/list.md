@@ -185,7 +185,7 @@ Instances that have made it clear that they won't remove violent individuals, bu
 .
 
 - **anitwitter.moe** [no longer exists]
-- **kyot.me** [doesn't seem to exist as an ActivityPub instance anymore...]
+- [**kyot.me**](instances/kyot_me/kyot_me.md) [doesn't seem to exist as an ActivityPub instance anymore...]
 
 ---
 
