@@ -173,6 +173,7 @@ Instances that have made it clear that they won't remove violent individuals, bu
 
 
 - [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
+- [**freehold.earth**](instances/freehold_earth/freehold_earth.md)
 - [**ika.moe**](instances/ika_moe/ika_moe.md)
 - **manx.social**
 - **niu.moe**
