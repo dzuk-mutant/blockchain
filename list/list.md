@@ -37,6 +37,7 @@ These instances have harassed users of other instances or generally acted abusiv
 
 #### Instances
 
+- [**ap.uwu.st**](instances/ap_uwu_st/ap_uwu_st.md)
 * **noagendasocial.com**
 * [**freespeech.firedragonstudios.com**](instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md)
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
