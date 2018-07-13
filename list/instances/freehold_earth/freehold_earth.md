@@ -2,7 +2,7 @@
 
 ***last updated 2018.07.12***
 
-***The admin's user account hasn't been updated in a year since writing this, but I'm gonna name it and shame it anyway because it's still online at the time of writing.***
+***Admin user accounts haven't been updated in a year since writing this, but I'm gonna name it and shame it anyway because it's still online at the time of writing.***
 
 Another one of those instances that uses 'free speech' as a scapegoat.
 
