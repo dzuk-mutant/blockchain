@@ -75,61 +75,52 @@ These instances often advertise themselves as having laissez-faire moderation or
 - TERFs/fake goths
 - general anti-LGBTQ+ / homophobia / transphobia / etc.
 - general anti-muslim bigotry
+- Slurs, shitty edglord humour and behaviour
 
-#### Obvious instances
+Some of these are pretty obvious, others, less so. (The ones that are less obvious have links, other are awaiting articles because of the ongoing migration ^^)
 
-These typically won't have pages of their own because it's normally self-evident what they are from looking at their homepages.
-
-- **freezepeach.xyz**
-- **pl.smuglo.li**
-- **pleroma.cucked.me**
-- **rainbowdash.net**
-- **sealion.club**
-- **shitposter.club**
-- **social.hidamari.blue**
-- **social.au2pb.net**
-- **unsafe.space**
-- **wrongthink.net**
-- [**woofer.alfter.us**](instances/woofer_alfter_us/woofer_alfter_us.md)
-
-.
-
-- **npf.mlpol.net** [no longer exists]
-- **libertarianism.club** [no longer exists]
-- **ediot.social** [no longer exists]
-- **social.heldscal.la** [no longer exists]
-- **gs.smuglo.li** [no longer exists, redirects to pl.smugo.li]
-
-#### Less obvious ones
-
-See the old list for the ones that don't have their own files for the explanations.
-
-
+- [**comm.network**](instances/comm_network/comm_network.md)
 - [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
+- **freezepeach.xyz**
 - **gs.mon5t3r.info**
 - [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**karolat.press**](instances/karolat_press/karolat_press.md)
-- **social.i2p.rocks**
-- [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
-- [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
-- [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
+- **pl.smuglo.li**
+- **pleroma.cucked.me**
 - [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
 - **pleroma.soykaf.com**
 - [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
 - [**qoto.org**](instances/qoto_org/qoto_org.md)
+- **rainbowdash.net**
+- **sealion.club**
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
+- **shitposter.club**
+- **social.au2pb.net**
+- **social.i2p.rocks**
+- [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
+- **social.hidamari.blue**
+- [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
+- [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
+- **unsafe.space**
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
+- **wrongthink.net**
+- [**woofer.alfter.us**](instances/woofer_alfter_us/woofer_alfter_us.md)
 - [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
 
 
 .
 
+- **ediot.social** [no longer exists]
+- **gs.smuglo.li** [no longer exists, redirects to pl.smugo.li]
 - **gs.kawa-kun.com** [no longer exists]
 - **gs.archae.me** [no longer exists]
 - [**hakui.club**](instances/hakui_club/hakui_club.md) [no longer exists]
 - [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md) [no longer exists, redirects to [karolat.press](instances/karolat_press/karolat_press.md).]
+- **libertarianism.club** [no longer exists]
+- **npf.mlpol.net** [no longer exists]
+- **social.heldscal.la** [no longer exists]
 - **wogan.im** [no longer exists]
 
 
@@ -174,7 +165,6 @@ Instances that have made it clear that they won't remove violent individuals, bu
 #### Instances
 
 - [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
-- [**comm.network**](instances/comm_network/comm_network.md)
 - [**freehold.earth**](instances/freehold_earth/freehold_earth.md)
 - [**ika.moe**](instances/ika_moe/ika_moe.md)
 - [**manx.social**](instances/manx_social/manx_social.md)
