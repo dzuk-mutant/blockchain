@@ -12,7 +12,8 @@ Very nice 'we are not responsible for your own safety but yourself' rhetoric, be
 The admin (unsurprisingly) has made some pretty shitty and abusive toots of their own.
 
 
-![](comm_network_ 100349020301034703.png)
+![](comm_network_100349020301034703.png)
+
 (https://comm.network/@lerk/100349020301034703)
 
 (https://mastodon.social/@ginnungagap/100349797587910177)
