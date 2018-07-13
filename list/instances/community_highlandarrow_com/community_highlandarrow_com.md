@@ -9,7 +9,7 @@ If you know what GamerGate means, enough said really, but here's some more stuff
 
 (GamerGate and victim-blaming? who knew.)
 
-If you aren't that aware of what GamerGate really is/was and what took place, I strongly recommend check out [this wiki from RationalWiki](https://rationalwiki.org/wiki/Gamergate) (IK the name of the wiki is kinda bad, the site isn't perfect but they do some good stuff sometimes).
+If you aren't that aware of what GamerGate really is/was and what took place, I strongly recommend that you check out [this wiki article from RationalWiki](https://rationalwiki.org/wiki/Gamergate) (IK the name of the wiki is kinda bad, the site isn't perfect but they do some very good stuff sometimes).
 
 ![](community_highlandarrow_com_1300045.png)
 
