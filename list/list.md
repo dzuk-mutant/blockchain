@@ -107,7 +107,7 @@ See the old list for the ones that don't have their own files for the explanatio
 - **community.highlandarrow.com**
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
 - **gs.mon5t3r.info**
-- **jabb.in** [inactive with an expired security certificate, but still alive]
+- [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**karolat.press**](instances/karolat_press/karolat_press.md)
 - **social.i2p.rocks**
 - [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
@@ -120,7 +120,6 @@ See the old list for the ones that don't have their own files for the explanatio
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
-- **wogan.im**
 - [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
 
 
@@ -128,8 +127,9 @@ See the old list for the ones that don't have their own files for the explanatio
 
 - **gs.kawa-kun.com** [no longer exists]
 - **gs.archae.me** [no longer exists]
-- **hakui.club** [no longer exists]
+- [**hakui.club**](instances/hakui_club/hakui_club.md) [no longer exists]
 - [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md) [no longer exists, redirects to [karolat.press](instances/karolat_press/karolat_press.md).]
+- **wogan.im** [no longer exists]
 
 
 ---
@@ -146,6 +146,7 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 
 #### Instances
 
+- [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**not.phrack.fyi**](instances/not_phrack_fyi/not_phrack_fyi.md)
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
@@ -171,11 +172,11 @@ Instances that have made it clear that they won't remove violent individuals, bu
 
 #### Instances
 
-- [**comm.network**](instances/comm_network/comm_network.md)
 - [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
+- [**comm.network**](instances/comm_network/comm_network.md)
 - [**freehold.earth**](instances/freehold_earth/freehold_earth.md)
 - [**ika.moe**](instances/ika_moe/ika_moe.md)
-- **manx.social**
+- [**manx.social**](instances/manx_social/manx_social.md)
 - **niu.moe**
 - **social.targaryen.house**
 - [**social.wiuwiu.de**](instances/social_wiuwiu_de/social_wiuwiu_de.md)
