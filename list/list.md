@@ -104,7 +104,7 @@ These typically won't have pages of their own because it's normally self-evident
 See the old list for the ones that don't have their own files for the explanations.
 
 
-- **community.highlandarrow.com**
+- [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
 - **gs.mon5t3r.info**
 - [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
