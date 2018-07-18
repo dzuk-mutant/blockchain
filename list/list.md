@@ -37,7 +37,8 @@ These instances have harassed users of other instances or generally acted abusiv
 
 #### Instances
 
-- [**ap.uwu.st**](instances/ap_uwu_st/ap_uwu_st.md)
+* [**2hu.club**](instances/2hu_club/2hu_club.md)
+* [**ap.uwu.st**](instances/ap_uwu_st/ap_uwu_st.md)
 * **noagendasocial.com**
 * [**freespeech.firedragonstudios.com**](instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md)
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
@@ -200,7 +201,7 @@ This isn't necessarily a moral judgement, but it is illegal in most western coun
 With this list I am generally going by the word of mods and admins I trust unless I accidentally stumble upon it myself or it's self-evident from the instance description. I generally won't be linking to the material because it would probably be legally fraught for everyone to do so.
 
 
-
+- [**2hu.club**](instances/2hu_club/2hu_club.md)
 - **baraag.net** (https://elekk.xyz/@noelle/18828)
 - [**loli.estate**](instances/loli_estate/loli_estate.md)
 - **Pawoo (pawoo.net)** (Japanese law enforcement on this differs to western countries) (https://github.com/tootcafe/blocked-instances)
