@@ -99,8 +99,11 @@ I made  a while back that tries to address some of the common issues some people
 
 ## Resources
 
-**Wanna learn about hate speech?  
-[Check out the resources page!](resources/resources.md)**
+Wanna learn about hate speech?  
+**[Check out the resources page!](resources/resources.md)**
+
+Want to find tools to help you deal with this shit elsewhere on the internet?  
+**[Check out the internet tools page!](resources/internet_tools.md)**
 
 ---
 
