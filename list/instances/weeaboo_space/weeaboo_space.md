@@ -4,9 +4,9 @@
 
 **This instance domain is not a typo. It has 2 'e's.**
 
-This instance contains antisemitic references, hate slurs, lolicion (from user @taiz - the admin), lolicon memes and fascist apologism.
+This instance contains antisemitic references, hate slurs, lolicon (from user @taiz), lolicon memes and fascist apologism.
 
-The rules and the admin's conduct confirm that this kind of behaviour is okay in this instance.
+The rules confirm that this kind of behaviour is okay in this instance.
 
 ### rules snippet
 
