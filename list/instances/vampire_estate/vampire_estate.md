@@ -1,8 +1,8 @@
 # vampire.estate
 
-***last updated 2018.06.20***
+***last updated 2018.06.29***
 
-A user there (@oshino) spammed my personal account with harrassing comments and pictures - some of those pictures have sexualised depictions of minors.
+A user there (@oshino) spammed my personal account with harrassing comments and pictures - some of those pictures have sexualised depictions of minors. These pictures have been ommitted in the following screenshots for legal reasons.
 
 This user appears to be the admin of the instance.
 

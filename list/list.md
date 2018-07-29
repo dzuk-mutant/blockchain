@@ -31,7 +31,7 @@ These instances have something in them that compromises the privacy/broadcast le
 
 ----
 
-## Harassment and direct abuse to other people
+## Harassment / direct abuse to other people
 
 These instances have harassed users of other instances or generally acted abusively towards them.
 
@@ -41,16 +41,20 @@ These instances have harassed users of other instances or generally acted abusiv
 * [**ap.uwu.st**](instances/ap_uwu_st/ap_uwu_st.md)
 * **noagendasocial.com**
 * [**freespeech.firedragonstudios.com**](instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md)
-* [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
+* [**homura.space**](instances/homura_space/homura_space.md)
+* [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
-* [**youkai.town**](instances/youkai_town/youkai_town.md)
-* [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
 * [**pleroma.yorha.club**](instances/pleroma_yorha_club/pleroma_yorha_club.md)
+* [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
+* [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
+* [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
+* [**youkai.town**](instances/youkai_town/youkai_town.md)
+
 
 .
 
-* [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [no longer exists]
 * [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [no longer exists]
+* [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [no longer exists]
 
 
 ----
@@ -207,11 +211,12 @@ With this list I am generally going by the word of mods and admins I trust unles
 - **Pawoo (pawoo.net)** (Japanese law enforcement on this differs to western countries) (https://github.com/tootcafe/blocked-instances)
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - **social.homunyan.com** (The admin posts and boosts that kind of content.)
-- **social.super-niche.club** (https://cybre.space/@chr/99842390611279789)
+- [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
 - [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
 - **wxw.moe** (It has a loli-posting bot called AnimeGirlsBot. The instance is Chinese so I can't talk to the moderator about it but judging from their profile they are totally fine with it.)
 - [**youkai.town**](instances/youkai_town/youkai_town.md)
+- [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 
 .
 
