@@ -12,9 +12,11 @@ This is a French instance that I was tipped off on. Here are some posts and tran
 
 (https://waifu.social/@ShinikaruZeyd/100567159049366458)
 
+Feminists are paired with condoms (???? i don't even), LGBT is placed next to 'basic biology' (ie. the bizarre false, right-wing idea that somehow the existence of LGBT defies basic human biology).
+
+
 ![](waifu_social_100567345085296947.png)
 
-Feminists are paired with condoms (???? i don't even), LGBT is placed next to 'basic biology' (like the bizarre false, right-wing idea that somehow the existence of LGBT defies basic human biology).
 
 (https://waifu.social/@kiru/100567345085296947)
 
