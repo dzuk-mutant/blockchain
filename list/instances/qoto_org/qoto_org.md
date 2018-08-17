@@ -29,3 +29,7 @@ Ohhh boy.
 
 (this is from the admin)
 
+When the post was challenged the Admin went on to explain what he meant by this post with the following response.
+
+~[](exp.png)
+
