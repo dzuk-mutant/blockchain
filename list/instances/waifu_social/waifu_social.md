@@ -4,7 +4,7 @@
 
 (yes, that's the instance name, idk what's with these people)
 
-This is a French instance that I was tipped off on. Here are some posts and translations of those posts:
+This is a French instance that I was tipped off on. Here are some posts and translations of those posts. My fluent french-speaking sources tell me there's a lot more where this came from, and given what the admin says, it's not hard to imagine.
 
 
 
