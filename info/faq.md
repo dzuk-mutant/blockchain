@@ -63,9 +63,21 @@ If you have the energy and faculties (and know enough about what you're doing) t
 
 ----
 
+### Won't blocking these people make them more entrenched in their views?
+
+As someone who was formerly in an apocalyptic anti-abortion, creationist and kinda homophobic Christian background, thinking about it in this way is missing the point.
+
+This isn't to change their minds, this is a form of quarantine.
+
+When you're in this kind of mindset, you're already conditioned to treat most things as a reinforcement of your own beliefs. Blocking is just to prevent more people becoming like them and to prevent them from targeting and hurting others.
+
+Getting entrenched people out of these kinds of situations is a whole separate practice unto itself and it's a long, internal process. Giving these people access to broadcasting channels and communities will not help them leave and it won't make safe communities for marginalised people.
+
+----
+
 ### You can't tell if someone has a particular ideology or belief or not.
 
-**No, but that's not what I specicially look for. I look at what people do.**
+**Not entirely, but that's not what I specicially look for. I look at what people do.**
 
 For all I care, you can be the most hateful person imaginable, but if you keep it to yourself and don't post an ounce of it, I would have no interest in your server. Furthermore, I wouldn't be able to tell.
 
@@ -77,7 +89,7 @@ I'm well aware that not everyone who posts hate speech are 100% aware of what th
 
 ### Can't you just let users block each other? 
 
-Because it doesn't give anyone a guarantee of safety.
+No, because it doesn't give anyone a guarantee of safety.
 
 I would argue that a positive community environment is one where someone doesn't have to be concerned or worried about abuse or oppressive ideologies aimed at them, that isn't a place where someone has to react as an individual against individual cases of abuse. **Proactive rather than reactive, community-based rather than individual-based.**
 
@@ -94,7 +106,7 @@ But if you're not bothered by certain people and don't get as much abuse as some
 
 It's an admin's responsibility for who they have on their server.
 
-When speech carries consequences, you cannot claim to be a nautral facilitator of information. The internet isn't just a network - ***it is a network of people***.
+Speech carries consequences, so you cannot claim to be a neutral facilitator of information. The internet isn't just a network - ***it is a network of people***.
 
 I would also raise serious questions about any of those admins for them to treat the speech on their service in this way. For instance, for someone to have the capacity to treat a person who dehumanises trans people the same way as someone who likes a certain TV show.
 
@@ -113,8 +125,8 @@ I would also raise serious questions about any of those admins for them to treat
 
 **Don't:**
 
-- Tell me that you will remove the posts of the screencaps I posted. I care about your idea of what you find acceptable to post on your server as a whole, not X incident or Y incident.
-- Tell me that you don't have hateful ideologies or beliefs therefore you shouldn't be on the list. *I don't care what you say you believe in, just what you do.*
+- Tell me that you will remove the posts of the screencaps I posted. I care about what you find acceptable to post on your server as a whole, not X incident or Y incident.
+- Tell me that you don't have hateful ideologies or beliefs therefore you shouldn't be on the list. *I don't care what you say your beliefs are, just what you do.*
 
 ---
 

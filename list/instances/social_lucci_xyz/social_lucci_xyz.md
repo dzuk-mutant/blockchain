@@ -14,6 +14,6 @@ Also let's not forget the use of 'cuck'. 🙄
 
 ### example 2
 
-They have also boosted another post making an anti-semitic insinuation. (That a Jew was involved in EU hate legislation, thus perpetuating the conspiracy narrative that Jews are one of the driving forces behind what the alt-right labells as 'political correctness' (ie. basically not being a racist piece of shit).
+They have also boosted another post making an anti-semitic insinuation. (That a Jew was involved in EU hate legislation, thus perpetuating the conspiracy narrative that Jews are one of the driving forces behind what the alt-right labels as 'political correctness' (ie. basically not being a racist piece of shit).
 
 ![](2.png)

@@ -24,7 +24,7 @@ Intentional misgendering of a Mastodon user.
 
 (URL not attainable because it was a boost)
 
-Using the two articles to imply a common alt-right anti-semitic conspiracy theory that Jews are erasing 'white identity' by encouraging non-white migration (into what they perceive as white countries), among other things.
+Using the two articles to imply a common alt-right anti-semitic conspiracy theory that Jews are erasing 'white identity' by encouraging non-white migration (into what they perceive as white countries like those in Europe), among other things.
 
 ### example 4
 

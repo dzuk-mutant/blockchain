@@ -2,7 +2,7 @@
 
 If you're interested in understanding hate groups, speech and rhetoric, 
 
-Sorry that this is very centered on 'western' (ie. North America and Europe) hate group types right now.
+Because of my background and languages, this is very centered on North American and European hate group types right now.
 
 **Also content warning! All of these are going to contain lots of unhappy things from the start!**
 
@@ -89,8 +89,9 @@ A website that breaks down what TERFs are, what their beliefs are, and has a blo
 
 ## Explainer posts
 
-#### Alt-right
+#### Alt-right, Identitarian, Neo-Nazi, Fascist
 - [**Alt-Right summary by SPLC**](https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right) - Very comprehensive.
+- [**Decrypting the Alt-Right: How to Recognize a F@scist by ContraPoints**](https://www.youtube.com/watch?v=Sx4BVGPkdzk) - A really great and entertaining video that goes into the generic ways that fascists behave online and how to identify them beyond moment-to-moment codewords and markers (which they always shift around).
 - [**What is Weaponised Activism?**](https://medium.com/@melissaryan/what-is-weaponization-836dc8b006b9) - This post quickly and effectively points out the differences between alt-right activism and healthy, reasonable activism, and why the former cannot adequately be protected as free speech. (I mean, this is separated from the bigoted rhetoric itself which is already a perfectly good reason.)
 - [**Japan and the Alternative Right**](https://hopenothate.com/2018/04/20/japan-and-the-alternative-right/) - Or as I like to call it, 'what's with all the anime stuff'?
 

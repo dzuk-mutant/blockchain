@@ -71,18 +71,17 @@ These instances have harassed users of other instances or generally acted abusiv
 
 These instances often advertise themselves as having laissez-faire moderation or as 'not a safe space', what they really mean is that they are a safe space for a variety of violent and/or hateful ideologies, including (but not limited to):
 
-- White supremacy
-- Neo-nazi
-- Alt-right / Alt-light / Identitarian
-- Male supremacy (ie. Manosphere, The Red Pill, PUA, MGTOW, Incel, etc.)
-- Neo-reactionary (which is basically white supremacy and male supremacy but tailored to Silicon Valley)
-- GamerGate
+- White supremacy / Neo-nazi / Alt-right / Alt-light / Identitarian
+- Male supremacy (Manosphere, The Red Pill, PUA, MGTOW, Incel, etc.)
+- Neo-reactionary / GamerGate
+- 'Anarcho'-capitalists, objectivists and other shitty libertarians
 - TERFs/fake goths
-- general anti-LGBTQ+ / homophobia / transphobia / etc.
-- general anti-muslim bigotry
-- Slurs, shitty edglord humour and behaviour
+- General anti-LGBTQ+ / homophobia / transphobia / etc.
+- General anti-muslim bigotry
+- General anti-semitism
+- Shitty edglord humour and behaviour
 
-Some of these are pretty obvious, others, less so. (The ones that are less obvious have links, other are awaiting articles because of the ongoing migration ^^)
+Some of these are pretty obvious, others, less so. (The ones that are less obvious have links, other are awaiting articles because of the ongoing migration from the old list ^^)
 
 - [**comm.network**](instances/comm_network/comm_network.md)
 - [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md)
@@ -109,6 +108,7 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 - **unsafe.space**
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
+- [**waifu.social**](instances/waifu_social/waifu_social.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
 - **wrongthink.net**
 - [**woofer.alfter.us**](instances/woofer_alfter_us/woofer_alfter_us.md)
@@ -139,7 +139,7 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 
 - It promotes psuedoscience that fundamentally attempts to undermine reputable scientific practice. (ie. antivaxxers, flat earthers, climate change denial)
 - It is a hate group conspiracy theory (ie. 'International Jewry', 'Cultural Marxism', 'The Great Replacement', Holocaust Denial).
-- It is one that necessitates or involves hate speech, racialism or other hate ideology.
+- It is one that necessitates or involves hate speech, racism/racialism or other hate ideology.
 
 #### Instances
 
