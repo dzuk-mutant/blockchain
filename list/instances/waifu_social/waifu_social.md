@@ -20,4 +20,4 @@ Feminists are paired with condoms (???? i don't even), LGBT is placed next to 'b
 
 (https://waifu.social/@kiru/100567345085296947)
 
-From an instance admin: "we're not alt-right, we're just sick of SJWs and LGBTs"
+From an instance admin: "we're not alt-right, we're just sick of SJWs and radical LGBTs"
