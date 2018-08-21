@@ -1,6 +1,6 @@
 # waifu.social
 
-***Last updated: 2018.08.17***
+***Last updated: 2018.08.21***
 
 (yes, that's the instance name, idk what's with these people)
 
@@ -21,3 +21,5 @@ Feminists are paired with condoms (???? i don't even), LGBT is placed next to 'b
 (https://waifu.social/@kiru/100567345085296947)
 
 From an instance admin: "we're not alt-right, we're just sick of SJWs and LGBTs"
+
+And if you look at the pleroma instance they just set up, [it won't take long for you to find that the admin is quite open with the idea of spouting racial slurs](../lolis_world/lolis_world.md).

@@ -51,7 +51,7 @@ A more convenient list with linked summaries breaking down examples of hateful d
 #### Old
 [**You can find the old list here.**](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23)
 
-This is the original page for the blocklist. **Contains all examples and all evidence.**
+This is the original page for the blocklist. **Contains various examples and evidence the new list is still missing.**
 
 ---
 
@@ -74,7 +74,7 @@ Unless it's really obvious how bad an instance is by looking at their front page
 
 I was accepting issues on this GitHub, but there were too many people who either didn't care about why they were blocklisted and just wanted to poison the atmosphere or who weren't willing to actually directly address why they were blocked in the first place and I don't really have the time or energy to deal with that.
 
-I made  a while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
+I've made various FAQs in the resources section (further down this page) while back that tries to address some of the common issues some people have with blocklists. It doesn't necessarily cover everything, but it might help.
 
 
 ---
@@ -84,8 +84,6 @@ I made  a while back that tries to address some of the common issues some people
 [**FAQ about BLOCKchain**](info/faq.md)
 
 [**FAQ about blocklisting in general**](http://telegra.ph/MastodonOStatus-Instance-Blocking-FAQ-06-24)
-
-[**Content Policy**](info/content_policy.md)
 
 [**About deleted instances**](info/deleted_instances.md)
 

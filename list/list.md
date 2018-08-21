@@ -90,6 +90,7 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - **gs.mon5t3r.info**
 - [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**karolat.press**](instances/karolat_press/karolat_press.md)
+- [**lolis.world**](instances/lolis_world/lolis_world.md)
 - **pl.smuglo.li**
 - **pleroma.cucked.me**
 - [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
