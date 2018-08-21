@@ -87,6 +87,7 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
 - **freezepeach.xyz**
+- [**freespeech.host**](instances/freespeech_host/freespeech_host.md)
 - **gs.mon5t3r.info**
 - [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**karolat.press**](instances/karolat_press/karolat_press.md)
