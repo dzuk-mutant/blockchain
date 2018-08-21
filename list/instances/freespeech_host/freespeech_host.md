@@ -13,18 +13,16 @@ The usual 'I'm not responsible for your safety' and 'ehhh, politics are just all
 ---
 
 
-One of their users, @y, has a profile bio containing a wide collection of dogwhistles, is posting psuedo-ironic Nazi memes, has a thing with hedonism, orgies and sterilisation (along with the other things this user has said, indicates some pretty fashy tendencies).
+One of their users, @y, has a profile bio containing a wide collection of dogwhistles, is posting psuedo-ironic Nazi memes and other not-great fashy-leaning content.
 
 ![](freespeech_host_y.png)
 
 (https://freespeech.host/users/6003)
 
-Listing the major dogwhistle hashtags:
+The major dogwhistle hashtags:
 
 - `#straightPride` = the thing that homophobes use when they're upset about pride month
 - `#YchromosomeGender` = chromosomes determine gender (a scientifically incorrect gesture aimed at de-legitimising trans people)
-
-The others (especially when you look at the other bits this user has posted) indicate far-right tendencies that emphasises whatever they believe 'virtue' is and that they stand firm against degeneracy and unreasonable queers and bla bla bla.
 
 Yes, I'm sure that you're open to and are going to attract all the opinions with a bio like that. (Notice how they delineate a regressive and inaccurate worldview and then frame it so it looks like they are the adventurous and reasonable one.)
 
