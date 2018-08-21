@@ -87,7 +87,6 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
 - **freezepeach.xyz**
-- [**freespeech.host**](instances/freespeech_host/freespeech_host.md)
 - **gs.mon5t3r.info**
 - [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**karolat.press**](instances/karolat_press/karolat_press.md)
@@ -173,6 +172,7 @@ Instances that have made it clear that they won't remove violent individuals, bu
 
 - [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
 - [**freehold.earth**](instances/freehold_earth/freehold_earth.md)
+- [**freespeech.host**](instances/freespeech_host/freespeech_host.md)
 - [**ika.moe**](instances/ika_moe/ika_moe.md)
 - [**manx.social**](instances/manx_social/manx_social.md)
 - **niu.moe**
