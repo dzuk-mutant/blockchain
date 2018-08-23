@@ -11,7 +11,7 @@
     - Nah, I meant that if you decide to troll feminazis it's your fault for getting shitstormed.
 
 - The admin (unsurprisingly) has made some pretty shitty and abusive toots of their own.
-    - Of course, why should I defend such stupidity as sying being fat is healthy?
+    - Of course, why should I defend such stupidity as saying being fat is healthy?
 
 
 ![](comm_network_100349020301034703.png)
