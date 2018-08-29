@@ -1,4 +1,5 @@
-[
+{
+"block":[
 
   { "domain": "pleroma.rareome.ga"
   , "reasons": ["security-risk", "vsz", "abuse"]
@@ -318,8 +319,7 @@
 
   { "domain": "friends.nico"
   , "reasons": ["corporate"]
-  },
-
-
+  }
 
 ]
+}
