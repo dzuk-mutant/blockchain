@@ -10,6 +10,7 @@ Some are repeated in this list multiple times because they are in different cate
 
 Some of these instances don't exist anymore, but will be staying on for future reference for a variety of factors. [Learn more about how dead instances are handled here.](../info/deleted_instances.md)
 
+**There is a [companion JSON list](json-list.md) if you want to automate.**
 
 
 ## Important notice!
@@ -53,6 +54,7 @@ These instances have harassed users of other instances or generally acted abusiv
 
 .
 
+* **noagenda.social** [no longer exists]
 * [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [no longer exists]
 * [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [no longer exists]
 

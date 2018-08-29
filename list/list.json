@@ -1,0 +1,325 @@
+[
+
+  { "domain": "pleroma.rareome.ga"
+  , "reasons": ["security-risk", "vsz", "abuse"]
+  },
+
+  { "domain": "2hu.club"
+  , "reasons": ["abuse", "underage-porn"]
+  },
+
+  { "domain": "ap.uwu.st"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "noagendasocial.com"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "noagenda.social"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "freespeech.firedragonstudios.com"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "homura.space"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "kowai.youkai.town"
+  , "reasons": ["abuse", "underage-porn"]
+  },
+
+  { "domain": "loli.estate"
+  , "reasons": ["abuse", "underage-porn"]
+  },
+
+  { "domain": "pleroma.yorha.club"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "social.super-niche.club"
+  , "reasons": ["abuse", "underage-porn"]
+  },
+
+  { "domain": "thechad.zone"
+  , "reasons": ["abuse", "vsz"]
+  },
+
+  { "domain": "vampire.estate"
+  , "reasons": ["abuse", "underage-porn"]
+  },
+
+  { "domain": "youkai.town"
+  , "reasons": ["abuse", "underage-porn"]
+  },
+
+  { "domain": "sunshinegardens.org"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "yiff.rocks"
+  , "reasons": ["abuse"]
+  },
+
+  { "domain": "2.distsn.org"
+  , "reasons": ["spam"]
+  },
+
+  { "domain": "comm.network"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "community.highlandarrow.com"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "explosion.party"
+  , "reasons": ["vsz", "dct"]
+  },
+
+  { "domain": "freezepeach.xyz"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "gs.mon5t3r.info"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "jabb.in"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "karolat.press"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "lolis.world"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "pl.smuglo.li"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "pleroma.cucked.me"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "pleroma.soykaf.com"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "pridelands.io"
+  , "reasons": ["vsz", "hostile"]
+  },
+
+  { "domain": "qoto.org"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "rainbowdash.net"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "sealion.club"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "shitasstits.life"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "shitposter.club"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "social.au2pb.net"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "social.i2p.rocks"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "social.guizzyordi.info"
+  , "reasons": ["vsz", "dct"]
+  },
+
+  { "domain": "social.hidamari.blue"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "social.lucci.xyz"
+  , "reasons": ["vsz", "dct"]
+  },
+
+  { "domain": "voluntaryism.club"
+  , "reasons": ["vsz", "dct"]
+  },
+
+  { "domain": "waifu.social"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "unsafe.space"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "weeaboo.space"
+  , "reasons": ["vsz", "underage-porn"]
+  },
+
+  { "domain": "wrongthink.net"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "woofer.alfter.us"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "zerohack.xyz"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "ediot.social"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "gs.smuglo.li"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "gs.kawa-kun.com"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "gs.archae.me"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "hakui.club"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "kawaiistu.moe"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "libertarianism.club"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "npf.mlpol.net"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "social.heldscal.la"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "wogan.im"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "not.phrack.fyi"
+  , "reasons": ["dct"]
+  },
+
+  { "domain": "cofe.moe"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "freehold.earth"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "freespeech.host"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "ika.moe"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "manx.social"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "niu.moe"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "social.targaryen.house"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "social.wiuwiu.de"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "toot.love"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "anitwitter.moe"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "kyot.me"
+  , "reasons": ["ums"]
+  },
+
+  { "domain": "counter.social"
+  , "reasons": ["hostile", "vsz"]
+  },
+
+  { "domain": "baraag.net"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "shitasstits.life"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "social.homunyan.com"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "wxw.moe"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "mastodon.loliandstuff.moe"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "preteengirls.biz"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "social.allthefallen.ninja"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "social.raptorengineering.io"
+  , "reasons": ["advertising"]
+  },
+
+  { "domain": "pawoo.net"
+  , "reasons": ["underage-porn", "corporate"]
+  },
+
+  { "domain": "music.pawoo.net"
+  , "reasons": ["corporate"]
+  },
+
+  { "domain": "friends.nico"
+  , "reasons": ["corporate"]
+  },
+
+
+
+]

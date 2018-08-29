@@ -45,6 +45,8 @@ Don't know how to identify hate speech? Don't worry! I've included links to many
 
 [**You can find the new list here.**](list/list.md)
 
+[**Here's a companion JSON list for automating.**](list/json-list.md)
+
 A more convenient list with linked summaries breaking down examples of hateful discourse within the listed instances when it occurs. Also has a better, tighter editorial style. **This is in development and not complete.** When it is finished, it will be replacing the old one.
 
 

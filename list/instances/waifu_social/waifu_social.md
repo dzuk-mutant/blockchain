@@ -12,7 +12,7 @@ This is a French instance that I was tipped off on. Here are some posts and tran
 
 (https://waifu.social/@ShinikaruZeyd/100567159049366458)
 
-Feminists are paired with condoms (???? i don't even), LGBT is placed next to 'basic biology' (ie. the bizarre false, right-wing idea that somehow the existence of LGBT defies basic human biology).
+Feminists are paired with condoms (???? i don't even), LGBT is placed next to 'basic biology' (implying the bizarre false idea that somehow the existence of LGBT defies basic human biology, or that LGBT people refuse to accept their idea of what 'basic biology' is).
 
 
 ![](waifu_social_100567345085296947.png)
@@ -27,13 +27,15 @@ And if you look at the pleroma instance they just set up, [it won't take long fo
 
 -----
 
-The admin @kiru made a [pull request](https://github.com/dzuk-mutant/blockchain/pull/16) to this repository soon after the two examples shown here were published, proposing two alterations, one of them being the change from 'we're just sick of SJWs and LGBT' to 'we're just sick of SJWs and LGBT extremists' (which is fine and what I did, that's a more accurate literal translation so I changed it to that) and the screenshot PR below.
+The admin @kiru made a [pull request](https://github.com/dzuk-mutant/blockchain/pull/16) to this repository soon after the two examples shown here were published, proposing two alterations, one of them being the change from 'we're just sick of SJWs and LGBT' to 'we're just sick of SJWs and LGBT extremists' and the screenshot PR below.
 
 ![](PR2.png)
 
 (https://github.com/dzuk-mutant/blockchain/pull/16/commits/0554e349d303da64ea764f909e72d83381441fbe)
 
-Neither of them actually change the dogwhistles contained, and in fact, this particular suggested change (which doesn't really mean anything against what I said, I just stated what the image pairs were) only reinforces the dogwhistles I was pointing at.
+The first change fine and what I did, that's a more accurate literal translation so I changed it, but it's not like it changes the implications, especially when you also say 'LGBT don't approve basic biology'.
+
+Neither of these changes actually change the dogwhistles contained, and in fact, this particular suggested change (which doesn't really mean anything against what I said, I just stated what the image pairs were) only reinforces the dogwhistles I was pointing at.
 
 So this idea that I'm misinterpreting them or taking them out of context rings really hollow - the context and meanings were already well established and the admin explicitly reinforced one of them.
 
