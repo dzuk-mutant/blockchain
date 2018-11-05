@@ -46,6 +46,7 @@ These instances have harassed users of other instances or generally acted abusiv
 * [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
 * [**pleroma.yorha.club**](instances/pleroma_yorha_club/pleroma_yorha_club.md)
+* [**social.sunshinegardens.org**](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)
 * [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
@@ -55,7 +56,7 @@ These instances have harassed users of other instances or generally acted abusiv
 .
 
 * **noagenda.social** [no longer exists]
-* [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [no longer exists]
+* [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [now [social.sunshinegardens.org](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)]
 * [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [no longer exists]
 
 
@@ -88,7 +89,9 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**comm.network**](instances/comm_network/comm_network.md)
 - [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
+- [**freespeechextremist.com**](instances/freespeechextremist_com/freespeechextremist_com.md)
 - **freezepeach.xyz**
+- [**goldandblack.xyz**](instances/goldandblack_xyz/goldandblack_xyz.md)
 - **gs.mon5t3r.info**
 - [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**karolat.press**](instances/karolat_press/karolat_press.md)
@@ -100,6 +103,8 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
 - [**qoto.org**](instances/qoto_org/qoto_org.md)
 - **rainbowdash.net**
+- [**liberdon.com**](instances/liberdon_com/liberdon_com.md)
+- [**melalandia.tk**](instances/melalandia_tk/melalandia_tk.md)
 - **sealion.club**
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - **shitposter.club**
@@ -179,6 +184,7 @@ Instances that have made it clear that they won't remove violent individuals, bu
 - [**manx.social**](instances/manx_social/manx_social.md)
 - **niu.moe**
 - **social.targaryen.house**
+- [**socnet.supes.com**](instances/socnet_supes_com/socnet_supes_com.md)
 - [**social.wiuwiu.de**](instances/social_wiuwiu_de/social_wiuwiu_de.md)
 - **toot.love** (https://toot.love/about/more)
 
@@ -193,8 +199,9 @@ Instances that have made it clear that they won't remove violent individuals, bu
 
 This is a miscellaneous group, and each instance is here for their own very specific reasons. I recommend you check out each instance's file.
 
-- [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
 - [**counter.social**](instances/counter_social/counter_social.md)
+- [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
+- [**socnet.supes.com**](instances/socnet_supes_com/socnet_supes_com.md)
 
 ---
 
