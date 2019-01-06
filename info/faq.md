@@ -2,6 +2,17 @@
 
 Hey, this FAQ is mainly about hate speech, since this is the source of most of the hang-ups about blocklisting.
 
+
+---
+
+### Why did you call it BLOCKchain?
+
+Because the typical kinds of people who are targeted by this blocklist really cryptocurrencies (which use blockchains as their basis). Neo-nazis use them frequently for donations, ancaps and neo-feudalists love them from a philosophical angle, despite the fact it guzzles electricity and provides nothing of intrinsic value.
+
+Blockchain itself is quite an over-hyped and useless technology for most applications too.
+
+So for all these reasons I felt it would be fun and catchy to appropriate it for the purposes of blocking.
+
 ---
 
 ### Do you just block right-wing people?

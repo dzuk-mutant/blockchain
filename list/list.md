@@ -4,7 +4,7 @@ This new list breaks off the instances of abuse, hate, etc. that an instance may
 
 Eventually, the goal is to get most instances their own file, and content will be built up as time goes on.
 
-For now, if you still want the most detail, you should look at [The Old List](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23). 
+For now, if you still want the most detail, you should look at [The Old List](http://telegra.ph/Instances-to-silencesuspend-on-Mastodon-06-23).
 
 Some are repeated in this list multiple times because they are in different categories.
 
@@ -42,6 +42,7 @@ These instances have harassed users of other instances or generally acted abusiv
 * [**ap.uwu.st**](instances/ap_uwu_st/ap_uwu_st.md)
 * **noagendasocial.com**
 * [**freespeech.firedragonstudios.com**](instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md)
+* [**gameliberty.club**](instances/gameliberty_club/gameliberty_club.md)
 * [**homura.space**](instances/homura_space/homura_space.md)
 * [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
@@ -112,10 +113,12 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - **social.i2p.rocks**
 - [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
 - **social.hidamari.blue**
+- [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
+- [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md)
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
-- [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 - **unsafe.space**
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
+- [**wagesofsinisdeath.com**](instances/wagesofsinisdeath_com/wagesofsinisdeath_com.md)
 - [**waifu.social**](instances/waifu_social/waifu_social.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
 - **wrongthink.net**
@@ -123,18 +126,21 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
 
 
-.
 
-- **ediot.social** [no longer exists]
-- **gs.smuglo.li** [no longer exists, redirects to pl.smugo.li]
-- **gs.kawa-kun.com** [no longer exists]
-- **gs.archae.me** [no longer exists]
-- [**hakui.club**](instances/hakui_club/hakui_club.md) [no longer exists]
-- [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md) [no longer exists, redirects to [karolat.press](instances/karolat_press/karolat_press.md).]
-- **libertarianism.club** [no longer exists]
-- **npf.mlpol.net** [no longer exists]
-- **social.heldscal.la** [no longer exists]
-- **wogan.im** [no longer exists]
+##### No longer exists
+
+- **ediot.social**
+- **gs.smuglo.li** [redirects to pl.smugo.li]
+- **gs.kawa-kun.com**
+- **gs.archae.me**
+- [**hakui.club**](instances/hakui_club/hakui_club.md)
+- [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md) [redirects to [karolat.press](instances/karolat_press/karolat_press.md).]
+- [**kneegrows.top**](instances/kneegrows_top/kneegrows_top.md)
+- **libertarianism.club**
+- **npf.mlpol.net**
+- **social.heldscal.la**
+- [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
+- **wogan.im**
 
 
 ---
@@ -145,14 +151,15 @@ These instances either distinctly imply or outright promote dangerous or violent
 
 Conspiracy theories can be a complicated subject, and certain kinds are pretty harmless and okay, so for the sake of this list, what makes a conspiracy theory dangerous or violent is one or more of the following:
 
-- It promotes psuedoscience that fundamentally attempts to undermine reputable scientific practice. (ie. antivaxxers, flat earthers, climate change denial)
+- It promotes psuedoscience that fundamentally attempts to undermine (whether intentional or not) reputable scientific practice. (ie. antivaxxers, flat earthers, climate change denial)
 - It is a hate group conspiracy theory (ie. 'International Jewry', 'Cultural Marxism', 'The Great Replacement', Holocaust Denial).
 - It is one that necessitates or involves hate speech, racism/racialism or other hate ideology.
 
-#### Instances
+##### Instances
 
 - [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
 - [**not.phrack.fyi**](instances/not_phrack_fyi/not_phrack_fyi.md)
+- [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md)
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 - [**explosion.party**](instances/explosion_party/explosion_party.md)
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
@@ -175,7 +182,7 @@ Instances that simply have no CoC or no detailed CoC against violent speech aren
 
 Instances that have made it clear that they won't remove violent individuals, but at least will silence them from their end (so they don't bother other instances) are also not on this list.
 
-#### Instances
+##### Instances
 
 - [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
 - [**freehold.earth**](instances/freehold_earth/freehold_earth.md)
@@ -188,9 +195,9 @@ Instances that have made it clear that they won't remove violent individuals, bu
 - [**social.wiuwiu.de**](instances/social_wiuwiu_de/social_wiuwiu_de.md)
 - **toot.love** (https://toot.love/about/more)
 
-.
+##### No longer exists
 
-- **anitwitter.moe** [no longer exists]
+- **anitwitter.moe**
 - [**kyot.me**](instances/kyot_me/kyot_me.md) [doesn't seem to exist as an ActivityPub instance anymore...]
 
 ---
@@ -215,9 +222,12 @@ This isn't necessarily a moral judgement, but it is illegal in most western coun
 
 With this list I am generally going by the word of mods and admins I trust unless I accidentally stumble upon it myself or it's self-evident from the instance description. I generally won't be linking to the material because it would probably be legally fraught for everyone to do so.
 
+##### Instances
 
 - [**2hu.club**](instances/2hu_club/2hu_club.md)
 - **baraag.net** (https://elekk.xyz/@noelle/18828)
+- [**feminism.lgbt**](instances/feminism_lgbt/feminism_lgbt.md)
+- [**gameliberty.club**](instances/gameliberty_club/gameliberty_club.md)
 - [**loli.estate**](instances/loli_estate/loli_estate.md)
 - **Pawoo (pawoo.net)** (Japanese law enforcement on this differs to western countries) (https://github.com/tootcafe/blocked-instances)
 - [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
@@ -229,11 +239,11 @@ With this list I am generally going by the word of mods and admins I trust unles
 - [**youkai.town**](instances/youkai_town/youkai_town.md)
 - [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 
-.
+##### No longer exists
 
-- **mastodon.loliandstuff.moe** [no longer exists]
-- **preteengirls.biz** [no longer exists]
-- **social.allthefallen.ninja** (lolicon and shotacon-oriented space; self-evident from instance description) [no longer exists]
+- **mastodon.loliandstuff.moe**
+- **preteengirls.biz**
+- **social.allthefallen.ninja** (lolicon and shotacon-oriented space; self-evident from instance description)
 
 
 ---
@@ -274,7 +284,7 @@ My personal recommendation would be to suspend these bots.
 
 ## Corporate-owned instances
 
-This may not become a serious issue, but I think it could be a really important thing to keep an eye on for the future. I think that corporate ownership generally conflicts with the idea of social spaces as an emotionally supportive environment (how many of us left Twitter because it tolerates Nazis and doesn't have any real ethical or moral positions?). 
+This may not become a serious issue, but I think it could be a really important thing to keep an eye on for the future. I think that corporate ownership generally conflicts with the idea of social spaces as an emotionally supportive environment (how many of us left Twitter because it tolerates Nazis and doesn't have any real ethical or moral positions?).
 
 They also conflict with the idea of intermingling, spaces with a cooperative relationship to each other (ie. our instances) - corporations expect to dominate 'markets', we provide services based on what we can afford to those who want and need them. I would say that our kind of social networking is potentially an existential threat to corporate social networking, and we shouldn't let them have an inch because they will take a mile. If they ever take an interest in decentralised social networking, they will only care about us insofar that we're good PR for them.
 
@@ -285,5 +295,3 @@ I'm not necessarily saying block these right now (I'm not apart from Pawoo, for 
 - **Pawoo** (pawoo.net) (made and run by Pixiv Inc. [JP])
 - **Pawoo Music** (made and run by Pixiv Inc. [JP])
 - **friends.nico** (run by NicoNico [JP])
-
-

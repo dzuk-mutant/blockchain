@@ -57,6 +57,10 @@
   , "reasons": ["abuse", "underage-porn"]
   },
 
+  { "domain": "gameliberty.club"
+  , "reasons": ["abuse", "underage-porn"]
+  },
+
   { "domain": "sunshinegardens.org"
   , "reasons": ["abuse"]
   },
@@ -202,6 +206,10 @@
   , "reasons": ["vsz"]
   },
 
+  { "domain": "kneegrows.top"
+  , "reasons": ["vsz"]
+  },
+
   { "domain": "woofer.alfter.us"
   , "reasons": ["vsz"]
   },
@@ -298,6 +306,14 @@
   , "reasons": ["ums"]
   },
 
+  { "domain": "wagesofsinisdeath.com"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "social.louisoft01.moe"
+  , "reasons": ["vsz", "dct"]
+  },
+
   { "domain": "counter.social"
   , "reasons": ["hostile", "vsz"]
   },
@@ -319,6 +335,10 @@
   },
 
   { "domain": "mastodon.loliandstuff.moe"
+  , "reasons": ["underage-porn"]
+  },
+
+  { "domain": "feminism.lgbt"
   , "reasons": ["underage-porn"]
   },
 
