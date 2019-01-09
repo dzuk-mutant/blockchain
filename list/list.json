@@ -61,6 +61,10 @@
   , "reasons": ["abuse", "underage-porn"]
   },
 
+  { "domain": "gasthe.lgbt"
+  , "reasons": ["abuse"]
+  },
+
   { "domain": "sunshinegardens.org"
   , "reasons": ["abuse"]
   },
