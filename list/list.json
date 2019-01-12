@@ -58,7 +58,7 @@
   },
 
   { "domain": "gameliberty.club"
-  , "reasons": ["abuse", "underage-porn"]
+  , "reasons": ["abuse", "underage-porn", "vsz"]
   },
 
   { "domain": "sunshinegardens.org"
@@ -109,6 +109,10 @@
   , "reasons": ["vsz"]
   },
 
+  { "domain": "gasthe.lgbt"
+  , "reasons": ["vsz"]
+  },
+
   { "domain": "lolis.world"
   , "reasons": ["vsz"]
   },
@@ -134,6 +138,10 @@
   },
 
   { "domain": "qoto.org"
+  , "reasons": ["vsz"]
+  },
+
+  { "domain": "rapefeminists.network"
   , "reasons": ["vsz"]
   },
 
@@ -339,7 +347,7 @@
   },
 
   { "domain": "feminism.lgbt"
-  , "reasons": ["underage-porn"]
+  , "reasons": ["underage-porn", "vsz"]
   },
 
   { "domain": "preteengirls.biz"
