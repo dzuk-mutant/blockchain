@@ -25,6 +25,10 @@
   , "reasons": ["abuse"]
   },
 
+  { "domain": "mobile.co"
+  , "reasons": ["vsz"]
+  },
+
   { "domain": "homura.space"
   , "reasons": ["abuse"]
   },
