@@ -70,6 +70,11 @@ Feel free to contribute on Mastodon via [@blockchain@monsterpit.net](https://mon
 
 Unless it's really obvious how bad an instance is by looking at their front page, it's important that you bring evidence. Links are especially preferred becuase it means I can verify, archive and screencap them myself.
 
+
+#### Contributors (thanks!):
+
+- @rummik
+
 ---
 
 ## Issues?
