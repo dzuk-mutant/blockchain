@@ -115,7 +115,6 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 - [**social.quodverum.com**](instances/social_quodverum_com/social_quodverum_com.md)
 - **unsafe.space**
-- [**wagesofsinisdeath.com**](instances/wagesofsinisdeath_com/wagesofsinisdeath_com.md)
 - [**waifu.social**](instances/waifu_social/waifu_social.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
 - **wrongthink.net**
@@ -146,6 +145,7 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - **social.heldscal.la**
 - [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
+- [**wagesofsinisdeath.com**](instances/wagesofsinisdeath_com/wagesofsinisdeath_com.md)
 - **wogan.im**
 
 
