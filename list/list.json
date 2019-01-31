@@ -210,6 +210,10 @@
   , "reasons": ["vsz"]
   },
 
+  { "domain": "social.quodverum.com"
+  , "reasons": ["vsz"]
+  },
+
   { "domain": "weeaboo.space"
   , "reasons": ["vsz", "underage-porn"]
   },

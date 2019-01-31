@@ -113,6 +113,7 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - **social.hidamari.blue**
 - [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md)
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
+- [**social.quodverum.com**](instances/social_quodverum_com/social_quodverum_com.md)
 - **unsafe.space**
 - [**wagesofsinisdeath.com**](instances/wagesofsinisdeath_com/wagesofsinisdeath_com.md)
 - [**waifu.social**](instances/waifu_social/waifu_social.md)
