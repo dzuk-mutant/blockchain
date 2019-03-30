@@ -1,6 +1,6 @@
 # not.phrack.fyi
 
-***last updated 2018.06.13***
+***last updated 2019.03.30***
 
 The main reason you would want to block this instance is that the admin actively promotes a bunch of Trump-flavoured conspiracy theories, at least some of which are known as QAnon. Think of QAnon as Pizzagate on steroids (which incidentally, is also a part of QAnon beliefs). 
 
@@ -29,7 +29,7 @@ Another one of his users, @Q, is a bot mirror for qanon.pub, which is a weird 'i
 
 As with other internet services, the only thing Discord has done in response to white nationalists is [close down accounts and servers](https://www.theverge.com/2017/8/14/16145432/discord-nazi-ban-white-supremacist-altright).
 
-(Also if you're scared of the [SPLC](https://splcenter.org), a highly reputable anti-hate group organisation, that's really not a great sign.)
+(Also if you're scared of the SPLC, that's really not a great sign.)
 
 #### Example 4
 

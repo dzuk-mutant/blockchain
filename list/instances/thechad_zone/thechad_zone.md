@@ -1,6 +1,8 @@
 # thechad.zone
 
-This instance's domain name is named after [popular slang](https://rationalwiki.org/wiki/Manosphere_glossary#Chad) in [Male Supremacy](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) spaces.
+***last updated 2019.03.30***
+
+This instance's domain name is named after [popular slang](https://rationalwiki.org/wiki/Manosphere_glossary#Chad) in [Male Supremacy](https://rationalwiki.org/wiki/Manosphere) spaces.
 
 ### example 1
 

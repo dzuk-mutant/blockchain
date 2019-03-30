@@ -33,10 +33,6 @@ It's also often used as a dogwhistle as part of a false narrative currently bein
 
 To be frustrated with institutional racism or be frustrated with behaviour typical of white communities is not the same as attacking and vilifying people for being white. You can't stop being white, but you can change your views or at least have a meaningful discussion about them if someone calls you out for it.
 
-I haven't seen any fediverse entities that act with hateful ideologies with respect to white people, so there's none on this list so far.
-
-[If you want examples of **real** anti-white hate groups, the SPLC has a bunch.](https://www.splcenter.org/fighting-hate/extremist-files/ideology/black-nationalist)
-
 
 ----
 

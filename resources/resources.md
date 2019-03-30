@@ -14,21 +14,9 @@ Because of my background and languages, this is very centered on North American 
 
 Here's a bunch of places that specialise in tracking these subjects. They have varying levels of specialisation or regional focus.
 
-#### [Southern Poverty Law Center](https://www.splcenter.org)
-
-American hate group watch dog, anti-hate campaigner. They are also a legal non-profit fighting hate, discrimination and threats to civil liberties. 
-
-They have been meticulously tracking individual hate groups in the US IRL since 1990. They have recently begun expanding their investigations to online hate groups more.
-
-- [**Hatewatch**](https://www.splcenter.org/hatewatch) - A blog with regular news about the happenings of American hate groups and well-established figures in these movements.
-
-- [**Extremist Files - Ideologies**](https://www.splcenter.org/fighting-hate/extremist-files/ideology) - Neat summaries of common/well-established hate ideologies they tend to encounter in their research and investigations.
-
-<br/>
-
 #### [Hope Not Hate](https://www.hopenothate.org.uk)
 
-British hate group watchdog, and anti-racist political campaign group. They use a combination of standard research, undercover operatives and political counter-campaigning to fight hate groups in the UK.
+British hate group watchdog, and anti-racist political campaign group.
 
 - [**Blog**](https://www.hopenothate.org.uk/updates/blog/)
 
@@ -87,48 +75,35 @@ A website that breaks down what TERFs are, what their beliefs are, and has a blo
 
 <br/>
 
-## Explainer posts
+## Useful articles
 
-#### Alt-right, Identitarian, Neo-Nazi, Fascist
-- [**Alt-Right summary by SPLC**](https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right) - Very comprehensive.
+#### Contemporary White Supremacy
+Alt-right and related movements.
+
+- [**Alt-Right Article on RationalWiki.org**](https://rationalwiki.org/wiki/Alt-right) - [[note 1]](#notes-1)
 - [**Decrypting the Alt-Right: How to Recognize a F@scist by ContraPoints**](https://www.youtube.com/watch?v=Sx4BVGPkdzk) - A really great and entertaining video that goes into the generic ways that fascists behave online and how to identify them beyond moment-to-moment codewords and markers (which they always shift around).
-- [**What is Weaponised Activism?**](https://medium.com/@melissaryan/what-is-weaponization-836dc8b006b9) - This post quickly and effectively points out the differences between alt-right activism and healthy, reasonable activism, and why the former cannot adequately be protected as free speech. (I mean, this is separated from the bigoted rhetoric itself which is already a perfectly good reason.)
-- [**Japan and the Alternative Right**](https://hopenothate.com/2018/04/20/japan-and-the-alternative-right/) - Or as I like to call it, 'what's with all the anime stuff'?
+- [**Charlottesville: The True Alt-Right by Shaun**](https://www.youtube.com/watch?v=zcoYKuoiUrY) A video comparing what members of the alt-right said took place in Charlottesville compared to footage members of the alt-right took themselves on that day.
+- [**What is Weaponised Activism? by Control Alt-Right Delete**](https://medium.com/@melissaryan/what-is-weaponization-836dc8b006b9) - This post quickly and effectively points out the differences between alt-right activism and healthy, reasonable activism, and why the former cannot adequately be protected as free speech. (I mean, this is separated from the bigoted rhetoric itself which is already a perfectly good reason.)
+- [**Japan and the Alternative Right by Control Alt-Right Delete**](https://hopenothate.com/2018/04/20/japan-and-the-alternative-right/) - Or as I like to call it, 'what's with all the anime stuff'?
+- [**Alt-Right Glossary on RationalWiki.org**](https://rationalwiki.org/wiki/Alt-right_glossary) - [[note 1]](#notes-1) A very comprehensive list of in-group terms and buzzwords.
+- [**Nazi symbolism on Wikipedia**](https://en.wikipedia.org/wiki/Nazi_symbolism) - A good primer on nazi symbols, and a lot of these can be seen quite frequently on white nationalists on the internet and IRL (many of these featured quite heavily in the Charlottessville rally of 2017).
 
 
-#### Male Supremacy / Manosphere (MRA, PUA, The Red Pill, Incel, MGTOW, etc.)
-- [**Male Supremacy summary by SPLC**](https://www.splcenter.org/fighting-hate/extremist-files/ideology/male-supremacy) Very comprehensive, and goes across the spectrum of male supremacist beliefs.
 
+#### Male Supremacy / Manosphere
+
+MRA, PUA, The Red Pill, Incel, MGTOW, etc. Also has plenty of overlap with many contemporary white supremacist groups.
+
+- [**Hope Not Hate Explains... The Manosphere**](https://www.hopenothate.org.uk/2017/10/24/hope-not-hate-explains-manosphere/)
+- [**Manosphere article on RationalWiki.org**](https://rationalwiki.org/wiki/Manosphere) - [[note 1]](#notes-1)
+- [**Manosphere Glossary on RationalWiki.org**](https://rationalwiki.org/wiki/Manosphere_glossary) - [[note 1]](#notes-1) Probably the most comprehensive glossary of Manosphere in-group terms that exists right now.
 
 #### Neo-reactionary
 - [**Mouthbreathing Machiavellis Dream of a Silicon Reich**](https://thebaffler.com/latest/mouthbreathing-machiavellis) - A piece summarising the ideological problems, as well as the potential dangers of the neo-reactionary movement.
 
-
-<br/>
-
-----
-
-<br/>
-
-
-## Symbolism and rhetoric
-
-It's important to remember these symbols and words should be treated with some degree of  context (not the psuedo-ironic card the actual culprits like to play however). For instance, people can use [(((echoes)))](https://rationalwiki.org/wiki/Alt-right_glossary#.28.28.28.29.29.29) sarcastically as a form of defiance against anti-semitic abuse.
-
-
-#### Alt-Right
-
-- [**Alt-Right Glossary on RationalWiki.org**](https://rationalwiki.org/wiki/Alt-right_glossary) - [[note 1]](#notes-1) A very comprehensive list of in-group terms and buzzwords.
-
-
-#### Nazi / Neo-Nazi
-- [**Nazi symbolism on Wikipedia**](https://en.wikipedia.org/wiki/Nazi_symbolism) - A good primer on nazi symbols, and a lot of these can be seen quite frequently on white nationalists on the internet and IRL (many of these featured quite heavily in the Charlottessville rally of 2017).
-- [**ADL Hate Symbols Database**](https://www.adl.org/education-and-resources/resource-knowledge-base/hate-symbols?page=4) - It's important to keep in mind that people on the internet with hateful opinions tend to be less overt and won't use these kinds of symbols. Like with the SPLC, a lot of this is related to IRL dedicated and overt hate groups.
-
-#### Male Supremacy / Manosphere (MRA, PUA, The Red Pill, Incel, MGTOW, etc.)
-
-- [**Manosphere Glossary on RationalWiki.org**](https://rationalwiki.org/wiki/Manosphere_glossary) - [[note 1]](#notes-1) Probably the most comprehensive glossary of Manosphere in-group terms that exists right now.
-
+#### GamerGate
+- [**Gamergate's vicious right-wing swell means there can be no neutral stance  - The Guardian**](https://www.theguardian.com/technology/2014/oct/13/gamergate-right-wing-no-neutral-stance)
+- [**GamerGate on RationalWiki.org**](https://rationalwiki.org/wiki/GamerGate) - [[note 1]](#notes-1)
 <br/>
 
 -----
