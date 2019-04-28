@@ -307,3 +307,5 @@ I'm not necessarily saying block these right now (I'm not apart from Pawoo, for 
 - **Pawoo** (pawoo.net) (made and run by Pixiv Inc. [JP])
 - **Pawoo Music** (made and run by Pixiv Inc. [JP])
 - **friends.nico** (run by NicoNico [JP])
+- **mstdn.jp** (run by Kibousoft LLC.)
+- **mastodon.cloud** (run by Kibousoft LLC.)
