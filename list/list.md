@@ -43,19 +43,18 @@ These instances have harassed users of other instances or generally acted abusiv
 * **noagendasocial.com**
 * [**freespeech.firedragonstudios.com**](instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md)
 * [**gameliberty.club**](instances/gameliberty_club/gameliberty_club.md)
+* [**social.sunshinegardens.org**](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)
+* [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
+
+
+##### No longer exists
 * [**homura.space**](instances/homura_space/homura_space.md)
 * [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
 * [**pleroma.yorha.club**](instances/pleroma_yorha_club/pleroma_yorha_club.md)
-* [**social.sunshinegardens.org**](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)
-* [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
 * [**youkai.town**](instances/youkai_town/youkai_town.md)
-
-
-##### No longer exists
-
 * **noagenda.social** [no longer exists]
 * [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [now [social.sunshinegardens.org](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)]
 * [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [no longer exists]
@@ -67,7 +66,7 @@ These instances have harassed users of other instances or generally acted abusiv
 
 #### Instances
 
-- **2.distsn.org**
+- **2.distsn.org** [no longer exists]
 
 ---
 
