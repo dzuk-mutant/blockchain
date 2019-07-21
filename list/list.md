@@ -212,6 +212,7 @@ Instances that have made it clear that they won't remove violent individuals, bu
 
 - [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
 - [**freespeech.host**](instances/freespeech_host/freespeech_host.md)
+- **niu.moe**
 - **social.targaryen.house**
 - **social.librem.one** 
 - [**socnet.supes.com**](instances/socnet_supes_com/socnet_supes_com.md)
