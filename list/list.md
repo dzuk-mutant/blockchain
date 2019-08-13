@@ -114,6 +114,7 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md)
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 - [**social.quodverum.com**](instances/social_quodverum_com/social_quodverum_com.md)
+- [**spinster.xyz**](instances/spinster_xyz/spinster_xyz.md)
 - **unsafe.space**
 - [**waifu.social**](instances/waifu_social/waifu_social.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
