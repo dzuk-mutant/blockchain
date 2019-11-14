@@ -157,7 +157,7 @@ These instances either distinctly imply or outright promote dangerous or violent
 
 Conspiracy theories can be a complicated subject, and certain kinds are pretty harmless and okay, so for the sake of this list, what makes a conspiracy theory dangerous or violent is one or more of the following:
 
-- It promotes psuedoscience that fundamentally attempts to undermine (whether intentional or not) reputable scientific practice. (ie. antivaxxers, flat earthers, climate change denial)
+- It promotes pseudoscience that fundamentally attempts to undermine (whether intentional or not) reputable scientific practice. (ie. antivaxxers, flat earthers, climate change denial)
 - It is a hate group conspiracy theory (ie. 'International Jewry', 'Cultural Marxism', 'The Great Replacement', Holocaust Denial).
 - It is one that necessitates or involves hate speech, racism/racialism or other hate ideology.
 
