@@ -27,9 +27,8 @@ Some of these instances don't exist anymore, but will be staying on for future r
 
 These instances have something in them that compromises the privacy/broadcast levels of posts.
 
+##### No longer exists
 * [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
-
-
 ----
 
 ## Harassment / direct abuse to other people
@@ -37,29 +36,26 @@ These instances have something in them that compromises the privacy/broadcast le
 These instances have harassed users of other instances or generally acted abusively towards them.
 
 ##### Instances
+* **noagenda.social**
+* **noagendasocial.com**
+* [**gameliberty.club**](instances/gameliberty_club/gameliberty_club.md)
+* [**social.sunshinegardens.org**](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)
 
+
+##### No longer exists
 * [**2hu.club**](instances/2hu_club/2hu_club.md)
 * [**ap.uwu.st**](instances/ap_uwu_st/ap_uwu_st.md)
-* **noagendasocial.com**
 * [**freespeech.firedragonstudios.com**](instances/freespeech_firedragonstudios_com/freespeech_firedragonstudios_com.md)
-* [**gameliberty.club**](instances/gameliberty_club/gameliberty_club.md)
 * [**homura.space**](instances/homura_space/homura_space.md)
 * [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 * [**loli.estate**](instances/loli_estate/loli_estate.md)
 * [**pleroma.yorha.club**](instances/pleroma_yorha_club/pleroma_yorha_club.md)
-* [**social.sunshinegardens.org**](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)
 * [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
+* [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [now [social.sunshinegardens.org](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)]
 * [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
 * [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
-* [**youkai.town**](instances/youkai_town/youkai_town.md)
-
-
-##### No longer exists
-
-* **noagenda.social** [no longer exists]
-* [**sunshinegardens.org**](instances/sunshinegardens_org/sunshinegardens_org.md) [now [social.sunshinegardens.org](instances/social_sunshinegardens_org/social_sunshinegardens_org.md)]
 * [**yiff.rocks**](instances/yiff_rocks/yiff_rocks.md) [no longer exists]
-
+* [**youkai.town**](instances/youkai_town/youkai_town.md)
 
 ----
 
@@ -67,6 +63,7 @@ These instances have harassed users of other instances or generally acted abusiv
 
 #### Instances
 
+##### No longer exists
 - **2.distsn.org**
 
 ---
@@ -89,44 +86,29 @@ These instances often advertise themselves as having laissez-faire moderation or
 Some of these are pretty obvious, others, less so. (The ones that are less obvious have links, other are awaiting articles because of the ongoing migration from the old list ^^)
 
 - [**comm.network**](instances/comm_network/comm_network.md)
-- [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md)
-- [**explosion.party**](instances/explosion_party/explosion_party.md)
 - [**freespeechextremist.com**](instances/freespeechextremist_com/freespeechextremist_com.md)
-- **freezepeach.xyz**
 - [**gameliberty.club**](instances/gameliberty_club/gameliberty_club.md)
 - [**goldandblack.xyz**](instances/goldandblack_xyz/goldandblack_xyz.md)
-- [**lolis.world**](instances/lolis_world/lolis_world.md)
 - **pl.smuglo.li**
-- **pleroma.cucked.me**
 - **pleroma.soykaf.com**
 - [**qoto.org**](instances/qoto_org/qoto_org.md)
 - **rainbowdash.net**
-- [**rapefeminists.network**](instances/rapefeminists_network/rapefeminists_network.md)
 - [**liberdon.com**](instances/liberdon_com/liberdon_com.md)
 - [**mobile.co**](instances/mobile_co/mobile_co.md)
-- [**melalandia.tk**](instances/melalandia_tk/melalandia_tk.md)
-- **sealion.club**
-- [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - **shitposter.club**
-- **social.i2p.rocks**
-- [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md)
 - **social.hidamari.blue**
-- [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md)
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
 - [**social.quodverum.com**](instances/social_quodverum_com/social_quodverum_com.md)
-- **unsafe.space**
-- [**waifu.social**](instances/waifu_social/waifu_social.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
-- **wrongthink.net**
-- [**woofer.alfter.us**](instances/woofer_alfter_us/woofer_alfter_us.md)
-- [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md)
 
 
 
 ##### No longer exists
-
-- **ediot.social**
+- [**community.highlandarrow.com**](instances/community_highlandarrow_com/community_highlandarrow_com.md) [subdomain no longer exists]
+- **ediot.social** 
+- [**explosion.party**](instances/explosion_party/explosion_party.md)
 - [**feminism.lgbt**](instances/feminism_lgbt/feminism_lgbt.md)
+- **freezepeach.xyz** 
 - [**gasthe.lgbt**](instances/gasthe_lgbt/gasthe_lgbt.md)
 - **gs.archae.me**
 - **gs.kawa-kun.com**
@@ -138,15 +120,28 @@ Some of these are pretty obvious, others, less so. (The ones that are less obvio
 - [**kawaiistu.moe**](instances/kawaiistu_moe/kawaiistu_moe.md) [redirects to [karolat.press](instances/karolat_press/karolat_press.md).]
 - [**kneegrows.top**](instances/kneegrows_top/kneegrows_top.md)
 - **libertarianism.club**
+- [**lolis.world**](instances/lolis_world/lolis_world.md) 
+- [**melalandia.tk**](instances/melalandia_tk/melalandia_tk.md) [doesn't seem to exist as an ActivityPub instance anymore...]
 - **npf.mlpol.net**
+- **pleroma.cucked.me** [subdomain still alive, returns a 502]
 - [**pleroma.rareome.ga**](instances/pleroma_rareome_ga/pleroma_rareome_ga.md)
 - [**pridelands.io**](instances/pridelands_io/pridelands_io.md)
+- [**rapefeminists.network**](instances/rapefeminists_network/rapefeminists_network.md)
+- [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - **social.au2pb.net**
+- [**social.guizzyordi.info**](instances/social_guizzyordi_info/social_guizzyordi_info.md) [doesn't seem to exist as an ActivityPub instance anymore...]
 - **social.heldscal.la**
+- **social.i2p.rocks** [subdomain still alive, returns a 403]
+- [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md) [doesn't seem to exist as an ActivityPub instance anymore...]
 - [**thechad.zone**](instances/thechad_zone/thechad_zone.md)
+- **unsafe.space**
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
 - [**wagesofsinisdeath.com**](instances/wagesofsinisdeath_com/wagesofsinisdeath_com.md)
+- [**waifu.social**](instances/waifu_social/waifu_social.md)
 - **wogan.im**
+- [**woofer.alfter.us**](instances/woofer_alfter_us/woofer_alfter_us.md)
+- **wrongthink.net**
+- [**zerohack.xyz**](instances/zerohack_xyz/zerohack_xyz.md) [doesn't seem to exist as an ActivityPub instance anymore...]
 
 
 ---
@@ -163,14 +158,14 @@ Conspiracy theories can be a complicated subject, and certain kinds are pretty h
 
 ##### Instances
 
-- [**jabb.in**](instances/jabb_in/jabb_in.md) [inactive with an expired security certificate, but still alive]
-- [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md)
 - [**social.lucci.xyz**](instances/social_lucci_xyz/social_lucci_xyz.md)
-- [**explosion.party**](instances/explosion_party/explosion_party.md)
 
 ##### No longer exists
 
+- [**explosion.party**](instances/explosion_party/explosion_party.md)
+- [**jabb.in**](instances/jabb_in/jabb_in.md)
 - [**not.phrack.fyi**](instances/not_phrack_fyi/not_phrack_fyi.md)
+- [**social.louisoft01.moe**](instances/social_louisoft01_moe/social_louisoft01_moe.md)
 - [**voluntaryism.club**](instances/voluntaryism_club/voluntaryism_club.md)
 
 
@@ -193,8 +188,6 @@ Instances that have made it clear that they won't remove violent individuals, bu
 
 ##### Instances
 
-- [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
-- [**freehold.earth**](instances/freehold_earth/freehold_earth.md)
 - [**freespeech.host**](instances/freespeech_host/freespeech_host.md)
 - **niu.moe**
 - **social.targaryen.house**
@@ -205,10 +198,11 @@ Instances that have made it clear that they won't remove violent individuals, bu
 ##### No longer exists
 
 - **anitwitter.moe**
+- [**cofe.moe**](instances/cofe_moe/cofe_moe.md)
+- [**freehold.earth**](instances/freehold_earth/freehold_earth.md)
 - [**ika.moe**](instances/ika_moe/ika_moe.md) [browser gives a warning this server is no longer configured properly]
 - [**kyot.me**](instances/kyot_me/kyot_me.md) [doesn't seem to exist as an ActivityPub instance anymore...]
-- [**manx.social**](instances/manx_social/manx_social.md) [redirects to kipper.im]
-
+- [**manx.social**](instances/manx_social/manx_social.md)
 ---
 
 ## Other hostile admin conduct
@@ -236,26 +230,26 @@ With this list I am generally going by the word of mods and admins I trust unles
 
 ##### Instances
 
-- [**2hu.club**](instances/2hu_club/2hu_club.md)
 - **baraag.net** (https://elekk.xyz/@noelle/18828)
 - [**gameliberty.club**](instances/gameliberty_club/gameliberty_club.md)
-- [**loli.estate**](instances/loli_estate/loli_estate.md)
 - **Pawoo (pawoo.net)** (Japanese law enforcement on this differs to western countries) (https://github.com/tootcafe/blocked-instances)
-- [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - **social.homunyan.com** (The admin posts and boosts that kind of content.)
-- [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
-- [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
 - [**weeaboo.space**](instances/weeaboo_space/weeaboo_space.md)
 - **wxw.moe** (It has a loli-posting bot called AnimeGirlsBot. The instance is Chinese so I can't talk to the moderator about it but judging from their profile they are totally fine with it.)
-- [**youkai.town**](instances/youkai_town/youkai_town.md)
-- [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
 
 ##### No longer exists
 
+- [**2hu.club**](instances/2hu_club/2hu_club.md)
 - [**feminism.lgbt**](instances/feminism_lgbt/feminism_lgbt.md)
+- [**kowai.youkai.town**](instances/kowai_youkai_town/kowai_youkai_town.md)
+- [**loli.estate**](instances/loli_estate/loli_estate.md)
 - **mastodon.loliandstuff.moe**
 - **preteengirls.biz**
+- [**shitasstits.life**](instances/shitasstits_life/shitasstits_life.md)
 - **social.allthefallen.ninja** (lolicon and shotacon-oriented space; self-evident from instance description)
+- [**social.super-niche.club**](instances/social_super-niche_club/social_super-niche_club.md)
+- [**vampire.estate**](instances/vampire_estate/vampire_estate.md)
+- [**youkai.town**](instances/youkai_town/youkai_town.md)
 
 
 ---
