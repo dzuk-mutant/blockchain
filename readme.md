@@ -1,3 +1,5 @@
+**This list is no longer updated. As always, feel free to fork it and do what you like with it, it's licensed MIT.**
+
 # BLOCKchain (not that kind)
 
 ![](sonny.png)
